@@ -1,0 +1,1136 @@
+Initialize engine version: 2021.3.9f1 (ad3870b89536)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/TabletopCreator/TabletopCreator_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Renderer: NVIDIA RTX A3000 Laptop GPU/PCIe/SSE2
+Vendor:   NVIDIA Corporation
+Version:  4.5.0 NVIDIA 516.94
+GLES:     0
+ GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_cl_event GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_locatio
+n GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_quer
+y GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessella
+tion_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflo
+w_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_pro
+gram_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_tessellation_geometry_shader GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_tex
+ture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_win32 GL_NV_memory_object_sparse GL_EXT_win32_keyed_mutex GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_win32 GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL
+_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap GL_NV_conservative_raster_pre_snap_triangles GL_NV_conservative_raster_underestimation GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_deep_texture3D GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_barycentric GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisa
+mple_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_mesh_shader GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_primitive_shading_rate GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_representative_fragment_test GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_scissor_exclusive GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV
+_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_shader_texture_footprint GL_NV_shading_rate_image GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_dirty_tile_map GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NVX_linked_gpu_multicast GL_NV_gpu_multicast GL_NVX_gpu_multicast2 GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_multigpu_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_t
+hread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum GL_WIN_swap_hint WGL_EXT_swap_control
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 65537
+Microsoft Media Foundation video decoding to texture disabled: graphics device is OpenGL Core, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.808300 ms
+22:29:28 [Settings] Loaded settings
+22:29:28 [Event] LanguageChangeEvent [Lang: en]
+22:29:28 [Analytics] Loaded Client ID: 4cea32c2-6b22-4611-90b0-4e2240ca61c3
+22:29:28 [AnalyticsGA4] Loaded Client ID: 4cea32c2-6b22-4611-90b0-4e2240ca61c3
+22:29:29 [Environment] UID: 101f6cd76926adce42b4ff911672a0a376a1103e (BGUID: e85459a8367ef2e419ace379a2e5a8da)
+22:29:29 [Environment] APP: TabletopCreator 2022.1.14a r461  (BUILD: WindowsPlayer x64 20220907_110450 UTC) (UNITY: 2021.3.9f1) (LANG: en) (DATE: 20221001_202929)
+22:29:29 [Environment] OS: Windows 11  (10.0.22621) 64bit (x64) (LANG: English), CPU: 11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz (Logical Cores: 16), RAM: 31.73 GB
+22:29:29 [Environment] GPU: NVIDIA Corporation - NVIDIA RTX A3000 Laptop GPU/PCIe/SSE2, GPU_DRIVER: OpenGLCore (OpenGL 4.5.0 NVIDIA 516.94), VRAM: 5.88 GB, SCREEN DPI: 240
+22:29:29 [Environment] SHADER_LEVEL: 50, MAX_TEXTURE_SIZE: 32768, COPY_TEXTURE_SUPPORT: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture, COLOR SPACE: Gamma
+22:29:29 [Settings] App Theme: Dark
+22:29:29 [Settings] UI scaling: x2
+22:29:29 [Settings] Automatic backup interval: 300s
+22:29:29 [Settings] Max history commands: 1000
+22:29:29 [Settings] Set items min zoom size: 1cm
+22:29:29 [Settings] Set items max zoom multiplier: x3
+22:29:29 [Settings] Preview max size multiplier: x10
+22:29:29 [Settings] Warmup data import screens on startup: 100%
+22:29:29 [Settings] Max render texture size: 2048px
+22:29:29 [Settings] Blueprint preview texture downscale: x1
+22:29:29 [Settings] Collection preview texture downscale: x1
+22:29:29 [Settings] Export preview texture downscale: x1
+22:29:29 [Settings] Use mipmaps in preview textures: True
+22:29:29 [Settings] Use mipmaps in export preview textures: True
+22:29:29 [Settings] Use mipmaps in icon picker widget textures: True
+22:29:29 [PoolAsync] Set pool capacity target to 50 for ImportExcel_SetMapping prefab
+22:29:29 [PoolAsync] Set pool capacity target to 2000 for ImportExcel_DetailMapping prefab
+22:29:29 [PoolAsync] Set pool capacity target to 1000 for ImportCSV_DetailMapping prefab
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 63078.
+Total: 14.084400 ms (FindLiveObjects: 2.717700 ms CreateObjectMapping: 1.679400 ms MarkObjects: 9.558600 ms  DeleteObjects: 0.128300 ms)
+22:29:29 [Analytics] Start session request
+22:29:29 [Analytics] Event request: General/Open App
+22:29:29 [AnalyticsGA4] Event request: general_open_app
+22:29:29 [Event] ThemeChangeEvent
+22:29:29 [AnalyticsGA4] Internet connectivity: True
+22:29:30 [Analytics] Internet connectivity: True
+22:29:30 [Event] CursorScreenExitEvent
+22:29:30 [Event] ScreenSwitchFinishEvent
+22:29:30 [PoolAsync] Target pool capacity 50 reached for ImportExcel_SetMapping prefab
+22:29:34 [PoolAsync] Toggle warmup service: False
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+22:29:34 [Analytics] Event request: Project/Load
+22:29:34 [AnalyticsGA4] Event request: project_load
+22:29:34 [Project] Load: C:/Users/Asier/Desktop/tabletop-game/tabletop-game.tcp
+22:29:34 [Environment] UID: 101f6cd76926adce42b4ff911672a0a376a1103e (BGUID: e85459a8367ef2e419ace379a2e5a8da)
+22:29:34 [Environment] APP: TabletopCreator 2022.1.14a r461  (BUILD: WindowsPlayer x64 20220907_110450 UTC) (UNITY: 2021.3.9f1) (LANG: en) (DATE: 20221001_202934)
+22:29:34 [Environment] OS: Windows 11  (10.0.22621) 64bit (x64) (LANG: English), CPU: 11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz (Logical Cores: 16), RAM: 31.73 GB
+22:29:34 [Environment] GPU: NVIDIA Corporation - NVIDIA RTX A3000 Laptop GPU/PCIe/SSE2, GPU_DRIVER: OpenGLCore (OpenGL 4.5.0 NVIDIA 516.94), VRAM: 5.88 GB, SCREEN DPI: 240
+22:29:34 [Environment] SHADER_LEVEL: 50, MAX_TEXTURE_SIZE: 32768, COPY_TEXTURE_SUPPORT: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture, COLOR SPACE: Gamma
+22:29:34 [Settings] App Theme: Dark
+22:29:34 [Settings] UI scaling: x2
+22:29:34 [Settings] Automatic backup interval: 300s
+22:29:34 [Settings] Max history commands: 1000
+22:29:34 [Settings] Set items min zoom size: 1cm
+22:29:34 [Settings] Set items max zoom multiplier: x3
+22:29:34 [Settings] Preview max size multiplier: x10
+22:29:34 [Settings] Warmup data import screens on startup: 100%
+22:29:34 [Settings] Max render texture size: 2048px
+22:29:34 [Settings] Blueprint preview texture downscale: x1
+22:29:34 [Settings] Collection preview texture downscale: x1
+22:29:34 [Settings] Export preview texture downscale: x1
+22:29:34 [Settings] Use mipmaps in preview textures: True
+22:29:34 [Settings] Use mipmaps in export preview textures: True
+22:29:34 [Settings] Use mipmaps in icon picker widget textures: True
+22:29:34 [Event] ProjectLoadEvent [FilePath: C:/Users/Asier/Desktop/tabletop-game/tabletop-game.tcp]
+22:29:34 [Font] Load system font: Calibri
+22:29:34 [Event] CollectionScreenToggleSetPreviewEvent [Set: set_001, Visible: True]
+22:29:34 [History] Clear
+22:29:34 [Font] Load system font: Agency FB
+22:29:34 [Font] Load system font: Algerian
+22:29:34 [Font] Load system font: Amatic SC
+22:29:34 [Font] Load system font: Arial
+22:29:34 [Font] Load system font: Arial Black
+22:29:34 [Font] Load system font: Arial Bold
+22:29:34 [Font] Load system font: Arial Bold Italic
+22:29:34 [Font] Load system font: Arial Italic
+22:29:34 [Font] Load system font: Arial Narrow
+22:29:34 [Font] Load system font: Arial Narrow Bold
+22:29:34 [Font] Load system font: Arial Narrow Bold Italic
+22:29:34 [Font] Load system font: Arial Narrow Italic
+22:29:34 [Font] Load system font: Arial Rounded MT Bold
+22:29:34 [Font] Load system font: Bahnschrift
+22:29:34 [Font] Load system font: Bahnschrift Condensed
+22:29:34 [Font] Load system font: Bahnschrift Light
+22:29:34 [Font] Load system font: Bahnschrift Light Condensed
+22:29:34 [Font] Load system font: Bahnschrift Light SemiCondensed
+22:29:34 [Font] Load system font: Bahnschrift SemiBold
+22:29:34 [Font] Load system font: Bahnschrift SemiBold Condensed
+22:29:34 [Font] Load system font: Bahnschrift SemiBold SemiConden
+22:29:34 [Font] Load system font: Bahnschrift SemiCondensed
+22:29:34 [Font] Load system font: Bahnschrift SemiLight
+22:29:34 [Font] Load system font: Bahnschrift SemiLight Condensed
+22:29:34 [Font] Load system font: Bahnschrift SemiLight SemiConde
+22:29:34 [Font] Load system font: Base 05
+22:29:34 [Font] Load system font: Baskerville Old Face
+22:29:34 [Font] Load system font: Bauhaus 93
+22:29:34 [Font] Load system font: Bell MT
+22:29:34 [Font] Load system font: Bell MT Bold
+22:29:34 [Font] Load system font: Bell MT Italic
+22:29:34 [Font] Load system font: Berlin Sans FB
+22:29:34 [Font] Load system font: Berlin Sans FB Demi
+22:29:34 [Font] Load system font: Bernard MT Condensed
+22:29:34 [Font] Load system font: Blackadder ITC
+22:29:34 [Font] Load system font: Bodoni MT
+22:29:34 [Font] Load system font: Bodoni MT Black
+22:29:34 [Font] Load system font: Bodoni MT Condensed
+22:29:34 [Font] Load system font: Bodoni MT Condensed Italic
+22:29:34 [Font] Load system font: Bodoni MT Italic
+22:29:34 [Font] Load system font: Bodoni MT Poster Compressed
+22:29:34 [Font] Load system font: Book Antiqua
+22:29:34 [Font] Load system font: Book Antiqua Italic
+22:29:34 [Font] Load system font: Bookman Old Style
+22:29:34 [Font] Load system font: Bookman Old Style Bold
+22:29:34 [Font] Load system font: Bookman Old Style Bold Italic
+22:29:34 [Font] Load system font: Bookman Old Style Italic
+22:29:34 [Font] Load system font: Bookshelf Symbol 7
+22:29:34 [Font] Load system font: Bradley Hand ITC
+22:29:34 [Font] Load system font: Britannic Bold
+22:29:34 [Font] Load system font: Broadway
+22:29:34 [Font] Load system font: Brush Script MT
+22:29:34 [Font] Load system font: Calibri Bold
+22:29:34 [Font] Load system font: Calibri Bold Italic
+22:29:34 [Font] Load system font: Calibri Italic
+22:29:34 [Font] Load system font: Calibri Light
+22:29:34 [Font] Load system font: Calibri Light Italic
+22:29:34 [Font] Load system font: Californian FB
+22:29:34 [Font] Load system font: Calisto MT
+22:29:34 [Font] Load system font: Calisto MT Bold
+22:29:34 [Font] Load system font: Calisto MT Bold Italic
+22:29:34 [Font] Load system font: Calisto MT Italic
+22:29:34 [Font] Load system font: Cambria
+22:29:34 [Font] Load system font: Cambria Bold
+22:29:34 [Font] Load system font: Cambria Bold Italic
+22:29:34 [Font] Load system font: Cambria Italic
+22:29:34 [Font] Load system font: Cambria Math
+22:29:34 [Font] Load system font: Candara
+22:29:34 [Font] Load system font: Candara Bold
+22:29:34 [Font] Load system font: Candara Bold Italic
+22:29:34 [Font] Load system font: Candara Italic
+22:29:34 [Font] Load system font: Candara Light
+22:29:34 [Font] Load system font: Candara Light Italic
+22:29:34 [Font] Load system font: Castellar
+22:29:34 [Font] Load system font: Caviar Dreams
+22:29:34 [Font] Load system font: Centaur
+22:29:34 [Font] Load system font: Century
+22:29:34 [Font] Load system font: Century Gothic
+22:29:34 [Font] Load system font: Century Gothic Bold
+22:29:34 [Font] Load system font: Century Gothic Bold Italic
+22:29:34 [Font] Load system font: Century Gothic Italic
+22:29:34 [Font] Load system font: Century Schoolbook
+22:29:34 [Font] Load system font: Century Schoolbook Italic
+22:29:34 [Font] Load system font: Chiller
+22:29:34 [Font] Load system font: Colonna MT
+22:29:34 [Font] Load system font: Comic Sans MS
+22:29:34 [Font] Load system font: Comic Sans MS Bold
+22:29:34 [Font] Load system font: Comic Sans MS Bold Italic
+22:29:34 [Font] Load system font: Comic Sans MS Italic
+22:29:34 [Font] Load system font: Consolas
+22:29:34 [Font] Load system font: Consolas Bold
+22:29:34 [Font] Load system font: Consolas Bold Italic
+22:29:34 [Font] Load system font: Consolas Italic
+22:29:34 [Font] Load system font: Constantia
+22:29:34 [Font] Load system font: Constantia Bold
+22:29:34 [Font] Load system font: Constantia Bold Italic
+22:29:34 [Font] Load system font: Constantia Italic
+22:29:34 [Font] Load system font: Cooper Black
+22:29:34 [Font] Load system font: Copperplate Gothic Bold
+22:29:34 [Font] Load system font: Copperplate Gothic Light
+22:29:34 [Font] Load system font: Corbel
+22:29:34 [Font] Load system font: Corbel Bold
+22:29:34 [Font] Load system font: Corbel Bold Italic
+22:29:34 [Font] Load system font: Corbel Italic
+22:29:34 [Font] Load system font: Corbel Light
+22:29:34 [Font] Load system font: Corbel Light Italic
+22:29:34 [Font] Load system font: Courier New
+22:29:34 [Font] Load system font: Courier New Bold
+22:29:34 [Font] Load system font: Courier New Bold Italic
+22:29:34 [Font] Load system font: Courier New Italic
+22:29:34 [Font] Load system font: Curlz MT
+22:29:34 [Font] Load system font: DejaVu Serif
+22:29:34 [Font] Load system font: Droid Sans
+22:29:34 [Font] Load system font: Dubai
+22:29:34 [Font] Load system font: Dubai Light
+22:29:34 [Font] Load system font: Dubai Medium
+22:29:34 [Font] Load system font: Ebrima
+22:29:34 [Font] Load system font: Ebrima Bold
+22:29:34 [Font] Load system font: Edwardian Script ITC
+22:29:34 [Font] Load system font: Elephant
+22:29:34 [Font] Load system font: Elephant Italic
+22:29:34 [Font] Load system font: Engravers MT
+22:29:34 [Font] Load system font: Eras Bold ITC
+22:29:34 [Font] Load system font: Eras Demi ITC
+22:29:34 [Font] Load system font: Eras Light ITC
+22:29:34 [Font] Load system font: Eras Medium ITC
+22:29:34 [Font] Load system font: Exo
+22:29:34 [Font] Load system font: Felix Titling
+22:29:34 [Font] Load system font: Fira Sans
+22:29:34 [Font] Load system font: Footlight MT Light
+22:29:34 [Font] Load system font: Forte
+22:29:34 [Font] Load system font: Franklin Gothic Book
+22:29:34 [Font] Load system font: Franklin Gothic Book Italic
+22:29:34 [Font] Load system font: Franklin Gothic Demi
+22:29:34 [Font] Load system font: Franklin Gothic Demi Cond
+22:29:34 [Font] Load system font: Franklin Gothic Demi Italic
+22:29:34 [Font] Load system font: Franklin Gothic Heavy
+22:29:34 [Font] Load system font: Franklin Gothic Heavy Italic
+22:29:34 [Font] Load system font: Franklin Gothic Medium
+22:29:34 [Font] Load system font: Franklin Gothic Medium Cond
+22:29:34 [Font] Load system font: Franklin Gothic Medium Italic
+22:29:34 [Font] Load system font: Freestyle Script
+22:29:34 [Font] Load system font: French Script MT
+22:29:34 [Font] Load system font: Gabriola
+22:29:34 [Font] Load system font: Gadugi
+22:29:34 [Font] Load system font: Gadugi Bold
+22:29:34 [Font] Load system font: Garamond
+22:29:34 [Font] Load system font: Garamond Bold
+22:29:34 [Font] Load system font: Garamond Italic
+22:29:34 [Font] Load system font: Georgia
+22:29:34 [Font] Load system font: Georgia Bold
+22:29:34 [Font] Load system font: Georgia Bold Italic
+22:29:34 [Font] Load system font: Georgia Italic
+22:29:34 [Font] Load system font: Gigi
+22:29:34 [Font] Load system font: Gill Sans MT
+22:29:34 [Font] Load system font: Gill Sans MT Condensed
+22:29:34 [Font] Load system font: Gill Sans MT Ext Condensed Bold
+22:29:34 [Font] Load system font: Gill Sans Ultra Bold
+22:29:34 [Font] Load system font: Gill Sans Ultra Bold Condensed
+22:29:34 [Font] Load system font: Gloucester MT Extra Condensed
+22:29:34 [Font] Load system font: Goudy Old Style
+22:29:34 [Font] Load system font: Goudy Old Style Bold
+22:29:34 [Font] Load system font: Goudy Old Style Italic
+22:29:34 [Font] Load system font: Goudy Stout
+22:29:34 [Font] Load system font: Haettenschweiler
+22:29:34 [Font] Load system font: Harlow Solid Italic
+22:29:34 [Font] Load system font: Harrington
+22:29:34 [Font] Load system font: High Tower Text
+22:29:34 [Font] Load system font: High Tower Text Italic
+22:29:34 [Font] Load system font: HoloLens MDL2 Assets
+22:29:34 [Font] Load system font: Impact
+22:29:34 [Font] Load system font: Imprint MT Shadow
+22:29:34 [Font] Load system font: Informal Roman
+22:29:34 [Font] Load system font: Ink Free
+22:29:34 [Font] Load system font: Javanese Text
+22:29:34 [Font] Load system font: Jokerman
+22:29:34 [Font] Load system font: Juice ITC
+22:29:34 [Font] Load system font: Kristen ITC
+22:29:34 [Font] Load system font: Kunstler Script
+22:29:34 [Font] Load system font: Lato
+22:29:34 [Font] Load system font: Leelawadee UI
+22:29:34 [Font] Load system font: Leelawadee UI Semilight
+22:29:34 [Font] Load system font: Lucida Bright
+22:29:34 [Font] Load system font: Lucida Bright Italic
+22:29:34 [Font] Load system font: Lucida Calligraphy
+22:29:34 [Font] Load system font: Lucida Console
+22:29:34 [Font] Load system font: Lucida Fax
+22:29:34 [Font] Load system font: Lucida Fax Italic
+22:29:34 [Font] Load system font: Lucida Handwriting
+22:29:34 [Font] Load system font: Lucida Sans
+22:29:34 [Font] Load system font: Lucida Sans Italic
+22:29:34 [Font] Load system font: Lucida Sans Typewriter
+22:29:34 [Font] Load system font: Lucida Sans Typewriter Bold
+22:29:34 [Font] Load system font: Lucida Sans Unicode
+22:29:34 [Font] Load system font: Magneto
+22:29:34 [Font] Load system font: Maiandra GD
+22:29:34 [Font] Load system font: Malgun Gothic
+22:29:34 [Font] Load system font: Malgun Gothic Bold
+22:29:34 [Font] Load system font: Malgun Gothic Semilight
+22:29:34 [Font] Load system font: Marlett
+22:29:34 [Font] Load system font: Matura MT Script Capitals
+22:29:34 [Font] Load system font: Microsoft Himalaya
+22:29:34 [Font] Load system font: Microsoft JhengHei
+22:29:34 [Font] Load system font: Microsoft JhengHei Bold
+22:29:34 [Font] Load system font: Microsoft JhengHei Light
+22:29:34 [Font] Load system font: Microsoft JhengHei UI
+22:29:34 [Font] Load system font: Microsoft JhengHei UI Bold
+22:29:34 [Font] Load system font: Microsoft JhengHei UI Light
+22:29:34 [Font] Load system font: Microsoft New Tai Lue
+22:29:34 [Font] Load system font: Microsoft New Tai Lue Bold
+22:29:34 [Font] Load system font: Microsoft PhagsPa
+22:29:34 [Font] Load system font: Microsoft PhagsPa Bold
+22:29:34 [Font] Load system font: Microsoft Sans Serif
+22:29:34 [Font] Load system font: Microsoft Tai Le
+22:29:34 [Font] Load system font: Microsoft Tai Le Bold
+22:29:34 [Font] Load system font: Microsoft YaHei
+22:29:34 [Font] Load system font: Microsoft YaHei Bold
+22:29:34 [Font] Load system font: Microsoft YaHei Light
+22:29:34 [Font] Load system font: Microsoft YaHei UI
+22:29:34 [Font] Load system font: Microsoft YaHei UI Bold
+22:29:34 [Font] Load system font: Microsoft YaHei UI Light
+22:29:34 [Font] Load system font: Microsoft Yi Baiti
+22:29:34 [Font] Load system font: MingLiU_HKSCS-ExtB
+22:29:34 [Font] Load system font: MingLiU-ExtB
+22:29:34 [Font] Load system font: Mistral
+22:29:34 [Font] Load system font: Modern No. 20
+22:29:34 [Font] Load system font: Mongolian Baiti
+22:29:34 [Font] Load system font: Monotype Corsiva
+22:29:34 [Font] Load system font: MS Gothic
+22:29:34 [Font] Load system font: MS Outlook
+22:29:34 [Font] Load system font: MS PGothic
+22:29:34 [Font] Load system font: MS Reference Sans Serif
+22:29:34 [Font] Load system font: MS Reference Specialty
+22:29:34 [Font] Load system font: MS UI Gothic
+22:29:34 [Font] Load system font: MT Extra
+22:29:34 [Font] Load system font: MV Boli
+22:29:34 [Font] Load system font: Myanmar Text
+22:29:34 [Font] Load system font: Myanmar Text Bold
+22:29:34 [Font] Load system font: Niagara Engraved
+22:29:34 [Font] Load system font: Niagara Solid
+22:29:34 [Font] Load system font: NimbusSanL
+22:29:34 [Font] Load system font: Nirmala UI
+22:29:34 [Font] Load system font: Nirmala UI Bold
+22:29:34 [Font] Load system font: Nirmala UI Semilight
+22:29:34 [Font] Load system font: Noto Sans
+22:29:34 [Font] Load system font: NSimSun
+22:29:34 [Font] Load system font: NVIDIA Sans
+22:29:34 [Font] Load system font: NVIDIA Sans Light
+22:29:34 [Font] Load system font: NVIDIA Sans Light Italic
+22:29:34 [Font] Load system font: NVIDIA Sans Medium
+22:29:34 [Font] Load system font: NVIDIA Sans Medium Italic
+22:29:34 [Font] Load system font: OCR A Extended
+22:29:34 [Font] Load system font: Old English Text MT
+22:29:34 [Font] Load system font: Onyx
+22:29:34 [Font] Load system font: Open Sans
+22:29:34 [Font] Load system font: Open Sans Extrabold
+22:29:34 [Font] Load system font: Open Sans Light
+22:29:34 [Font] Load system font: Open Sans Semibold
+22:29:34 [Font] Load system font: Palace Script MT
+22:29:34 [Font] Load system font: Palatino Linotype
+22:29:34 [Font] Load system font: Palatino Linotype Bold
+22:29:34 [Font] Load system font: Palatino Linotype Bold Italic
+22:29:34 [Font] Load system font: Palatino Linotype Italic
+22:29:34 [Font] Load system font: Papyrus
+22:29:34 [Font] Load system font: Parchment
+22:29:34 [Font] Load system font: Perpetua
+22:29:34 [Font] Load system font: Perpetua Titling MT
+22:29:34 [Font] Load system font: Play
+22:29:34 [Font] Load system font: Playbill
+22:29:34 [Font] Load system font: PMingLiU-ExtB
+22:29:34 [Font] Load system font: Poor Richard
+22:29:34 [Font] Load system font: Pristina
+22:29:34 [Font] Load system font: Quicksand
+22:29:34 [Font] Load system font: Rage Italic
+22:29:34 [Font] Load system font: Raleway
+22:29:34 [Font] Load system font: Ravie
+22:29:34 [Font] Load system font: Roboto Slab
+22:29:34 [Font] Load system font: Rockwell
+22:29:34 [Font] Load system font: Rockwell Bold
+22:29:34 [Font] Load system font: Rockwell Bold Italic
+22:29:34 [Font] Load system font: Rockwell Condensed
+22:29:34 [Font] Load system font: Rockwell Extra Bold
+22:29:34 [Font] Load system font: Rockwell Italic
+22:29:34 [Font] Load system font: Sans Serif Collection
+22:29:34 [Font] Load system font: Script MT Bold
+22:29:34 [Font] Load system font: Segoe Fluent Icons
+22:29:34 [Font] Load system font: Segoe MDL2 Assets
+22:29:34 [Font] Load system font: Segoe Print
+22:29:34 [Font] Load system font: Segoe Print Bold
+22:29:34 [Font] Load system font: Segoe Script
+22:29:34 [Font] Load system font: Segoe Script Bold
+22:29:34 [Font] Load system font: Segoe UI
+22:29:34 [Font] Load system font: Segoe UI Black
+22:29:34 [Font] Load system font: Segoe UI Black Italic
+22:29:34 [Font] Load system font: Segoe UI Bold
+22:29:34 [Font] Load system font: Segoe UI Bold Italic
+22:29:34 [Font] Load system font: Segoe UI Emoji
+22:29:34 [Font] Load system font: Segoe UI Historic
+22:29:34 [Font] Load system font: Segoe UI Italic
+22:29:34 [Font] Load system font: Segoe UI Light
+22:29:34 [Font] Load system font: Segoe UI Semibold
+22:29:34 [Font] Load system font: Segoe UI Semibold Italic
+22:29:34 [Font] Load system font: Segoe UI Semilight
+22:29:34 [Font] Load system font: Segoe UI Symbol
+22:29:34 [Font] Load system font: Segoe UI Variable Display
+22:29:34 [Font] Load system font: Segoe UI Variable Display Light
+22:29:34 [Font] Load system font: Segoe UI Variable Display Semib
+22:29:34 [Font] Load system font: Segoe UI Variable Display Semil
+22:29:34 [Font] Load system font: Segoe UI Variable Small
+22:29:34 [Font] Load system font: Segoe UI Variable Small Light
+22:29:34 [Font] Load system font: Segoe UI Variable Small Semibol
+22:29:34 [Font] Load system font: Segoe UI Variable Small Semilig
+22:29:34 [Font] Load system font: Segoe UI Variable Text
+22:29:34 [Font] Load system font: Segoe UI Variable Text Light
+22:29:34 [Font] Load system font: Segoe UI Variable Text Semibold
+22:29:34 [Font] Load system font: Segoe UI Variable Text Semiligh
+22:29:34 [Font] Load system font: Showcard Gothic
+22:29:34 [Font] Load system font: SimSun
+22:29:34 [Font] Load system font: SimSun-ExtB
+22:29:34 [Font] Load system font: Sitka Banner
+22:29:34 [Font] Load system font: Sitka Banner Semibold
+22:29:34 [Font] Load system font: Sitka Display
+22:29:34 [Font] Load system font: Sitka Display Semibold
+22:29:34 [Font] Load system font: Sitka Heading
+22:29:34 [Font] Load system font: Sitka Heading Semibold
+22:29:34 [Font] Load system font: Sitka Small
+22:29:34 [Font] Load system font: Sitka Small Semibold
+22:29:34 [Font] Load system font: Sitka Subheading
+22:29:34 [Font] Load system font: Sitka Subheading Semibold
+22:29:34 [Font] Load system font: Sitka Text
+22:29:34 [Font] Load system font: Sitka Text Semibold
+22:29:34 [Font] Load system font: Snap ITC
+22:29:34 [Font] Load system font: Stencil
+22:29:34 [Font] Load system font: Sylfaen
+22:29:34 [Font] Load system font: Symbol
+22:29:34 [Font] Load system font: Tahoma
+22:29:34 [Font] Load system font: Tahoma Bold
+22:29:34 [Font] Load system font: Tempus Sans ITC
+22:29:34 [Font] Load system font: Times New Roman
+22:29:34 [Font] Load system font: Times New Roman Bold
+22:29:34 [Font] Load system font: Times New Roman Bold Italic
+22:29:34 [Font] Load system font: Times New Roman Italic
+22:29:34 [Font] Load system font: Trebuchet MS
+22:29:34 [Font] Load system font: Trebuchet MS Bold
+22:29:34 [Font] Load system font: Trebuchet MS Bold Italic
+22:29:34 [Font] Load system font: Trebuchet MS Italic
+22:29:34 [Font] Load system font: Tw Cen MT
+22:29:34 [Font] Load system font: Tw Cen MT Condensed
+22:29:34 [Font] Load system font: Tw Cen MT Condensed Extra Bold
+22:29:34 [Font] Load system font: Ubuntu
+22:29:34 [Font] Load system font: Verdana
+22:29:34 [Font] Load system font: Verdana Bold
+22:29:34 [Font] Load system font: Verdana Bold Italic
+22:29:34 [Font] Load system font: Verdana Italic
+22:29:34 [Font] Load system font: Viner Hand ITC
+22:29:34 [Font] Load system font: Vivaldi
+22:29:34 [Font] Load system font: Vladimir Script
+22:29:34 [Font] Load system font: Vollkorn
+22:29:34 [Font] Load system font: Webdings
+22:29:34 [Font] Load system font: Wide Latin
+22:29:34 [Font] Load system font: Wingdings
+22:29:34 [Font] Load system font: Wingdings 2
+22:29:34 [Font] Load system font: Wingdings 3
+22:29:34 [Font] Load system font: Yu Gothic
+22:29:34 [Font] Load system font: Yu Gothic Light
+22:29:34 [Font] Load system font: Yu Gothic Medium
+22:29:34 [Font] Load system font: Yu Gothic UI
+22:29:34 [Font] Load system font: Yu Gothic UI Light
+22:29:34 [Font] Load system font: Yu Gothic UI Semibold
+22:29:35 [Font] Load system font: Yu Gothic UI Semilight
+22:29:35 [Font] Load system font: ZWAdobeF
+22:29:35 [PoolAsync] Toggle warmup service: True
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 339626.
+Total: 94.390000 ms (FindLiveObjects: 27.816900 ms CreateObjectMapping: 5.903500 ms MarkObjects: 58.598300 ms  DeleteObjects: 2.068900 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+22:29:35 [Event] NotificationMessageEvent [Type: Info (-1), Title: Project loaded]
+22:29:35 [History] Push: UIScreenSwitch
+22:29:35 [Event] ScreenSwitchEvent [Screen: Collection]
+22:29:35 [Analytics] Hit screen request
+22:29:35 [AnalyticsGA4] Hit screen request
+22:29:35 [History] Clear
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 340822.
+Total: 86.662600 ms (FindLiveObjects: 20.380000 ms CreateObjectMapping: 2.530400 ms MarkObjects: 62.328800 ms  DeleteObjects: 1.422500 ms)
+22:29:35 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:29:35 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:29:35 [Event] ScreenSwitchFinishEvent
+22:29:37 [Analytics] Sending cached request (Time delta: 8)
+22:29:37 [Analytics] Sending cached request (Time delta: 8)
+22:29:37 [AnalyticsGA4] Sending cached request (Time delta: 8000)
+22:29:38 [Event] CursorScreenExitEvent
+22:29:38 [Event] CursorScreenExitEvent
+22:29:46 [Event] CursorScreenExitEvent
+22:29:48 [PoolAsync] Target pool capacity 2000 reached for ImportExcel_DetailMapping prefab
+22:29:48 [Event] CursorScreenExitEvent
+22:29:56 [PoolAsync] Target pool capacity 1000 reached for ImportCSV_DetailMapping prefab
+22:39:30 [AnalyticsGA4] Internet connectivity: True
+22:39:30 [Analytics] Internet connectivity: True
+22:42:29 [Event] CursorScreenExitEvent
+22:42:29 [Event] CursorScreenExitEvent
+22:42:30 [Event] CursorScreenExitEvent
+22:43:14 [Event] CursorScreenExitEvent
+22:45:35 [Event] CursorScreenExitEvent
+22:47:07 [Event] CursorScreenExitEvent
+22:47:11 [Event] CursorScreenExitEvent
+22:48:23 [Event] CursorScreenExitEvent
+22:48:23 [Event] CursorScreenExitEvent
+22:48:25 [Event] CursorScreenExitEvent
+22:48:25 [Event] CursorScreenExitEvent
+22:48:28 [Event] CursorScreenExitEvent
+22:48:31 [Event] CursorScreenExitEvent
+22:48:34 [Event] CursorScreenExitEvent
+22:48:36 [Event] CursorScreenExitEvent
+22:48:37 [Event] CursorScreenExitEvent
+22:48:37 [Event] CursorScreenExitEvent
+22:48:41 [Event] CollectionScreenSelectItemEvent
+22:48:41 [Event] CollectionScreenSelectPanelEvent [Panel: text_top]
+22:48:41 [Event] SetDetailNewEvent [Detail: detail_001]
+22:48:41 [Event] SetDetailRenameEvent [Detail: text_top]
+22:48:41 [History] Push: UICollectionEditItem
+22:48:41 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+22:49:10 [Event] CursorScreenExitEvent
+22:49:16 [Event] CursorScreenExitEvent
+22:49:17 [History] Push: UICollectionSelectPanel
+22:49:17 [Event] CollectionScreenSelectPanelEvent [Panel: logo]
+22:49:17 [Event] SetDetailNewEvent [Detail: detail_001]
+22:49:17 [Event] SetDetailRenameEvent [Detail: logo]
+22:49:17 [History] Push: UICollectionSelectPanel
+22:49:17 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+22:49:17 [Event] SetDetailNewEvent [Detail: detail_001]
+22:49:17 [Event] SetDetailRenameEvent [Detail: border]
+22:49:20 [History] Push: UICollectionSelectPanel
+22:49:20 [Event] CollectionScreenSelectPanelEvent [Panel: logo]
+22:49:20 [History] Push: UICollectionSelectPanel
+22:49:20 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+22:49:20 [History] Push: UICollectionSelectPanel
+22:49:20 [Event] CollectionScreenSelectPanelEvent [Panel: logo]
+22:49:35 [History] Push: SetDetailSetData
+22:49:35 [Event] SetDetailSetDataEvent [Detail: logo, ID: value, Localization: , Data: C:/Users/Asier/Desktop/mujeres nasa/Kathryn P. Hire/2.png]
+22:49:35 [Project] Set Dirty
+22:49:35 [Event] TextureImageEvent [Path: C:/Users/Asier/Desktop/mujeres nasa/Kathryn P. Hire/2.png, Requested: False, IsProcessing: False, TimeMs: 407, Priority: 0, Error:  ]
+22:49:35 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:49:35 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:49:36 [AnalyticsGA4] Internet connectivity: True
+22:49:36 [Analytics] Internet connectivity: True
+22:49:37 [History] Push: UICollectionSelectPanel
+22:49:37 [Event] CollectionScreenSelectPanelEvent [Panel: text_top]
+22:49:38 [History] Push: UICollectionSelectPanel
+22:49:38 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+22:49:43 [Event] CursorScreenExitEvent
+22:49:45 [Event] CursorScreenExitEvent
+22:49:56 [Event] CursorScreenExitEvent
+22:49:58 [Event] CursorScreenExitEvent
+22:50:05 [History] Push: UICollectionSelectPanel
+22:50:05 [Event] CollectionScreenSelectPanelEvent [Panel: text_top]
+22:50:06 [History] Push: UICollectionSelectPanel
+22:50:06 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+22:50:09 [History] Push: SetDetailSetData
+22:50:09 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #75C9E6FF]
+22:50:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 19, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #5EC3E6FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #5EC2E6FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #4FA2C0FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #4FA3C0FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #4FA3BFFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #50A4C0FF]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #45A1C0FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #4CB2D5FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #4CB2D6FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #4CB0D5FF]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #42ADD5FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #45B5DFFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #45B5DEFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #45B6DFFF]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #38B2DFFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #39B8E6FF]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #2BB5E6FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #2EBCEEFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #2EBDEEFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #2EBDEDFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #2EBFEEFF]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #1FBBEEFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #1FBAEEFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #21C3F9FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #21C2F9FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #21C2FAFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #21C1F9FF]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #1ABFF9FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #1AC4FFFF]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #19C4FFFF]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #17C3FFFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #17C2FFFF]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #14C1FFFF]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #0FC0FFFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #0FBFFFFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #0FBDFBFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #0FBDFAFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #0FBFFBFF]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #05BDFBFF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #06ADE7FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #06ADE8FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #06ABE7FF]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #03AAE7FF]
+22:50:10 [History] Push: SetDetailSetData
+22:50:10 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #039ED8FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #039ED9FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #039DD8FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #089ED8FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #0687B8FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #0587B8FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #178CB8FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #0F5C79FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #0F5C78FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #0F5D79FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #196079FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #196179FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #124A5CFF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #174C5CFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #174D5CFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #164A57FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #1F4C57FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #1C4751FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #1C4752FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #1C4551FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #2B4951FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #2B4A51FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #264248FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #264247FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #264348FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #384648FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #384548FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #364245FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #3D4345FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #3E4345FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #424545FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #454848FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #454748FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #454747FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #464848FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #474848FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #474747FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #454545FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #424343FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #424243FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #424242FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #434343FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #4A4B4BFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #4A4A4BFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #4A4A4AFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #4B4B4BFF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #5C5B5BFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #5C5C5BFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #5C5C5CFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #5B5B5BFF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #636464FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #636364FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #636363FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #646363FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #646464FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #696A6AFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #696B6AFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #696B6BFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #68696AFF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #6B6A6AFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #6B6B6AFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #7D7E7EFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #7D7D7EFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #7D7D7DFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #7E7E7EFF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #8F8E8EFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #8F8F8EFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #8F8F8FFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #8E8E8EFF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #949494FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #9C9B9BFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #9C9C9BFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #9C9C9CFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #9B9B9BFF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #A3A2A2FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #A3A3A2FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #A3A3A3FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #A2A2A2FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #A29E9EFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #ABA6A7FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #ABA6A6FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #AB8C8DFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #AB8C8CFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B09191FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #AF9191FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #AF7877FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #AF7878FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B27A7AFF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B37B7BFF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B37372FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B37373FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B57373FF]
+22:50:11 [History] Push: SetDetailSetData
+22:50:11 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B67474FF]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B87474FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B77474FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B77576FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B77575FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B77676FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B77879FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B77878FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B87A79FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #B88787FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #BA8888FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #BA9696FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #BD999AFF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #BD9999FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #BF9A9AFF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #BE9999FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #BEBABBFF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #BEBABAFF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #D6D2D2FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #D6D1D2FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #D6D1D1FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #D6D6D6FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E0E2E2FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E0E3E2FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E0E3E3FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #DEE2E2FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E3E2E2FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E2E2E2FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E4E4E4FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E3E3E3FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E0E1E1FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E0E0E1FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E0E0E0FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E1E0E0FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E1D1D2FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E1D1D1FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #D9CACAFF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #D9C9CAFF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #D9C9C9FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #D98786FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #D98787FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #D48383FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #D48283FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #D48282FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #D44F4FFF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E05353FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E05453FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E05454FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E04544FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E04545FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E34545FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #E33B3BFF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #EB3E3DFF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #EB3D3DFF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #EA3D3DFF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #EA3333FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #F03434FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #EF3434FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #EF3031FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #EF3030FF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #F03131FF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #F02E2DFF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #F02E2EFF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #F22D2DFF]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #F22B2BFF]
+22:50:12 [History] Push: SetDetailSetData
+22:50:12 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #F52B2CFF]
+22:50:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:13 [History] Push: SetDetailSetData
+22:50:13 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #F52E2EFF]
+22:50:13 [History] Push: SetDetailSetData
+22:50:13 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #F22D2DFF]
+22:50:13 [History] Push: SetDetailSetData
+22:50:13 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #F12D2DFF]
+22:50:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:14 [History] Push: SetDetailSetData
+22:50:14 [Event] SetDetailSetDataEvent [Detail: border, ID: color, Localization: , Data: #F12E2EFF]
+22:50:14 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:14 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:15 [History] Push: UICollectionSelectPanel
+22:50:15 [Event] CollectionScreenSelectPanelEvent [Panel: text_top]
+22:50:16 [History] Push: UICollectionSelectPanel
+22:50:16 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+22:50:18 [History] Push: UICollectionSelectPanel
+22:50:18 [Event] CollectionScreenSelectPanelEvent [Panel: logo]
+22:50:20 [History] Push: UICollectionSelectPanel
+22:50:20 [Event] CollectionScreenSelectPanelEvent [Panel: text_bottom]
+22:50:20 [Event] SetDetailNewEvent [Detail: detail_001]
+22:50:20 [Event] SetDetailRenameEvent [Detail: text_bottom]
+22:50:21 [History] Push: UICollectionSelectPanel
+22:50:21 [Event] CollectionScreenSelectPanelEvent [Panel: logo]
+22:50:22 [History] Push: UICollectionSelectPanel
+22:50:22 [Event] CollectionScreenSelectPanelEvent [Panel: text_top]
+22:50:23 [History] Push: UICollectionEditItem
+22:50:23 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+22:50:36 [History] Push: UIScreenSwitch
+22:50:36 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+22:50:36 [Analytics] Hit screen request
+22:50:36 [AnalyticsGA4] Hit screen request
+22:50:36 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:36 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+22:50:36 [Event] ScreenSwitchFinishEvent
+22:50:45 [Event] CursorScreenExitEvent
+22:50:48 [Settings] Opening settings screen
+22:50:50 [Event] CursorScreenExitEvent
+22:50:50 [Settings] Closing settings screen
+22:50:57 [Settings] Opening settings screen
+22:51:00 [Settings] Closing settings screen
+22:51:15 [History] Push: UIScreenSwitch
+22:51:15 [Event] ScreenSwitchEvent [Screen: Collection]
+22:51:15 [Analytics] Hit screen request
+22:51:15 [AnalyticsGA4] Hit screen request
+22:51:15 [Event] ScreenSwitchFinishEvent
+22:51:23 [History] Push: UIScreenSwitch
+22:51:23 [Event] ScreenSwitchEvent [Screen: Variables]
+22:51:23 [Analytics] Hit screen request
+22:51:23 [AnalyticsGA4] Hit screen request
+22:51:24 [Event] ScreenSwitchFinishEvent
+22:51:40 [Event] CursorScreenExitEvent
+22:51:50 [Event] CursorScreenExitEvent
+22:51:51 [Analytics] Event request: Project/Backup
+22:51:51 [AnalyticsGA4] Event request: project_backup
+22:51:51 [Project] Backup
+22:51:51 [Event] ProjectBackupEvent
+22:51:51 [Analytics] Event request: Project/Work Time:179
+22:51:51 [AnalyticsGA4] Event request: project_work_time:179
+22:51:51 [Analytics] Event request: Project/Idle Time:1144
+22:51:51 [AnalyticsGA4] Event request: project_idle_time:1144
+22:51:51 [Analytics] Event request: Project/Total Time:1323
+22:51:51 [AnalyticsGA4] Event request: project_total_time:1323
+22:51:51 [Analytics] Event request: Project/Close
+22:51:51 [AnalyticsGA4] Event request: project_close
+22:51:51 [Project] Close (ignore unsaved: True)

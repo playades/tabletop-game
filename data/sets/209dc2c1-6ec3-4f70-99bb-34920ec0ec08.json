@@ -1,0 +1,26 @@
+{
+  "json_version": 3,
+  "name": "SpaceMissions",
+  "blueprint_name": "blueprint_001",
+  "hint_order_index": 0,
+  "zoom": 0,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1664659401
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1664659420
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1664659421
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1664659422
+    }
+  ]
+}

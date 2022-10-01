@@ -1,5 +1,10 @@
 {
   "json_version": 3,
   "variables":
-  []
+  [
+    {
+      "code": "variable_001",
+      "force_tint": "False"
+    }
+  ]
 }
