@@ -1,0 +1,14 @@
+{
+  "json_version": 3,
+  "name": "set_001",
+  "blueprint_name": "blueprint_001",
+  "hint_order_index": 0,
+  "zoom": 0,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1664632821
+    }
+  ]
+}

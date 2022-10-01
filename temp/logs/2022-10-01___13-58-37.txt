@@ -1,0 +1,175 @@
+15:58:37 [Project] Load: C:/Users/Asier/Desktop/tabletop-game/tabletop-game.tcp
+15:58:37 [Environment] UID: 101f6cd76926adce42b4ff911672a0a376a1103e (BGUID: e85459a8367ef2e419ace379a2e5a8da)
+15:58:37 [Environment] APP: TabletopCreator 2022.1.14a r461  (BUILD: WindowsPlayer x64 20220907_110450 UTC) (UNITY: 2021.3.9f1) (LANG: en) (DATE: 20221001_135837)
+15:58:37 [Environment] OS: Windows 11  (10.0.22621) 64bit (x64) (LANG: English), CPU: 11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz (Logical Cores: 16), RAM: 31.73 GB
+15:58:37 [Environment] GPU: NVIDIA Corporation - NVIDIA RTX A3000 Laptop GPU/PCIe/SSE2, GPU_DRIVER: OpenGLCore (OpenGL 4.5.0 NVIDIA 516.94), VRAM: 5.88 GB, SCREEN DPI: 240
+15:58:37 [Environment] SHADER_LEVEL: 50, MAX_TEXTURE_SIZE: 32768, COPY_TEXTURE_SUPPORT: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture, COLOR SPACE: Gamma
+15:58:37 [Settings] App Theme: Dark
+15:58:37 [Settings] UI scaling: x2
+15:58:37 [Settings] Automatic backup interval: 300s
+15:58:37 [Settings] Max history commands: 1000
+15:58:37 [Settings] Set items min zoom size: 1cm
+15:58:37 [Settings] Set items max zoom multiplier: x3
+15:58:37 [Settings] Preview max size multiplier: x10
+15:58:37 [Settings] Warmup data import screens on startup: 100%
+15:58:37 [Settings] Max render texture size: 2048px
+15:58:37 [Settings] Blueprint preview texture downscale: x1
+15:58:37 [Settings] Collection preview texture downscale: x1
+15:58:37 [Settings] Export preview texture downscale: x1
+15:58:37 [Settings] Use mipmaps in preview textures: True
+15:58:37 [Settings] Use mipmaps in export preview textures: True
+15:58:37 [Settings] Use mipmaps in icon picker widget textures: True
+15:58:37 [Event] ProjectLoadEvent [FilePath: C:/Users/Asier/Desktop/tabletop-game/tabletop-game.tcp]
+15:58:37 [History] Clear
+15:58:37 [History] Push: UIScreenSwitch
+15:58:37 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+15:58:37 [Analytics] Hit screen request
+15:58:37 [AnalyticsGA4] Hit screen request
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1687047.
+Total: 688.559600 ms (FindLiveObjects: 232.455000 ms CreateObjectMapping: 32.881200 ms MarkObjects: 412.531300 ms  DeleteObjects: 10.690500 ms)
+15:58:38 [Event] ScreenSwitchFinishEvent
+15:58:39 [Event] CursorScreenExitEvent
+16:00:08 [History] Push: BlueprintNew
+16:00:08 [Event] BlueprintNewEvent [Blueprint: blueprint_001]
+16:00:08 [Font] Load system font: Calibri
+16:00:08 [History] Push: UIBlueprintSelectBlueprint (Composite)
+16:00:08 [Event] BlueprintScreenSelectBlueprintEvent [Blueprint: blueprint_001]
+16:00:08 [History] Push: UIScreenSwitch (Composite)
+16:00:08 [Event] ScreenSwitchEvent [Screen: BlueprintEditor]
+16:00:08 [Analytics] Hit screen request
+16:00:08 [AnalyticsGA4] Hit screen request
+16:00:08 [Project] Set Dirty
+16:00:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 2, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:08 [Event] ScreenSwitchFinishEvent
+16:00:09 [History] Push: UIBlueprintSelectPanel
+16:00:09 [Event] BlueprintScreenSelectPanelEvent [Panel: text_top]
+16:00:10 [History] Push: UIBlueprintSelectPanel
+16:00:10 [Event] BlueprintScreenSelectPanelEvent [Panel: ]
+16:00:10 [History] Push: UIBlueprintSelectPanel
+16:00:10 [Event] BlueprintScreenSelectPanelEvent [Panel: text_top]
+16:00:10 [History] Push: UIBlueprintSelectPanel
+16:00:10 [Event] BlueprintScreenSelectPanelEvent [Panel: color]
+16:00:11 [History] Push: UIBlueprintSelectPanel
+16:00:11 [Event] BlueprintScreenSelectPanelEvent [Panel: ]
+16:00:11 [History] Push: UIBlueprintSelectPanel
+16:00:11 [Event] BlueprintScreenSelectPanelEvent [Panel: text_top]
+16:00:13 [History] Push: BlueprintPanelSetData
+16:00:13 [Event] BlueprintPanelSetDataEvent [Panel: text_top, ID: value, Localization: , Data: H]
+16:00:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 4, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:13 [History] Push: BlueprintPanelSetData
+16:00:13 [Event] BlueprintPanelSetDataEvent [Panel: text_top, ID: value, Localization: , Data: Ho]
+16:00:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 43, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:13 [History] Push: BlueprintPanelSetData
+16:00:13 [Event] BlueprintPanelSetDataEvent [Panel: text_top, ID: value, Localization: , Data: Hol]
+16:00:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 23, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:13 [History] Push: BlueprintPanelSetData
+16:00:13 [Event] BlueprintPanelSetDataEvent [Panel: text_top, ID: value, Localization: , Data: Hola]
+16:00:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 37, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:13 [History] Push: BlueprintPanelSetData
+16:00:13 [Event] BlueprintPanelSetDataEvent [Panel: text_top, ID: value, Localization: , Data: Hola ]
+16:00:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 24, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:13 [History] Push: BlueprintPanelSetData
+16:00:13 [Event] BlueprintPanelSetDataEvent [Panel: text_top, ID: value, Localization: , Data: Hola m]
+16:00:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:13 [History] Push: BlueprintPanelSetData
+16:00:13 [Event] BlueprintPanelSetDataEvent [Panel: text_top, ID: value, Localization: , Data: Hola mu]
+16:00:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 23, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:14 [History] Push: BlueprintPanelSetData
+16:00:14 [Event] BlueprintPanelSetDataEvent [Panel: text_top, ID: value, Localization: , Data: Hola mun]
+16:00:14 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 20, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:14 [History] Push: BlueprintPanelSetData
+16:00:14 [Event] BlueprintPanelSetDataEvent [Panel: text_top, ID: value, Localization: , Data: Hola mund]
+16:00:14 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:14 [History] Push: BlueprintPanelSetData
+16:00:14 [Event] BlueprintPanelSetDataEvent [Panel: text_top, ID: value, Localization: , Data: Hola mundo]
+16:00:14 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 23, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:14 [History] Push: BlueprintPanelSetData
+16:00:14 [Event] BlueprintPanelSetDataEvent [Panel: text_top, ID: value, Localization: , Data: Hola mundom]
+16:00:14 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 25, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:15 [History] Push: BlueprintPanelSetData
+16:00:15 [Event] BlueprintPanelSetDataEvent [Panel: text_top, ID: value, Localization: , Data: Hola mundo]
+16:00:15 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 27, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:15 [History] Push: BlueprintPanelSetData
+16:00:15 [Event] BlueprintPanelSetDataEvent [Panel: text_top, ID: value, Localization: , Data: Hola mundo1]
+16:00:15 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 4, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+16:00:16 [Event] CursorScreenExitEvent
+16:00:16 [History] Push: UIBlueprintSelectPanel
+16:00:16 [Event] BlueprintScreenSelectPanelEvent [Panel: ]
+16:00:17 [History] Push: UIScreenSwitch
+16:00:17 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+16:00:17 [Analytics] Hit screen request
+16:00:17 [AnalyticsGA4] Hit screen request
+16:00:17 [History] Push: UIBlueprintSelectBlueprint (Composite)
+16:00:17 [Event] BlueprintScreenSelectBlueprintEvent [Blueprint: ]
+16:00:17 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 32, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+16:00:17 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 33, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+16:00:18 [Event] ScreenSwitchFinishEvent
+16:00:18 [History] Push: UIScreenSwitch
+16:00:18 [Event] ScreenSwitchEvent [Screen: Collection]
+16:00:18 [Analytics] Hit screen request
+16:00:18 [AnalyticsGA4] Hit screen request
+16:00:19 [Event] ScreenSwitchFinishEvent
+16:00:20 [History] Push: SetNew
+16:00:20 [Event] SetNewEvent [Set: set_001]
+16:00:20 [Event] CollectionScreenToggleSetPreviewEvent [Set: set_001, Visible: False]
+16:00:20 [History] Push: UICollectionToggleSet (Composite)
+16:00:20 [History] Push: SetChangeBlueprint (Composite)
+16:00:20 [Event] SetChangeBlueprintEvent [Set: set_001, Blueprint: blueprint_001]
+16:00:20 [Event] CollectionScreenToggleSetPreviewEvent [Set: set_001, Visible: False]
+16:00:20 [Event] CollectionScreenToggleSetPreviewEvent [Set: set_001, Visible: True]
+16:00:20 [History] Push: UICollectionToggleSet (Composite)
+16:00:21 [History] Push: SetNewItem
+16:00:21 [Event] SetItemNewEvent
+16:00:21 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+16:00:21 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 24, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+16:00:25 [Event] CursorScreenExitEvent
+16:00:27 [Analytics] Event request: Project/Save
+16:00:27 [AnalyticsGA4] Event request: project_save
+16:00:27 [Project] Save
+16:00:27 [Event] ProjectSaveEvent
+16:00:28 [Analytics] Event request: Project/Save
+16:00:28 [AnalyticsGA4] Event request: project_save
+16:00:28 [Project] Save
+16:00:28 [Event] ProjectSaveEvent
+16:00:28 [Analytics] Event request: Project/Save
+16:00:28 [AnalyticsGA4] Event request: project_save
+16:00:28 [Project] Save
+16:00:28 [Event] ProjectSaveEvent
+16:00:29 [Analytics] Event request: Project/Save
+16:00:29 [AnalyticsGA4] Event request: project_save
+16:00:29 [Project] Save
+16:00:29 [Event] ProjectSaveEvent
+16:00:29 [Analytics] Event request: Project/Save
+16:00:29 [AnalyticsGA4] Event request: project_save
+16:00:29 [Project] Save
+16:00:29 [Event] ProjectSaveEvent
+16:00:29 [Analytics] Event request: Project/Save
+16:00:29 [AnalyticsGA4] Event request: project_save
+16:00:29 [Project] Save
+16:00:29 [Event] ProjectSaveEvent
+16:00:30 [Analytics] Event request: Project/Save
+16:00:30 [AnalyticsGA4] Event request: project_save
+16:00:30 [Project] Save
+16:00:30 [Event] ProjectSaveEvent
+16:00:31 [Analytics] Event request: Project/Save
+16:00:31 [AnalyticsGA4] Event request: project_save
+16:00:31 [Project] Save
+16:00:31 [Event] ProjectSaveEvent
+16:00:31 [Analytics] Event request: Project/Save
+16:00:31 [AnalyticsGA4] Event request: project_save
+16:00:31 [Project] Save
+16:00:31 [Event] ProjectSaveEvent
+16:03:18 [Event] CursorScreenExitEvent
+16:03:19 [Event] CloseAppEvent
+16:03:19 [Analytics] End session request
+16:03:19 [Analytics] Event request: General/Work Time:211
+16:03:19 [AnalyticsGA4] Event request: general_work_time:211
+16:03:19 [Analytics] Event request: General/Idle Time:5123
+16:03:19 [AnalyticsGA4] Event request: general_idle_time:5123
+16:03:19 [Analytics] Event request: General/Total Time:5334
+16:03:19 [AnalyticsGA4] Event request: general_total_time:5334
+16:03:19 [Analytics] Event request: General/Close App
+16:03:19 [AnalyticsGA4] Event request: general_close_app
+16:03:19 [AnalyticsGA4] Internet connectivity: True
+16:03:19 [Analytics] Internet connectivity: True

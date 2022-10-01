@@ -1,0 +1,127 @@
+{
+  "json_version": 3,
+  "name": "blueprint_001",
+  "type": "card",
+  "layout_size_mm": "63.5, 88.9",
+  "main_panel_name": "text_top",
+  "hint_order_index": 0,
+  "front_layers":
+  [
+    {
+      "name": "default",
+      "panels":
+      [
+        {
+          "name": "text_top",
+          "data":
+          {
+            "layout_position": "31.57199, 75.49632",
+            "layout_size": "54.89241, 15.24076",
+            "panel_type": "text",
+            "value": "Hola mundo1",
+            "text_font": "Calibri",
+            "text_size": "8.5",
+            "layout_constraint_v": "top",
+            "layout_constraint_h": "scale",
+            "color": "#454545FF"
+          }
+        },
+        {
+          "name": "text_bottom",
+          "data":
+          {
+            "layout_position": "30.47207, 7.701661",
+            "layout_size": "52.29432, 4.271534",
+            "panel_type": "text",
+            "value": "Card Template",
+            "text_size": "3.5",
+            "layout_constraint_v": "bottom",
+            "layout_constraint_h": "scale",
+            "text_alignment_h": "right",
+            "text_font": "Calibri",
+            "color": "#444444FF"
+          }
+        },
+        {
+          "name": "logo",
+          "data":
+          {
+            "layout_position": "31.15919, 45.24613",
+            "layout_size": "42.10846, 45.23703",
+            "panel_type": "image",
+            "value": "TC/Icon",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale"
+          }
+        },
+        {
+          "name": "color",
+          "data":
+          {
+            "layout_position": "31.63478, 44.21957",
+            "layout_size": "58.20014, 83.83057",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "procedural_radius": "4",
+            "color": "#FFFFFFFF",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "border",
+          "data":
+          {
+            "layout_position": "31.75, 44.45",
+            "layout_size": "63.5, 88.9",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "procedural_radius": "5",
+            "color": "#75CAE6FF",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale"
+          }
+        }
+      ]
+    }
+  ],
+  "back_layers":
+  [
+    {
+      "name": "default",
+      "panels":
+      [
+        {
+          "name": "back_icon",
+          "data":
+          {
+            "layout_position": "31.15, 45.24",
+            "layout_size": "42.1, 45.23",
+            "panel_type": "image",
+            "color": "#FFFFFFFF",
+            "value": "TC/IconWhite",
+            "layout_constraint_v": "scale",
+            "layout_constraint_h": "scale",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "back_color",
+          "data":
+          {
+            "layout_position": "31.75, 44.45",
+            "layout_size": "63.5, 88.9",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "color": "#76CAE7FF",
+            "panel_editable": "False",
+            "procedural_radius": "5",
+            "layout_constraint_v": "scale",
+            "layout_constraint_h": "scale"
+          }
+        }
+      ]
+    }
+  ]
+}
