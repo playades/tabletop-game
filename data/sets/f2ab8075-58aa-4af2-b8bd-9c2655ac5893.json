@@ -1,0 +1,14 @@
+{
+  "json_version": 3,
+  "name": "Team",
+  "blueprint_name": "Team",
+  "hint_order_index": 2,
+  "zoom": 0,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1664705354
+    }
+  ]
+}

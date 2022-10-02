@@ -1,5 +1,7 @@
 {
   "json_version": 3,
   "export_images": "False",
-  "export_pdf": "True"
+  "export_pdf": "True",
+  "export_image_format": "png",
+  "export_background_color": "#E0EBED00"
 }

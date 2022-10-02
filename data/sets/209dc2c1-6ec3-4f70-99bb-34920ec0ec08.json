@@ -1,14 +1,24 @@
 {
   "json_version": 3,
   "name": "SpaceMissions",
-  "blueprint_name": "blueprint_001",
+  "blueprint_name": "Missions",
   "hint_order_index": 0,
   "zoom": 0,
   "items":
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1664659401
+      "last_modification_date_unix": 1664704551,
+      "details":
+      [
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "./missions/mission1.jpg"
+          }
+        }
+      ]
     },
     {
       "amount": 1,

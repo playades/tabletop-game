@@ -1,6 +1,6 @@
 {
   "json_version": 3,
-  "name": "blueprint_001",
+  "name": "Missions",
   "type": "card",
   "layout_size_mm": "63.5, 88.9",
   "main_panel_name": "text_top",
@@ -76,7 +76,7 @@
             "layout_position": "32.04453, 51.421",
             "layout_size": "37.61352, 35.6115",
             "panel_type": "image",
-            "value": "C:/Users/Asier/Desktop/mujeres nasa/Nancy Grace Roman/photo_2022-10-01_23-01-31.jpg",
+            "value": "./missions/default.jpg",
             "layout_constraint_h": "scale",
             "layout_constraint_v": "scale",
             "img_mask_radius": "15",

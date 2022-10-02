@@ -4510,3 +4510,144 @@ Total: 424.262300 ms (FindLiveObjects: 105.463900 ms CreateObjectMapping: 15.690
 12:15:30 [Analytics] Event request: Project/Backup
 12:15:30 [AnalyticsGA4] Event request: project_backup
 12:15:30 [Project] Backup
+12:15:30 [Event] ProjectBackupEvent
+12:15:35 [Event] CursorScreenExitEvent
+12:17:43 [Event] CursorScreenExitEvent
+12:18:17 [Event] CursorScreenExitEvent
+12:18:43 [Event] CursorScreenExitEvent
+12:19:26 [Event] CursorScreenExitEvent
+12:19:27 [Event] CursorScreenExitEvent
+12:19:27 [Event] CursorScreenExitEvent
+12:19:29 [Event] CursorScreenExitEvent
+12:19:55 [Event] CursorScreenExitEvent
+12:19:56 [Event] CursorScreenExitEvent
+12:19:58 [Event] CursorScreenExitEvent
+12:20:02 [Event] CursorScreenExitEvent
+12:20:03 [History] Push: UIScreenSwitch
+12:20:03 [Event] ScreenSwitchEvent [Screen: Collection]
+12:20:03 [Analytics] Hit screen request
+12:20:03 [AnalyticsGA4] Hit screen request
+12:20:04 [AnalyticsGA4] Internet connectivity: True
+12:20:04 [Analytics] Internet connectivity: True
+12:20:04 [Event] ScreenSwitchFinishEvent
+12:20:06 [History] Push: UIScreenSwitch
+12:20:06 [Event] ScreenSwitchEvent [Screen: Export]
+12:20:06 [Analytics] Hit screen request
+12:20:06 [AnalyticsGA4] Hit screen request
+12:20:07 [Event] ScreenSwitchFinishEvent
+12:20:10 [History] Push: SettingsExportSet
+12:20:10 [Event] SettingsExportSetEvent [ID: export_pdf, Value: True]
+12:20:11 [History] Push: UIExportPreviewMode
+12:20:11 [History] Push: SettingsExportSet
+12:20:11 [Event] SettingsExportSetEvent [ID: export_images, Value: False]
+12:20:25 [History] Push: UIScreenSwitch
+12:20:25 [Event] ScreenSwitchEvent [Screen: Variables]
+12:20:25 [Analytics] Hit screen request
+12:20:25 [AnalyticsGA4] Hit screen request
+12:20:26 [Event] ScreenSwitchFinishEvent
+12:20:26 [History] Push: UIScreenSwitch
+12:20:26 [Event] ScreenSwitchEvent [Screen: Collection]
+12:20:26 [Analytics] Hit screen request
+12:20:26 [AnalyticsGA4] Hit screen request
+12:20:27 [Event] ScreenSwitchFinishEvent
+12:20:31 [History] Push: UIScreenSwitch
+12:20:31 [Event] ScreenSwitchEvent [Screen: Export]
+12:20:31 [Analytics] Hit screen request
+12:20:31 [AnalyticsGA4] Hit screen request
+12:20:31 [Event] ScreenSwitchFinishEvent
+12:20:38 [Event] CursorScreenExitEvent
+12:20:39 [Analytics] Event request: Export/PDF:2
+12:20:39 [AnalyticsGA4] Event request: export_pdf:2
+12:20:49 [Event] CursorScreenExitEvent
+12:20:53 [Event] CursorScreenExitEvent
+12:20:54 [Event] CursorScreenExitEvent
+12:20:59 [Event] CursorScreenExitEvent
+12:21:32 [Event] CursorScreenExitEvent
+12:21:47 [Event] CursorScreenExitEvent
+12:21:48 [Event] CursorScreenExitEvent
+12:23:22 [Event] CursorScreenExitEvent
+12:23:25 [Event] CursorScreenExitEvent
+12:25:12 [Analytics] Event request: Project/Backup
+12:25:12 [AnalyticsGA4] Event request: project_backup
+12:25:12 [Project] Backup
+12:25:12 [Event] ProjectBackupEvent
+12:26:24 [Event] CursorScreenExitEvent
+12:26:24 [Event] CursorScreenExitEvent
+12:26:56 [Event] CursorScreenExitEvent
+12:27:48 [Event] CursorScreenExitEvent
+12:29:26 [Event] CursorScreenExitEvent
+12:29:44 [Event] CursorScreenExitEvent
+12:29:47 [History] Push: UIScreenSwitch
+12:29:47 [Event] ScreenSwitchEvent [Screen: BlueprintEditor]
+12:29:47 [Analytics] Hit screen request
+12:29:47 [AnalyticsGA4] Hit screen request
+12:29:48 [Event] ScreenSwitchFinishEvent
+12:29:49 [History] Push: UIScreenSwitch
+12:29:49 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+12:29:49 [Analytics] Hit screen request
+12:29:49 [AnalyticsGA4] Hit screen request
+12:29:49 [History] Push: UIBlueprintSelectBlueprint (Composite)
+12:29:49 [Event] BlueprintScreenSelectBlueprintEvent [Blueprint: ]
+12:29:50 [Event] ScreenSwitchFinishEvent
+12:29:52 [History] Push: UIBlueprintSelectBlueprint
+12:29:52 [Event] BlueprintScreenSelectBlueprintEvent [Blueprint: Missions]
+12:29:52 [History] Push: UIScreenSwitch (Composite)
+12:29:52 [Event] ScreenSwitchEvent [Screen: BlueprintEditor]
+12:29:52 [Analytics] Hit screen request
+12:29:52 [AnalyticsGA4] Hit screen request
+12:29:52 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+12:29:52 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 3, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+12:29:52 [Event] ScreenSwitchFinishEvent
+12:29:54 [History] Push: UIBlueprintSelectPanel
+12:29:54 [Event] BlueprintScreenSelectPanelEvent [Panel: panel_001]
+12:29:56 [History] Push: UIBlueprintSelectPanel
+12:29:56 [Event] BlueprintScreenSelectPanelEvent [Panel: text_top]
+12:29:56 [History] Push: UIBlueprintSelectPanel
+12:29:56 [Event] BlueprintScreenSelectPanelEvent [Panel: panel_002]
+12:29:57 [AnalyticsGA4] Internet connectivity: True
+12:29:57 [Analytics] Internet connectivity: True
+12:29:57 [History] Push: UIBlueprintSelectPanel
+12:29:57 [Event] BlueprintScreenSelectPanelEvent [Panel: text_bottom]
+12:29:58 [History] Push: UIBlueprintSelectPanel
+12:29:58 [Event] BlueprintScreenSelectPanelEvent [Panel: logo]
+12:30:00 [Event] CursorScreenExitEvent
+12:30:02 [History] Push: UIScreenSwitch
+12:30:02 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+12:30:02 [Analytics] Hit screen request
+12:30:02 [AnalyticsGA4] Hit screen request
+12:30:02 [History] Push: UIBlueprintSelectBlueprint (Composite)
+12:30:02 [Event] BlueprintScreenSelectBlueprintEvent [Blueprint: ]
+12:30:02 [Event] ScreenSwitchFinishEvent
+12:30:03 [History] Push: UIBlueprintSelectBlueprint
+12:30:03 [Event] BlueprintScreenSelectBlueprintEvent [Blueprint: Team]
+12:30:03 [History] Push: UIScreenSwitch (Composite)
+12:30:03 [Event] ScreenSwitchEvent [Screen: BlueprintEditor]
+12:30:03 [Analytics] Hit screen request
+12:30:03 [AnalyticsGA4] Hit screen request
+12:30:03 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+12:30:03 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 3, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+12:30:03 [Event] ScreenSwitchFinishEvent
+12:30:04 [History] Push: UIScreenSwitch
+12:30:04 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+12:30:04 [Analytics] Hit screen request
+12:30:04 [AnalyticsGA4] Hit screen request
+12:30:04 [History] Push: UIBlueprintSelectBlueprint (Composite)
+12:30:04 [Event] BlueprintScreenSelectBlueprintEvent [Blueprint: ]
+12:30:05 [Event] ScreenSwitchFinishEvent
+12:30:10 [Event] CursorScreenExitEvent
+12:30:12 [Event] CursorScreenExitEvent
+12:30:13 [Analytics] Event request: Project/Save
+12:30:13 [AnalyticsGA4] Event request: project_save
+12:30:13 [Project] Save
+12:30:13 [Event] ProjectSaveEvent
+12:30:14 [Event] CursorScreenExitEvent
+12:30:14 [Event] CloseAppEvent
+12:30:14 [Analytics] End session request
+12:30:14 [Analytics] Event request: General/Work Time:802
+12:30:14 [AnalyticsGA4] Event request: general_work_time:802
+12:30:14 [Analytics] Event request: General/Idle Time:2200
+12:30:14 [AnalyticsGA4] Event request: general_idle_time:2200
+12:30:14 [Analytics] Event request: General/Total Time:3002
+12:30:14 [AnalyticsGA4] Event request: general_total_time:3002
+12:30:14 [Analytics] Event request: General/Close App
+12:30:14 [AnalyticsGA4] Event request: general_close_app
