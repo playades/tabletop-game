@@ -8,7 +8,7 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1664704551,
+      "last_modification_date_unix": 1664708333,
       "details":
       [
         {
@@ -17,14 +17,28 @@
           {
             "value": "./missions/mission1.jpg"
           }
+        },
+        {
+          "name": "panel_002",
+          "data":
+          {
+            "value": "https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble.html"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1664707419,
+      "last_modification_date_unix": 1664708299,
       "details":
       [
+        {
+          "name": "panel_002",
+          "data":
+          {
+            "value": "https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+          }
+        },
         {
           "name": "panel_001",
           "data":
@@ -59,9 +73,16 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1664707965,
+      "last_modification_date_unix": 1664708261,
       "details":
       [
+        {
+          "name": "panel_002",
+          "data":
+          {
+            "value": "https://www.nasa.gov/mission_pages/station/main/index.html"
+          }
+        },
         {
           "name": "panel_001",
           "data":
@@ -92,10 +113,6 @@
           }
         }
       ]
-    },
-    {
-      "amount": 1,
-      "last_modification_date_unix": 1664659422
     }
   ]
 }

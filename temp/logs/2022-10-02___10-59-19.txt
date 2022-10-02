@@ -1,0 +1,167 @@
+11:59:19 [Project] Load: C:/Users/nivox/tabletop-game/tabletop-game.tcp
+11:59:19 [Environment] UID: 83ff324800610e4bf938f85072e43a75cf02f394 (BGUID: e85459a8367ef2e419ace379a2e5a8da)
+11:59:19 [Environment] APP: TabletopCreator 2022.1.14a r461  (BUILD: WindowsPlayer x64 20220907_110450 UTC) (UNITY: 2021.3.9f1) (LANG: es) (DATE: 20221002_105919)
+11:59:19 [Environment] OS: Windows 10  (10.0.19043) 64bit (x64) (LANG: Spanish), CPU: AMD Ryzen 7 2700X Eight-Core Processor  (Logical Cores: 16), RAM: 15.95 GB
+11:59:19 [Environment] GPU: ATI Technologies Inc. - Radeon RX 590 Series, GPU_DRIVER: OpenGLCore (OpenGL 4.5.14761 Core Profile Forward-Compatible/Debug Context 21.30.23.04 30.0.13023.4001), VRAM: 7.98 GB, SCREEN DPI: 96
+11:59:19 [Environment] SHADER_LEVEL: 50, MAX_TEXTURE_SIZE: 16384, COPY_TEXTURE_SUPPORT: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture, COLOR SPACE: Gamma
+11:59:19 [Settings] App Theme: Light
+11:59:19 [Settings] UI scaling: x1
+11:59:19 [Settings] Automatic backup interval: 300s
+11:59:19 [Settings] Max history commands: 1000
+11:59:19 [Settings] Set items min zoom size: 1cm
+11:59:19 [Settings] Set items max zoom multiplier: x3
+11:59:19 [Settings] Preview max size multiplier: x10
+11:59:19 [Settings] Warmup data import screens on startup: 100%
+11:59:19 [Settings] Max render texture size: 2048px
+11:59:19 [Settings] Blueprint preview texture downscale: x1
+11:59:19 [Settings] Collection preview texture downscale: x1
+11:59:19 [Settings] Export preview texture downscale: x1
+11:59:19 [Settings] Use mipmaps in preview textures: True
+11:59:19 [Settings] Use mipmaps in export preview textures: True
+11:59:19 [Settings] Use mipmaps in icon picker widget textures: True
+11:59:19 [Event] ProjectLoadEvent [FilePath: C:/Users/nivox/tabletop-game/tabletop-game.tcp]
+11:59:19 [Font] Font not found (will load fallback font): Open Sans Light
+11:59:19 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:59:19 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:59:19 [Font] Font not found (will load fallback font): Open Sans Light
+11:59:19 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:59:19 [Event] CollectionScreenToggleSetPreviewEvent [Set: SpaceMissions, Visible: True]
+11:59:19 [Event] CollectionScreenToggleSetPreviewEvent [Set: Resources, Visible: True]
+11:59:19 [Event] CollectionScreenToggleSetPreviewEvent [Set: Team, Visible: True]
+11:59:19 [History] Clear
+11:59:20 [History] Push: UIScreenSwitch
+11:59:20 [Event] ScreenSwitchEvent [Screen: Collection]
+11:59:20 [Analytics] Hit screen request
+11:59:20 [AnalyticsGA4] Hit screen request
+Unloading 142 unused Assets to reduce memory usage. Loaded Objects now: 1703239.
+Total: 571.777900 ms (FindLiveObjects: 151.126900 ms CreateObjectMapping: 22.809100 ms MarkObjects: 389.287600 ms  DeleteObjects: 8.553600 ms)
+11:59:20 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:59:20 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:59:20 [Font] Font not found (will load fallback font): Open Sans Light
+11:59:20 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:20 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:20 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:59:20 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:59:20 [Font] Font not found (will load fallback font): Open Sans Light
+11:59:20 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:59:21 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:59:21 [Font] Font not found (will load fallback font): Open Sans Light
+11:59:21 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 21, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:59:21 [Font] Font not found (will load fallback font): Open Sans Light
+11:59:21 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:59:21 [Font] Font not found (will load fallback font): Open Sans Light
+11:59:21 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:59:21 [Font] Font not found (will load fallback font): Open Sans Light
+11:59:21 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:59:21 [Font] Font not found (will load fallback font): Open Sans Light
+11:59:21 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:21 [Event] ScreenSwitchFinishEvent
+11:59:21 [Event] ScreenSwitchFinishEvent
+11:59:26 [Event] CollectionScreenSelectItemEvent
+11:59:26 [Event] CollectionScreenSelectPanelEvent [Panel: panel_002]
+11:59:26 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+11:59:26 [History] Push: UICollectionEditItem
+11:59:26 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:59:33 [History] Push: UICollectionEditItem
+11:59:33 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:59:34 [Event] CollectionScreenSelectItemEvent
+11:59:34 [History] Push: UICollectionEditItem
+11:59:34 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:59:35 [History] Push: UICollectionEditItem
+11:59:35 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:59:36 [Event] CollectionScreenSelectItemEvent
+11:59:36 [Event] CollectionScreenSelectPanelEvent [Panel: text_top]
+11:59:36 [Event] SetDetailNewEvent [Detail: detail_001]
+11:59:36 [Event] SetDetailRenameEvent [Detail: text_top]
+11:59:36 [History] Push: UICollectionSelectPanel
+11:59:36 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+11:59:37 [History] Push: UICollectionEditItem (Composite)
+11:59:37 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:59:39 [History] Push: UICollectionEditItem
+11:59:39 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:59:39 [Event] CollectionScreenSelectItemEvent
+11:59:40 [History] Push: UICollectionEditItem
+11:59:40 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:59:41 [History] Push: UICollectionEditItem
+11:59:41 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:59:44 [History] Push: SetItemDuplicate
+11:59:44 [Event] SetItemDuplicateEvent
+11:59:44 [Project] Set Dirty
+11:59:44 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:44 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:59:52 [Event] CollectionScreenSelectItemEvent
+11:59:52 [History] Push: UICollectionEditItem
+11:59:52 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:59:56 [History] Push: UICollectionEditItem
+11:59:56 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:00:03 [History] Push: UICollectionEditItem
+12:00:03 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:00:08 [Event] CursorScreenExitEvent
+12:00:09 [History] Push: SetDetailSetData
+12:00:09 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: a]
+12:00:09 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:09 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:09 [History] Push: SetDetailSetData
+12:00:09 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: am]
+12:00:09 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:09 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:09 [History] Push: SetDetailSetData
+12:00:09 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: ami]
+12:00:09 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:09 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:09 [History] Push: SetDetailSetData
+12:00:09 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: am]
+12:00:09 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:09 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:09 [History] Push: SetDetailSetData
+12:00:09 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: a]
+12:00:09 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:09 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:10 [History] Push: SetDetailSetData
+12:00:10 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: ]
+12:00:10 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:10 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:10 [History] Push: SetDetailSetData
+12:00:10 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: M]
+12:00:10 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:10 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:10 [History] Push: SetDetailSetData
+12:00:10 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: MI]
+12:00:10 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:10 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:10 [History] Push: SetDetailSetData
+12:00:10 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: MIR]
+12:00:10 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:10 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:10 [History] Push: SetDetailSetData
+12:00:10 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: MIRR]
+12:00:11 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:11 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:11 [History] Push: SetDetailSetData
+12:00:11 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: MIRRO]
+12:00:11 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:11 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:11 [History] Push: SetDetailSetData
+12:00:11 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: MIRROR]
+12:00:11 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:11 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:00:13 [History] Push: UICollectionEditItem
+12:00:13 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:00:19 [Analytics] Event request: Project/Save
+12:00:19 [AnalyticsGA4] Event request: project_save
+12:00:19 [Project] Save

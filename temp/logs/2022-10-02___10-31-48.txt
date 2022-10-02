@@ -3349,3 +3349,533 @@ Total: 280.478800 ms (FindLiveObjects: 71.981500 ms CreateObjectMapping: 11.9325
 11:54:10 [Analytics] Event request: Project/Save
 11:54:10 [AnalyticsGA4] Event request: project_save
 11:54:10 [Project] Save
+11:54:10 [Event] ProjectSaveEvent
+11:54:12 [Event] CursorScreenExitEvent
+11:54:12 [Event] CursorScreenExitEvent
+11:54:16 [Event] CursorScreenExitEvent
+11:55:11 [Event] CursorScreenExitEvent
+11:55:15 [Event] CursorScreenExitEvent
+11:55:19 [Event] CursorScreenExitEvent
+11:55:25 [Event] CollectionScreenSelectItemEvent
+11:55:25 [History] Push: UICollectionEditItem
+11:55:25 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:55:27 [History] Push: UICollectionEditItem
+11:55:27 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:55:29 [Event] CollectionScreenSelectItemEvent
+11:55:29 [History] Push: UICollectionEditItem
+11:55:29 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:55:32 [History] Push: UICollectionEditItem
+11:55:32 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:55:33 [Event] CursorScreenExitEvent
+11:55:38 [Event] CursorScreenExitEvent
+11:56:03 [Event] CursorScreenExitEvent
+11:56:07 [Event] CollectionScreenSelectItemEvent
+11:56:07 [History] Push: UICollectionEditItem
+11:56:07 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:56:13 [History] Push: UICollectionEditItem
+11:56:13 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:56:14 [History] Push: UICollectionEditItem
+11:56:14 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:56:16 [History] Push: UICollectionEditItem
+11:56:16 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:56:17 [Event] CollectionScreenSelectItemEvent
+11:56:17 [History] Push: UICollectionEditItem
+11:56:17 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:56:23 [History] Push: UICollectionEditItem
+11:56:23 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:56:29 [Event] CursorScreenExitEvent
+11:56:29 [Event] CursorScreenExitEvent
+11:56:44 [Event] CursorScreenExitEvent
+11:57:14 [Event] CursorScreenExitEvent
+11:57:16 [Event] CursorScreenExitEvent
+11:57:24 [Event] CursorScreenExitEvent
+11:57:34 [Event] CursorScreenExitEvent
+11:57:38 [Event] CollectionScreenSelectItemEvent
+11:57:38 [History] Push: UICollectionEditItem
+11:57:38 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:57:39 [History] Push: UICollectionSelectPanel
+11:57:39 [Event] CollectionScreenSelectPanelEvent [Panel: panel_002]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: h]
+11:57:41 [Project] Set Dirty
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: ht]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: htt]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: http]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https:]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https:/]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://w]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://ww]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.n]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.na]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nas]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.g]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.go]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/m]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mi]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mis]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/miss]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/missi]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/missio]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_p]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pa]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pag]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_page]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/s]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/st]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/sta]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/stat]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/stati]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/statio]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/m]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/ma]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/mai]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/main]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/main/]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/main/i]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/main/in]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/main/ind]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/main/inde]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/main/index]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/main/index.]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/main/index.h]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/main/index.ht]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/main/index.htm]
+11:57:41 [History] Push: SetDetailSetData
+11:57:41 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/mission_pages/station/main/index.html]
+11:57:41 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:57:41 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:57:41 [Font] Font not found (will load fallback font): Open Sans Light
+11:57:41 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:57:41 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:57:48 [History] Push: UICollectionSelectPanel
+11:57:48 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+11:57:50 [History] Push: UICollectionSelectPanel
+11:57:50 [Event] CollectionScreenSelectPanelEvent [Panel: panel_002]
+11:57:51 [History] Push: UICollectionSelectPanel
+11:57:51 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+11:57:53 [History] Push: UICollectionEditItem
+11:57:53 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:57:54 [Event] CollectionScreenSelectItemEvent
+11:57:54 [History] Push: UICollectionEditItem
+11:57:54 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:57:57 [Event] CursorScreenExitEvent
+11:57:58 [Event] CursorScreenExitEvent
+11:58:06 [Event] CursorScreenExitEvent
+11:58:13 [Event] CursorScreenExitEvent
+11:58:14 [Event] CursorScreenExitEvent
+11:58:15 [Event] CursorScreenExitEvent
+11:58:18 [History] Push: UICollectionSelectPanel
+11:58:18 [Event] CollectionScreenSelectPanelEvent [Panel: panel_002]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: h]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: ht]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: htt]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: http]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https:]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https:/]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://w]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://ww]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.s]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.sw]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swp]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.n]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.no]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noa]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.g]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.go]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/c]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/co]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/com]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/comm]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/commu]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/commun]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communi]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communit]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communiti]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communitie]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/s]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/sp]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/spa]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/spac]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-w]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-we]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-wea]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weat]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weath]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weathe]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-e]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-en]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-ent]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enth]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthu]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthus]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusi]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusia]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusias]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusiast]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusiasts]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-d]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-da]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-das]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dash]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashb]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashbo]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboa]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboar]
+11:58:19 [History] Push: SetDetailSetData
+11:58:19 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard]
+11:58:19 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:58:19 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:58:19 [Font] Font not found (will load fallback font): Open Sans Light
+11:58:19 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:58:19 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:58:22 [History] Push: UICollectionEditItem
+11:58:22 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:58:25 [Analytics] Event request: Project/Save
+11:58:25 [AnalyticsGA4] Event request: project_save
+11:58:25 [Project] Save
+11:58:25 [Event] ProjectSaveEvent
+11:58:25 [Event] CursorScreenExitEvent
+11:58:27 [Event] CursorScreenExitEvent
+11:58:38 [Event] CursorScreenExitEvent
+11:58:43 [Event] CursorScreenExitEvent
+11:58:45 [Event] CursorScreenExitEvent
+11:58:45 [Event] CursorScreenExitEvent
+11:58:48 [Event] CollectionScreenSelectItemEvent
+11:58:48 [History] Push: UICollectionEditItem
+11:58:48 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:58:50 [AnalyticsGA4] Internet connectivity: True
+11:58:50 [Analytics] Internet connectivity: True
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: h]
+11:58:53 [Project] Set Dirty
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: ht]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: htt]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: http]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https:]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https:/]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://w]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://ww]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.j]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jw]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jws]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.n]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.na]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nas]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.g]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.go]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/c]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/co]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/con]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/cont]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/conte]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/conten]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/a]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/ab]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/abo]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/abou]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/c]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/co]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/com]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comp]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/compa]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/compar]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/compari]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparis]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/compariso]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparison]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonW]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWe]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWeb]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebb]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbV]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVs]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsH]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHu]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHub]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubb]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubbl]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble.]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble.h]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble.ht]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble.htm]
+11:58:53 [History] Push: SetDetailSetData
+11:58:53 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble.html]
+11:58:53 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:58:53 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:58:53 [Font] Font not found (will load fallback font): Open Sans Light
+11:58:54 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:58:54 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:58:54 [History] Push: UICollectionEditItem
+11:58:54 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:58:57 [Event] CollectionScreenSelectItemEvent
+11:58:57 [Event] SetDetailNewEvent [Detail: detail_001]
+11:58:57 [Event] SetDetailRenameEvent [Detail: panel_002]
+11:58:57 [History] Push: UICollectionEditItem
+11:58:57 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:58:58 [History] Push: UICollectionSelectPanel
+11:58:58 [Event] CollectionScreenSelectPanelEvent [Panel: logo]
+11:58:58 [Event] SetDetailNewEvent [Detail: detail_001]
+11:58:58 [Event] SetDetailRenameEvent [Detail: logo]
+11:59:09 [History] Push: UICollectionEditItem
+11:59:09 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:59:11 [History] Push: UICollectionEditItem
+11:59:11 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+11:59:12 [History] Push: UICollectionEditItem
+11:59:12 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:59:16 [History] Push: SetItemRemove
+11:59:16 [Event] SetItemRemoveEvent [Set: SpaceMissions]
+11:59:18 [Analytics] Event request: Project/Save
+11:59:18 [AnalyticsGA4] Event request: project_save
+11:59:18 [Project] Save
+11:59:18 [Event] ProjectSaveEvent
+11:59:18 [Reload] Changes detected and project is not dirty, reloading project soon ...
+11:59:18 [Reload] Reloading project ...
+11:59:18 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+11:59:18 [Analytics] Event request: Project/Work Time:524
+11:59:18 [AnalyticsGA4] Event request: project_work_time:524
+11:59:18 [Analytics] Event request: Project/Idle Time:1090
+11:59:18 [AnalyticsGA4] Event request: project_idle_time:1090
+11:59:18 [Analytics] Event request: Project/Total Time:1614
+11:59:18 [AnalyticsGA4] Event request: project_total_time:1614
+11:59:18 [Analytics] Event request: Project/Close
+11:59:18 [AnalyticsGA4] Event request: project_close
+11:59:18 [Project] Close (ignore unsaved: True)

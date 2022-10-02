@@ -23,6 +23,20 @@
           }
         }
       ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1664708411,
+      "details":
+      [
+        {
+          "name": "text_top",
+          "data":
+          {
+            "value": "MIRROR"
+          }
+        }
+      ]
     }
   ]
 }
