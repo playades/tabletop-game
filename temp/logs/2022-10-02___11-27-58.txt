@@ -1,0 +1,274 @@
+12:27:58 [Project] Load: C:/Users/nivox/tabletop-game/tabletop-game.tcp
+12:27:58 [Environment] UID: 83ff324800610e4bf938f85072e43a75cf02f394 (BGUID: e85459a8367ef2e419ace379a2e5a8da)
+12:27:58 [Environment] APP: TabletopCreator 2022.1.14a r461  (BUILD: WindowsPlayer x64 20220907_110450 UTC) (UNITY: 2021.3.9f1) (LANG: es) (DATE: 20221002_112758)
+12:27:58 [Environment] OS: Windows 10  (10.0.19043) 64bit (x64) (LANG: Spanish), CPU: AMD Ryzen 7 2700X Eight-Core Processor  (Logical Cores: 16), RAM: 15.95 GB
+12:27:58 [Environment] GPU: ATI Technologies Inc. - Radeon RX 590 Series, GPU_DRIVER: OpenGLCore (OpenGL 4.5.14761 Core Profile Forward-Compatible/Debug Context 21.30.23.04 30.0.13023.4001), VRAM: 7.98 GB, SCREEN DPI: 96
+12:27:58 [Environment] SHADER_LEVEL: 50, MAX_TEXTURE_SIZE: 16384, COPY_TEXTURE_SUPPORT: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture, COLOR SPACE: Gamma
+12:27:58 [Settings] App Theme: Light
+12:27:58 [Settings] UI scaling: x1
+12:27:58 [Settings] Automatic backup interval: 300s
+12:27:58 [Settings] Max history commands: 1000
+12:27:58 [Settings] Set items min zoom size: 1cm
+12:27:58 [Settings] Set items max zoom multiplier: x3
+12:27:58 [Settings] Preview max size multiplier: x10
+12:27:58 [Settings] Warmup data import screens on startup: 100%
+12:27:58 [Settings] Max render texture size: 2048px
+12:27:58 [Settings] Blueprint preview texture downscale: x1
+12:27:58 [Settings] Collection preview texture downscale: x1
+12:27:58 [Settings] Export preview texture downscale: x1
+12:27:58 [Settings] Use mipmaps in preview textures: True
+12:27:58 [Settings] Use mipmaps in export preview textures: True
+12:27:58 [Settings] Use mipmaps in icon picker widget textures: True
+12:27:58 [Event] ProjectLoadEvent [FilePath: C:/Users/nivox/tabletop-game/tabletop-game.tcp]
+12:27:58 [Font] Font not found (will load fallback font): Open Sans Light
+12:27:58 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:27:58 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:27:58 [Font] Font not found (will load fallback font): Open Sans Light
+12:27:58 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:27:58 [Event] CollectionScreenToggleSetPreviewEvent [Set: SpaceMissions, Visible: True]
+12:27:58 [Event] CollectionScreenToggleSetPreviewEvent [Set: Resources, Visible: True]
+12:27:58 [Event] CollectionScreenToggleSetPreviewEvent [Set: Team, Visible: True]
+12:27:58 [History] Clear
+12:27:58 [History] Push: UIScreenSwitch
+12:27:58 [Event] ScreenSwitchEvent [Screen: Collection]
+12:27:58 [Analytics] Hit screen request
+12:27:58 [AnalyticsGA4] Hit screen request
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 1705914.
+Total: 597.441700 ms (FindLiveObjects: 155.011800 ms CreateObjectMapping: 22.578800 ms MarkObjects: 410.050900 ms  DeleteObjects: 9.799500 ms)
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Light
+12:27:59 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Light
+12:27:59 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Light
+12:27:59 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Light
+12:27:59 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Light
+12:27:59 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Light
+12:27:59 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Light
+12:27:59 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:27:59 [Font] Font not found (will load fallback font): Open Sans Light
+12:27:59 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:59 [Event] ScreenSwitchFinishEvent
+12:27:59 [Event] ScreenSwitchFinishEvent
+12:28:08 [Event] CursorScreenExitEvent
+12:28:09 [Event] CursorScreenExitEvent
+12:28:11 [Event] CursorScreenExitEvent
+12:28:50 [Analytics] Internet connectivity: True
+12:28:50 [AnalyticsGA4] Internet connectivity: True
+12:28:58 [Event] CursorScreenExitEvent
+12:29:28 [Event] CursorScreenExitEvent
+12:29:32 [Event] CursorScreenExitEvent
+12:29:32 [Event] CursorScreenExitEvent
+12:29:53 [Event] CursorScreenExitEvent
+12:29:55 [Event] CursorScreenExitEvent
+12:30:02 [Event] CursorScreenExitEvent
+12:30:04 [Event] CursorScreenExitEvent
+12:30:09 [Event] CursorScreenExitEvent
+12:30:12 [Event] CursorScreenExitEvent
+12:30:19 [Event] CursorScreenExitEvent
+12:30:21 [Event] CollectionScreenSelectItemEvent
+12:30:21 [Event] CollectionScreenSelectPanelEvent [Panel: panel_001]
+12:30:21 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+12:30:21 [History] Push: UICollectionEditItem
+12:30:21 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:30:22 [History] Push: UICollectionSelectPanel
+12:30:22 [Event] CollectionScreenSelectPanelEvent [Panel: logo]
+12:30:22 [Event] SetDetailNewEvent [Detail: detail_001]
+12:30:22 [Event] SetDetailRenameEvent [Detail: logo]
+12:30:27 [History] Push: SetDetailSetData
+12:30:27 [Event] SetDetailSetDataEvent [Detail: logo, ID: value, Localization: , Data: C:/Users/nivox/Downloads/me4.png]
+12:30:27 [Project] Set Dirty
+12:30:27 [Event] TextureImageEvent [Path: C:/Users/nivox/Downloads/me4.png, Requested: False, IsProcessing: False, TimeMs: 104, Priority: 0, Error:  ]
+12:30:27 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:27 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:27 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:27 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:32 [History] Push: SetDetailSetData
+12:30:32 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_zoom, Localization: , Data: 1.1]
+12:30:32 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:32 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:32 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:32 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:34 [History] Push: SetDetailSetData
+12:30:34 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_zoom, Localization: , Data: 1]
+12:30:34 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:34 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:34 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:34 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:37 [History] Push: SetDetailSetData
+12:30:37 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_radius, Localization: , Data: 15.1]
+12:30:37 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:37 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:37 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:37 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:38 [History] Push: SetDetailSetData
+12:30:38 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_radius, Localization: , Data: 15]
+12:30:38 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:38 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:38 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:38 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:48 [History] Push: SetDetailSetData
+12:30:48 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 1.1]
+12:30:48 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:48 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:48 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:48 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:48 [History] Push: SetDetailSetData
+12:30:48 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 1.2]
+12:30:48 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:48 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:48 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:48 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:49 [History] Push: SetDetailSetData
+12:30:49 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 1.3]
+12:30:49 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:49 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:49 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:49 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:50 [History] Push: SetDetailSetData
+12:30:50 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 1.4]
+12:30:50 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:50 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:50 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:50 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:50 [History] Push: SetDetailSetData
+12:30:50 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 1.5]
+12:30:50 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:50 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:50 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:50 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:50 [History] Push: SetDetailSetData
+12:30:50 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 1.6]
+12:30:50 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:50 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:50 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:50 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:50 [History] Push: SetDetailSetData
+12:30:50 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 1.7]
+12:30:50 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:50 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:50 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:50 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:51 [History] Push: SetDetailSetData
+12:30:51 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 1.8]
+12:30:51 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:51 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:51 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:51 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:51 [History] Push: SetDetailSetData
+12:30:51 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 1.9]
+12:30:51 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:51 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:51 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:51 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:51 [History] Push: SetDetailSetData
+12:30:51 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 2]
+12:30:51 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:51 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:51 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:51 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:51 [History] Push: SetDetailSetData
+12:30:51 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 2.1]
+12:30:51 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:51 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:51 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:51 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:51 [History] Push: SetDetailSetData
+12:30:51 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 2.2]
+12:30:51 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:51 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:51 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:51 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:52 [History] Push: SetDetailSetData
+12:30:52 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 2.3]
+12:30:52 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:52 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:52 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:52 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:52 [History] Push: SetDetailSetData
+12:30:52 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 2.4]
+12:30:52 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:52 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:52 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:52 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:52 [History] Push: SetDetailSetData
+12:30:52 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 2.5]
+12:30:52 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:52 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:52 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:52 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:54 [History] Push: UICollectionSelectPanel
+12:30:54 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+12:30:54 [Event] SetDetailNewEvent [Detail: detail_001]
+12:30:54 [Event] SetDetailRenameEvent [Detail: border]
+12:30:54 [History] Push: UICollectionSelectPanel
+12:30:54 [Event] CollectionScreenSelectPanelEvent [Panel: logo]
+12:30:55 [History] Push: SetDetailSetData
+12:30:55 [Event] SetDetailSetDataEvent [Detail: logo, ID: img_mask_zoom, Localization: , Data: 2.6]
+12:30:55 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:30:55 [Font] Font not found (will load fallback font): Open Sans Light
+12:30:55 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:55 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:30:57 [History] Push: UICollectionSelectPanel
+12:30:57 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+12:30:58 [Event] CursorScreenExitEvent
+12:30:59 [Event] CursorScreenExitEvent
+12:31:01 [Event] CursorScreenExitEvent
+12:31:06 [Event] CursorScreenExitEvent
+12:31:29 [Event] CursorScreenExitEvent
+12:31:30 [Event] CursorScreenExitEvent
+12:31:41 [Event] CursorScreenExitEvent
+12:31:42 [Event] CursorScreenExitEvent
+12:31:44 [History] Push: UICollectionEditItem
+12:31:44 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:31:55 [Event] CursorScreenExitEvent
+12:33:06 [Event] CursorScreenExitEvent
+12:33:07 [Analytics] Event request: Project/Save
+12:33:07 [AnalyticsGA4] Event request: project_save
+12:33:07 [Project] Save
+12:33:07 [Event] ProjectSaveEvent
+12:33:07 [Reload] Changes detected and project is not dirty, reloading project soon ...
+12:33:08 [Reload] Reloading project ...
+12:33:08 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:33:08 [Analytics] Event request: Project/Work Time:82
+12:33:08 [AnalyticsGA4] Event request: project_work_time:82
+12:33:08 [Analytics] Event request: Project/Idle Time:223
+12:33:08 [AnalyticsGA4] Event request: project_idle_time:223
+12:33:08 [Analytics] Event request: Project/Total Time:305
+12:33:08 [AnalyticsGA4] Event request: project_total_time:305
+12:33:08 [Analytics] Event request: Project/Close
+12:33:08 [AnalyticsGA4] Event request: project_close
+12:33:08 [Project] Close (ignore unsaved: True)

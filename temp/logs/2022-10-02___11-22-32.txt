@@ -1,0 +1,1195 @@
+12:22:32 [Project] Load: C:/Users/nivox/tabletop-game/tabletop-game.tcp
+12:22:32 [Environment] UID: 83ff324800610e4bf938f85072e43a75cf02f394 (BGUID: e85459a8367ef2e419ace379a2e5a8da)
+12:22:32 [Environment] APP: TabletopCreator 2022.1.14a r461  (BUILD: WindowsPlayer x64 20220907_110450 UTC) (UNITY: 2021.3.9f1) (LANG: es) (DATE: 20221002_112232)
+12:22:32 [Environment] OS: Windows 10  (10.0.19043) 64bit (x64) (LANG: Spanish), CPU: AMD Ryzen 7 2700X Eight-Core Processor  (Logical Cores: 16), RAM: 15.95 GB
+12:22:32 [Environment] GPU: ATI Technologies Inc. - Radeon RX 590 Series, GPU_DRIVER: OpenGLCore (OpenGL 4.5.14761 Core Profile Forward-Compatible/Debug Context 21.30.23.04 30.0.13023.4001), VRAM: 7.98 GB, SCREEN DPI: 96
+12:22:32 [Environment] SHADER_LEVEL: 50, MAX_TEXTURE_SIZE: 16384, COPY_TEXTURE_SUPPORT: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture, COLOR SPACE: Gamma
+12:22:32 [Settings] App Theme: Light
+12:22:32 [Settings] UI scaling: x1
+12:22:32 [Settings] Automatic backup interval: 300s
+12:22:32 [Settings] Max history commands: 1000
+12:22:32 [Settings] Set items min zoom size: 1cm
+12:22:32 [Settings] Set items max zoom multiplier: x3
+12:22:32 [Settings] Preview max size multiplier: x10
+12:22:32 [Settings] Warmup data import screens on startup: 100%
+12:22:32 [Settings] Max render texture size: 2048px
+12:22:32 [Settings] Blueprint preview texture downscale: x1
+12:22:32 [Settings] Collection preview texture downscale: x1
+12:22:32 [Settings] Export preview texture downscale: x1
+12:22:32 [Settings] Use mipmaps in preview textures: True
+12:22:32 [Settings] Use mipmaps in export preview textures: True
+12:22:32 [Settings] Use mipmaps in icon picker widget textures: True
+12:22:32 [Event] ProjectLoadEvent [FilePath: C:/Users/nivox/tabletop-game/tabletop-game.tcp]
+12:22:32 [Font] Font not found (will load fallback font): Open Sans Light
+12:22:32 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:22:32 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:22:32 [Font] Font not found (will load fallback font): Open Sans Light
+12:22:32 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:22:32 [Event] CollectionScreenToggleSetPreviewEvent [Set: SpaceMissions, Visible: True]
+12:22:32 [Event] CollectionScreenToggleSetPreviewEvent [Set: Resources, Visible: True]
+12:22:33 [Event] CollectionScreenToggleSetPreviewEvent [Set: Team, Visible: True]
+12:22:33 [History] Clear
+12:22:33 [History] Push: UIScreenSwitch
+12:22:33 [Event] ScreenSwitchEvent [Screen: Collection]
+12:22:33 [Analytics] Hit screen request
+12:22:33 [AnalyticsGA4] Hit screen request
+Unloading 133 unused Assets to reduce memory usage. Loaded Objects now: 1705225.
+Total: 593.958800 ms (FindLiveObjects: 155.702200 ms CreateObjectMapping: 23.538700 ms MarkObjects: 404.494700 ms  DeleteObjects: 10.222100 ms)
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Light
+12:22:34 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Light
+12:22:34 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Light
+12:22:34 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Light
+12:22:34 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Light
+12:22:34 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Light
+12:22:34 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:22:34 [Font] Font not found (will load fallback font): Open Sans Light
+12:22:34 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:34 [Event] ScreenSwitchFinishEvent
+12:22:34 [Event] ScreenSwitchFinishEvent
+12:22:35 [Event] CollectionScreenSelectItemEvent
+12:22:35 [Event] CollectionScreenSelectPanelEvent [Panel: panel_002]
+12:22:35 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+12:22:35 [History] Push: UICollectionEditItem
+12:22:35 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:22:37 [History] Push: UICollectionEditItem
+12:22:37 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:22:38 [Event] CollectionScreenSelectItemEvent
+12:22:38 [History] Push: UICollectionEditItem
+12:22:38 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:22:40 [History] Push: UICollectionEditItem
+12:22:40 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:22:45 [Event] CursorScreenExitEvent
+12:23:18 [Event] CursorScreenExitEvent
+12:23:24 [Event] CursorScreenExitEvent
+12:23:26 [Event] CursorScreenExitEvent
+12:23:30 [Event] CursorScreenExitEvent
+12:23:31 [Event] CursorScreenExitEvent
+12:24:09 [Event] CursorScreenExitEvent
+12:24:12 [Event] CursorScreenExitEvent
+12:24:13 [Event] CursorScreenExitEvent
+12:24:15 [Event] CursorScreenExitEvent
+12:24:27 [Event] CursorScreenExitEvent
+12:24:43 [Event] CursorScreenExitEvent
+12:25:22 [History] Push: SetNewItem
+12:25:22 [Event] SetItemNewEvent
+12:25:22 [Project] Set Dirty
+12:25:22 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:25:22 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:25:22 [Font] Font not found (will load fallback font): Open Sans Light
+12:25:22 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:25:22 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:25:24 [Event] CollectionScreenSelectItemEvent
+12:25:24 [Event] SetDetailNewEvent [Detail: detail_001]
+12:25:24 [Event] SetDetailRenameEvent [Detail: panel_002]
+12:25:24 [History] Push: UICollectionEditItem
+12:25:24 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:25:25 [History] Push: UICollectionSelectPanel
+12:25:25 [Event] CollectionScreenSelectPanelEvent [Panel: panel_001]
+12:25:25 [Event] SetDetailNewEvent [Detail: detail_001]
+12:25:25 [Event] SetDetailRenameEvent [Detail: panel_001]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: H]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi!]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m K]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Ka]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kat]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kath]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathr]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathry]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P.]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. H]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hi]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hir]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire,]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I w]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I wa]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was t]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was th]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the f]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the fi]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the fir]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the firs]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first w]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first wo]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first wom]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woma]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman i]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in t]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in th]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the m]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the mi]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the mil]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the mili]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the milit]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the milita]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the militar]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military t]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to b]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be a]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be as]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be ass]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assi]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assig]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assign]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigne]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned t]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a c]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a co]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a com]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a comb]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a comba]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat a]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat ai]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat air]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat airc]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircr]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircre]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew i]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 19]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 199]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993.]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. T]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. Th]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The O]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Or]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Ori]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orio]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion S]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Sp]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spa]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spac]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Space]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacec]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecr]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecra]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraf]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [History] Push: SetDetailSetData
+12:25:26 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: value, Localization: , Data: Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft ]
+12:25:26 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:25:26 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:25:26 [Font] Font not found (will load fallback font): Open Sans Light
+12:25:26 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:25:26 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:25:29 [Event] CursorScreenExitEvent
+12:25:31 [Event] CursorScreenExitEvent
+12:25:35 [Event] CursorScreenExitEvent
+12:25:56 [Event] CursorScreenExitEvent
+12:26:09 [Event] CursorScreenExitEvent
+12:26:16 [Event] CursorScreenExitEvent
+12:26:20 [Event] CursorScreenExitEvent
+12:26:26 [Event] CursorScreenExitEvent
+12:26:29 [History] Push: UICollectionSelectPanel
+12:26:29 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+12:26:29 [Event] SetDetailNewEvent [Detail: detail_001]
+12:26:29 [Event] SetDetailRenameEvent [Detail: border]
+12:26:29 [History] Push: UICollectionSelectPanel
+12:26:29 [Event] CollectionScreenSelectPanelEvent [Panel: panel_001]
+12:26:31 [History] Push: UICollectionSelectPanel
+12:26:31 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+12:26:31 [History] Push: UICollectionSelectPanel
+12:26:31 [Event] CollectionScreenSelectPanelEvent [Panel: panel_001]
+12:26:32 [History] Push: UICollectionSelectPanel
+12:26:32 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+12:26:33 [History] Push: UICollectionSelectPanel
+12:26:33 [Event] CollectionScreenSelectPanelEvent [Panel: panel_001]
+12:26:34 [History] Push: UICollectionSelectPanel
+12:26:34 [Event] CollectionScreenSelectPanelEvent [Panel: text_bottom]
+12:26:34 [Event] SetDetailNewEvent [Detail: detail_001]
+12:26:34 [Event] SetDetailRenameEvent [Detail: text_bottom]
+12:26:35 [History] Push: UICollectionSelectPanel
+12:26:35 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+12:26:36 [History] Push: UICollectionSelectPanel
+12:26:36 [Event] CollectionScreenSelectPanelEvent [Panel: panel_001]
+12:26:36 [History] Push: UICollectionSelectPanel
+12:26:36 [Event] CollectionScreenSelectPanelEvent [Panel: text_bottom]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: K]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Ka]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Kat]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Kath]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Kathr]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Kathry]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Kathryn]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Kathryn ]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Kathryn P]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Kathryn P.]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Kathryn P. ]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Kathryn P. H]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Kathryn P. Hi]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Kathryn P. Hir]
+12:26:37 [History] Push: SetDetailSetData
+12:26:37 [Event] SetDetailSetDataEvent [Detail: text_bottom, ID: value, Localization: , Data: Kathryn P. Hire]
+12:26:37 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:26:37 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:26:37 [Font] Font not found (will load fallback font): Open Sans Light
+12:26:37 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:26:37 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:26:39 [History] Push: UICollectionEditItem
+12:26:39 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:26:40 [History] Push: UICollectionEditItem
+12:26:40 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:26:41 [History] Push: UICollectionSelectPanel
+12:26:41 [Event] CollectionScreenSelectPanelEvent [Panel: panel_001]
+12:26:43 [History] Push: SetDetailSetData
+12:26:43 [Event] SetDetailSetDataEvent [Detail: panel_001, ID: text_size, Localization: , Data: 2]
+12:26:43 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:26:43 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:26:43 [Font] Font not found (will load fallback font): Open Sans Light
+12:26:43 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:26:43 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:26:46 [History] Push: UICollectionSelectPanel
+12:26:46 [Event] CollectionScreenSelectPanelEvent [Panel: panel_002]
+12:26:47 [Event] CursorScreenExitEvent
+12:26:52 [Event] CursorScreenExitEvent
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: h]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: ht]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: htt]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: http]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https:]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https:/]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://w]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://ww]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.n]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.na]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nas]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.g]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.go]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/s]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/sp]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/spe]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/spec]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/speci]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/specia]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/special]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/specials]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/specials/]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/specials/a]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/specials/ar]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/specials/art]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/specials/arte]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/specials/artem]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/specials/artemi]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/specials/artemis]
+12:27:00 [History] Push: SetDetailSetData
+12:27:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.nasa.gov/specials/artemis/]
+12:27:00 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:27:00 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:27:00 [Font] Font not found (will load fallback font): Open Sans Light
+12:27:00 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:00 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:02 [History] Push: UICollectionEditItem
+12:27:02 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:27:03 [History] Push: UICollectionEditItem
+12:27:03 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:27:05 [Event] CursorScreenExitEvent
+12:27:06 [Event] CursorScreenExitEvent
+12:27:06 [Event] CursorScreenExitEvent
+12:27:09 [Event] CursorScreenExitEvent
+12:27:24 [Event] CursorScreenExitEvent
+12:27:26 [Event] CursorScreenExitEvent
+12:27:42 [Event] CursorScreenExitEvent
+12:27:44 [History] Push: UICollectionSelectPanel
+12:27:44 [Event] CollectionScreenSelectPanelEvent [Panel: text_top]
+12:27:44 [Event] SetDetailNewEvent [Detail: detail_001]
+12:27:44 [Event] SetDetailRenameEvent [Detail: text_top]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: S]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Sa]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Sav]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save ]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save t]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save th]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the ]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the a]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the as]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the ast]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astr]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astro]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astron]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astrona]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronau]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronaut]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts ]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts o]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of ]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of t]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of th]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the ]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the A]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Ar]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Art]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Arte]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Artem]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Artemi]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Artemis]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Artemis ]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Artemis 3]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Artemis 3 ]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Artemis 3 m]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Artemis 3 mi]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Artemis 3 mis]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Artemis 3 miss]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Artemis 3 missi]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Artemis 3 missio]
+12:27:45 [History] Push: SetDetailSetData
+12:27:45 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: Save the astronauts of the Artemis 3 mission]
+12:27:45 [Font] Font not found (will load fallback font): Open Sans Semibold
+12:27:45 [Font] Font not found (will load fallback font): Open Sans Extrabold
+12:27:45 [Font] Font not found (will load fallback font): Open Sans Light
+12:27:45 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:45 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:27:51 [History] Push: UICollectionEditItem
+12:27:51 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:27:53 [History] Push: UICollectionEditItem
+12:27:53 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:27:55 [History] Push: UICollectionEditItem
+12:27:55 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:27:56 [Analytics] Event request: Project/Save
+12:27:56 [AnalyticsGA4] Event request: project_save
+12:27:56 [Project] Save
+12:27:56 [Event] ProjectSaveEvent
+12:27:56 [Reload] Changes detected and project is not dirty, reloading project soon ...
+12:27:57 [Reload] Reloading project ...
+12:27:57 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:27:57 [Analytics] Event request: Project/Work Time:82
+12:27:57 [AnalyticsGA4] Event request: project_work_time:82
+12:27:57 [Analytics] Event request: Project/Idle Time:241
+12:27:57 [AnalyticsGA4] Event request: project_idle_time:241
+12:27:57 [Analytics] Event request: Project/Total Time:323
+12:27:57 [AnalyticsGA4] Event request: project_total_time:323
+12:27:57 [Analytics] Event request: Project/Close
+12:27:57 [AnalyticsGA4] Event request: project_close
+12:27:57 [Project] Close (ignore unsaved: True)

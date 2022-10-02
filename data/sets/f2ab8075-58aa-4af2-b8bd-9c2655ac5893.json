@@ -23,7 +23,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1664709081,
+      "last_modification_date_unix": 1664710255,
       "details":
       [
         {
@@ -39,6 +39,16 @@
           "data":
           {
             "value": "ÓSCAR CARRASCO"
+          }
+        },
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "C:/Users/nivox/Downloads/me4.png",
+            "img_zoom": "1",
+            "img_mask_radius": "15",
+            "img_mask_zoom": "2.6"
           }
         }
       ]

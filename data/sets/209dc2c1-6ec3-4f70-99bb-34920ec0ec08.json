@@ -113,6 +113,42 @@
           }
         }
       ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1664710065,
+      "details":
+      [
+        {
+          "name": "panel_002",
+          "data":
+          {
+            "value": "https://www.nasa.gov/specials/artemis/"
+          }
+        },
+        {
+          "name": "panel_001",
+          "data":
+          {
+            "value": "Hi! I’m Kathryn P. Hire, I was the first woman in the military to be assigned to a combat aircrew in 1993. The Orion Spacecraft just landed on the moon but something went wrong and it can’t come back. I need you to help me bring back to planet Earth 4 astronauts from this mission, Artemis 3. You have at your disposal a spaceship prepared at the John F. Kennedy Space Centre in Florida…",
+            "text_size": "2"
+          }
+        },
+        {
+          "name": "text_bottom",
+          "data":
+          {
+            "value": "Kathryn P. Hire"
+          }
+        },
+        {
+          "name": "text_top",
+          "data":
+          {
+            "value": "Save the astronauts of the Artemis 3 mission"
+          }
+        }
+      ]
     }
   ]
 }
