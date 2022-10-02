@@ -1,0 +1,591 @@
+11:27:08 [Project] Load: C:/Users/nivox/tabletop-game/tabletop-game.tcp
+11:27:08 [Environment] UID: 83ff324800610e4bf938f85072e43a75cf02f394 (BGUID: e85459a8367ef2e419ace379a2e5a8da)
+11:27:08 [Environment] APP: TabletopCreator 2022.1.14a r461  (BUILD: WindowsPlayer x64 20220907_110450 UTC) (UNITY: 2021.3.9f1) (LANG: es) (DATE: 20221002_102708)
+11:27:08 [Environment] OS: Windows 10  (10.0.19043) 64bit (x64) (LANG: Spanish), CPU: AMD Ryzen 7 2700X Eight-Core Processor  (Logical Cores: 16), RAM: 15.95 GB
+11:27:08 [Environment] GPU: ATI Technologies Inc. - Radeon RX 590 Series, GPU_DRIVER: OpenGLCore (OpenGL 4.5.14761 Core Profile Forward-Compatible/Debug Context 21.30.23.04 30.0.13023.4001), VRAM: 7.98 GB, SCREEN DPI: 96
+11:27:08 [Environment] SHADER_LEVEL: 50, MAX_TEXTURE_SIZE: 16384, COPY_TEXTURE_SUPPORT: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture, COLOR SPACE: Gamma
+11:27:08 [Settings] App Theme: Light
+11:27:08 [Settings] UI scaling: x1
+11:27:08 [Settings] Automatic backup interval: 300s
+11:27:08 [Settings] Max history commands: 1000
+11:27:08 [Settings] Set items min zoom size: 1cm
+11:27:08 [Settings] Set items max zoom multiplier: x3
+11:27:08 [Settings] Preview max size multiplier: x10
+11:27:08 [Settings] Warmup data import screens on startup: 100%
+11:27:08 [Settings] Max render texture size: 2048px
+11:27:08 [Settings] Blueprint preview texture downscale: x1
+11:27:08 [Settings] Collection preview texture downscale: x1
+11:27:08 [Settings] Export preview texture downscale: x1
+11:27:08 [Settings] Use mipmaps in preview textures: True
+11:27:08 [Settings] Use mipmaps in export preview textures: True
+11:27:08 [Settings] Use mipmaps in icon picker widget textures: True
+11:27:08 [Event] ProjectLoadEvent [FilePath: C:/Users/nivox/tabletop-game/tabletop-game.tcp]
+11:27:08 [Font] Font not found (will load fallback font): Open Sans Light
+11:27:08 [Font] Load system font: Arial
+11:27:08 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:27:08 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:27:08 [Font] Load system font: Segoe UI Black Italic
+11:27:08 [Event] CollectionScreenToggleSetPreviewEvent [Set: SpaceMissions, Visible: True]
+11:27:08 [Event] CollectionScreenToggleSetPreviewEvent [Set: set_001, Visible: True]
+11:27:08 [History] Clear
+11:27:09 [Font] Load system font: A25-SQUANOVA
+11:27:09 [Font] Load system font: Adobe Arabic
+11:27:09 [Font] Load system font: Adobe Caslon Pro
+11:27:09 [Font] Load system font: Adobe Caslon Pro Bold
+11:27:09 [Font] Load system font: Adobe Devanagari
+11:27:09 [Font] Load system font: Adobe Fan Heiti Std B
+11:27:09 [Font] Load system font: Adobe Fangsong Std R
+11:27:09 [Font] Load system font: Adobe Garamond Pro
+11:27:09 [Font] Load system font: Adobe Garamond Pro Bold
+11:27:09 [Font] Load system font: Adobe Gothic Std B
+11:27:09 [Font] Load system font: Adobe Gurmukhi
+11:27:09 [Font] Load system font: Adobe Hebrew
+11:27:09 [Font] Load system font: Adobe Heiti Std R
+11:27:09 [Font] Load system font: Adobe Kaiti Std R
+11:27:09 [Font] Load system font: Adobe Ming Std L
+11:27:09 [Font] Load system font: Adobe Myungjo Std M
+11:27:09 [Font] Load system font: Adobe Naskh Medium
+11:27:09 [Font] Load system font: Adobe Song Std L
+11:27:09 [Font] Load system font: Agency FB
+11:27:09 [Font] Load system font: Algerian
+11:27:09 [Font] Load system font: Amatic SC
+11:27:09 [Font] Load system font: Arial Black
+11:27:09 [Font] Load system font: Arial Bold
+11:27:09 [Font] Load system font: Arial Bold Italic
+11:27:09 [Font] Load system font: Arial Italic
+11:27:09 [Font] Load system font: Arial Narrow
+11:27:09 [Font] Load system font: Arial Narrow Bold
+11:27:09 [Font] Load system font: Arial Narrow Bold Italic
+11:27:09 [Font] Load system font: Arial Narrow Italic
+11:27:09 [Font] Load system font: Arial Rounded MT Bold
+11:27:09 [Font] Load system font: Bahnschrift
+11:27:09 [Font] Load system font: Bahnschrift Condensed
+11:27:09 [Font] Load system font: Bahnschrift Light
+11:27:09 [Font] Load system font: Bahnschrift Light Condensed
+11:27:09 [Font] Load system font: Bahnschrift Light SemiCondensed
+11:27:09 [Font] Load system font: Bahnschrift SemiBold
+11:27:09 [Font] Load system font: Bahnschrift SemiBold Condensed
+11:27:09 [Font] Load system font: Bahnschrift SemiBold SemiConden
+11:27:09 [Font] Load system font: Bahnschrift SemiCondensed
+11:27:09 [Font] Load system font: Bahnschrift SemiLight
+11:27:09 [Font] Load system font: Bahnschrift SemiLight Condensed
+11:27:09 [Font] Load system font: Bahnschrift SemiLight SemiConde
+11:27:09 [Font] Load system font: Baskerville Old Face
+11:27:09 [Font] Load system font: Bauhaus 93
+11:27:09 [Font] Load system font: Bell MT
+11:27:09 [Font] Load system font: Bell MT Bold
+11:27:09 [Font] Load system font: Bell MT Italic
+11:27:09 [Font] Load system font: Berlin Sans FB
+11:27:09 [Font] Load system font: Berlin Sans FB Demi
+11:27:09 [Font] Load system font: Bernard MT Condensed
+11:27:09 [Font] Load system font: Birch Std
+11:27:09 [Font] Load system font: Blackadder ITC
+11:27:09 [Font] Load system font: Blackoak Std
+11:27:09 [Font] Load system font: Bodoni MT
+11:27:09 [Font] Load system font: Bodoni MT Black
+11:27:09 [Font] Load system font: Bodoni MT Condensed
+11:27:09 [Font] Load system font: Bodoni MT Condensed Italic
+11:27:09 [Font] Load system font: Bodoni MT Italic
+11:27:09 [Font] Load system font: Bodoni MT Poster Compressed
+11:27:09 [Font] Load system font: Book Antiqua
+11:27:09 [Font] Load system font: Book Antiqua Italic
+11:27:09 [Font] Load system font: Bookman Old Style
+11:27:09 [Font] Load system font: Bookman Old Style Bold
+11:27:09 [Font] Load system font: Bookman Old Style Bold Italic
+11:27:09 [Font] Load system font: Bookman Old Style Italic
+11:27:09 [Font] Load system font: Bookshelf Symbol 7
+11:27:09 [Font] Load system font: Bowlby One SC
+11:27:09 [Font] Load system font: Bradley Hand ITC
+11:27:09 [Font] Load system font: Britannic Bold
+11:27:09 [Font] Load system font: Broadway
+11:27:09 [Font] Load system font: Brush Script MT
+11:27:09 [Font] Load system font: Brush Script Std
+11:27:09 [Font] Load system font: Bungee Inline
+11:27:09 [Font] Load system font: Cabin Sketch
+11:27:09 [Font] Load system font: Calibri
+11:27:09 [Font] Load system font: Calibri Bold
+11:27:09 [Font] Load system font: Calibri Bold Italic
+11:27:09 [Font] Load system font: Calibri Italic
+11:27:09 [Font] Load system font: Calibri Light
+11:27:09 [Font] Load system font: Calibri Light Italic
+11:27:09 [Font] Load system font: Californian FB
+11:27:09 [Font] Load system font: Calisto MT
+11:27:09 [Font] Load system font: Calisto MT Bold
+11:27:09 [Font] Load system font: Calisto MT Bold Italic
+11:27:09 [Font] Load system font: Calisto MT Italic
+11:27:09 [Font] Load system font: Cambria
+11:27:09 [Font] Load system font: Cambria Bold
+11:27:09 [Font] Load system font: Cambria Bold Italic
+11:27:09 [Font] Load system font: Cambria Italic
+11:27:09 [Font] Load system font: Cambria Math
+11:27:09 [Font] Load system font: Candara
+11:27:09 [Font] Load system font: Candara Bold
+11:27:09 [Font] Load system font: Candara Bold Italic
+11:27:09 [Font] Load system font: Candara Italic
+11:27:09 [Font] Load system font: Candara Light
+11:27:09 [Font] Load system font: Candara Light Italic
+11:27:09 [Font] Load system font: Castellar
+11:27:09 [Font] Load system font: Caviar Dreams
+11:27:09 [Font] Load system font: Centaur
+11:27:09 [Font] Load system font: Century
+11:27:09 [Font] Load system font: Century Gothic
+11:27:09 [Font] Load system font: Century Gothic Bold
+11:27:09 [Font] Load system font: Century Gothic Bold Italic
+11:27:09 [Font] Load system font: Century Gothic Italic
+11:27:09 [Font] Load system font: Century Schoolbook
+11:27:09 [Font] Load system font: Century Schoolbook Italic
+11:27:09 [Font] Load system font: Chaparral Pro
+11:27:09 [Font] Load system font: Chaparral Pro Italic
+11:27:09 [Font] Load system font: Chaparral Pro Light
+11:27:09 [Font] Load system font: Charlemagne Std
+11:27:09 [Font] Load system font: Chiller
+11:27:09 [Font] Load system font: Cinzel Black
+11:27:09 [Font] Load system font: Colonna MT
+11:27:09 [Font] Load system font: Comic Sans MS
+11:27:09 [Font] Load system font: Comic Sans MS Bold
+11:27:09 [Font] Load system font: Comic Sans MS Bold Italic
+11:27:09 [Font] Load system font: Comic Sans MS Italic
+11:27:09 [Font] Load system font: Consolas
+11:27:09 [Font] Load system font: Consolas Bold
+11:27:09 [Font] Load system font: Consolas Bold Italic
+11:27:09 [Font] Load system font: Consolas Italic
+11:27:09 [Font] Load system font: Constantia
+11:27:09 [Font] Load system font: Constantia Bold
+11:27:09 [Font] Load system font: Constantia Bold Italic
+11:27:09 [Font] Load system font: Constantia Italic
+11:27:09 [Font] Load system font: Cookie
+11:27:09 [Font] Load system font: Cooper Black
+11:27:09 [Font] Load system font: Copperplate Gothic Bold
+11:27:09 [Font] Load system font: Copperplate Gothic Light
+11:27:09 [Font] Load system font: Corbel
+11:27:09 [Font] Load system font: Corbel Bold
+11:27:09 [Font] Load system font: Corbel Bold Italic
+11:27:09 [Font] Load system font: Corbel Italic
+11:27:09 [Font] Load system font: Corbel Light
+11:27:09 [Font] Load system font: Corbel Light Italic
+11:27:09 [Font] Load system font: Courgette
+11:27:09 [Font] Load system font: Courier New
+11:27:09 [Font] Load system font: Courier New Bold
+11:27:09 [Font] Load system font: Courier New Bold Italic
+11:27:09 [Font] Load system font: Courier New Italic
+11:27:09 [Font] Load system font: Curlz MT
+11:27:09 [Font] Load system font: DejaVu Serif
+11:27:09 [Font] Load system font: Doppio One
+11:27:09 [Font] Load system font: Droid Sans
+11:27:09 [Font] Load system font: Dubai
+11:27:09 [Font] Load system font: Dubai Light
+11:27:09 [Font] Load system font: Dubai Medium
+11:27:09 [Font] Load system font: Ebrima
+11:27:09 [Font] Load system font: Ebrima Bold
+11:27:09 [Font] Load system font: Edwardian Script ITC
+11:27:09 [Font] Load system font: Elephant
+11:27:09 [Font] Load system font: Elephant Italic
+11:27:09 [Font] Load system font: Engravers MT
+11:27:09 [Font] Load system font: Eras Bold ITC
+11:27:09 [Font] Load system font: Eras Demi ITC
+11:27:09 [Font] Load system font: Eras Light ITC
+11:27:09 [Font] Load system font: Eras Medium ITC
+11:27:09 [Font] Load system font: Euphorigenic
+11:27:09 [Font] Load system font: Exo
+11:27:09 [Font] Load system font: Felix Titling
+11:27:09 [Font] Load system font: Fira Sans
+11:27:09 [Font] Load system font: Footlight MT Light
+11:27:09 [Font] Load system font: Forte
+11:27:09 [Font] Load system font: Franklin Gothic Book
+11:27:09 [Font] Load system font: Franklin Gothic Book Italic
+11:27:09 [Font] Load system font: Franklin Gothic Demi
+11:27:09 [Font] Load system font: Franklin Gothic Demi Cond
+11:27:09 [Font] Load system font: Franklin Gothic Demi Italic
+11:27:09 [Font] Load system font: Franklin Gothic Heavy
+11:27:09 [Font] Load system font: Franklin Gothic Heavy Italic
+11:27:09 [Font] Load system font: Franklin Gothic Medium
+11:27:09 [Font] Load system font: Franklin Gothic Medium Cond
+11:27:09 [Font] Load system font: Franklin Gothic Medium Italic
+11:27:09 [Font] Load system font: Freestyle Script
+11:27:09 [Font] Load system font: French Script MT
+11:27:09 [Font] Load system font: Fugaz One
+11:27:09 [Font] Load system font: Gabriola
+11:27:09 [Font] Load system font: Gadugi
+11:27:09 [Font] Load system font: Gadugi Bold
+11:27:09 [Font] Load system font: Garamond
+11:27:09 [Font] Load system font: Garamond Bold
+11:27:09 [Font] Load system font: Garamond Italic
+11:27:09 [Font] Load system font: Georgia
+11:27:09 [Font] Load system font: Georgia Bold
+11:27:09 [Font] Load system font: Georgia Bold Italic
+11:27:09 [Font] Load system font: Georgia Italic
+11:27:09 [Font] Load system font: Gigi
+11:27:09 [Font] Load system font: Gill Sans MT
+11:27:09 [Font] Load system font: Gill Sans MT Condensed
+11:27:09 [Font] Load system font: Gill Sans MT Ext Condensed Bold
+11:27:09 [Font] Load system font: Gill Sans Ultra Bold
+11:27:09 [Font] Load system font: Gill Sans Ultra Bold Condensed
+11:27:09 [Font] Load system font: Gloucester MT Extra Condensed
+11:27:09 [Font] Load system font: Goudy Old Style
+11:27:09 [Font] Load system font: Goudy Old Style Bold
+11:27:09 [Font] Load system font: Goudy Old Style Italic
+11:27:09 [Font] Load system font: Goudy Stout
+11:27:09 [Font] Load system font: Great Vibes
+11:27:09 [Font] Load system font: Haettenschweiler
+11:27:09 [Font] Load system font: Harlow Solid Italic
+11:27:09 [Font] Load system font: Harrington
+11:27:09 [Font] Load system font: High Tower Text
+11:27:09 [Font] Load system font: High Tower Text Italic
+11:27:09 [Font] Load system font: Hobo Std
+11:27:09 [Font] Load system font: HoloLens MDL2 Assets
+11:27:09 [Font] Load system font: Impact
+11:27:09 [Font] Load system font: Imprint MT Shadow
+11:27:09 [Font] Load system font: Informal Roman
+11:27:09 [Font] Load system font: Ink Free
+11:27:09 [Font] Load system font: Javanese Text
+11:27:09 [Font] Load system font: Jokerman
+11:27:09 [Font] Load system font: Juice ITC
+11:27:09 [Font] Load system font: Kalam
+11:27:09 [Font] Load system font: Kalam Light
+11:27:09 [Font] Load system font: Kozuka Gothic Pr6N B
+11:27:09 [Font] Load system font: Kozuka Gothic Pr6N EL
+11:27:09 [Font] Load system font: Kozuka Gothic Pr6N H
+11:27:09 [Font] Load system font: Kozuka Gothic Pr6N L
+11:27:09 [Font] Load system font: Kozuka Gothic Pr6N M
+11:27:09 [Font] Load system font: Kozuka Gothic Pr6N R
+11:27:09 [Font] Load system font: Kozuka Gothic Pro B
+11:27:09 [Font] Load system font: Kozuka Gothic Pro EL
+11:27:09 [Font] Load system font: Kozuka Gothic Pro H
+11:27:09 [Font] Load system font: Kozuka Gothic Pro L
+11:27:09 [Font] Load system font: Kozuka Gothic Pro M
+11:27:09 [Font] Load system font: Kozuka Gothic Pro R
+11:27:09 [Font] Load system font: Kozuka Mincho Pr6N B
+11:27:09 [Font] Load system font: Kozuka Mincho Pr6N EL
+11:27:09 [Font] Load system font: Kozuka Mincho Pr6N H
+11:27:09 [Font] Load system font: Kozuka Mincho Pr6N L
+11:27:09 [Font] Load system font: Kozuka Mincho Pr6N M
+11:27:09 [Font] Load system font: Kozuka Mincho Pr6N R
+11:27:09 [Font] Load system font: Kozuka Mincho Pro B
+11:27:09 [Font] Load system font: Kozuka Mincho Pro EL
+11:27:09 [Font] Load system font: Kozuka Mincho Pro H
+11:27:09 [Font] Load system font: Kozuka Mincho Pro L
+11:27:09 [Font] Load system font: Kozuka Mincho Pro M
+11:27:09 [Font] Load system font: Kozuka Mincho Pro R
+11:27:09 [Font] Load system font: Kristen ITC
+11:27:09 [Font] Load system font: Kunstler Script
+11:27:09 [Font] Load system font: Lato
+11:27:09 [Font] Load system font: Leelawadee UI
+11:27:09 [Font] Load system font: Leelawadee UI Semilight
+11:27:09 [Font] Load system font: Lemon
+11:27:09 [Font] Load system font: Letter Gothic Std
+11:27:09 [Font] Load system font: Limelight
+11:27:09 [Font] Load system font: Lithos Pro Regular
+11:27:09 [Font] Load system font: Lucida Bright
+11:27:09 [Font] Load system font: Lucida Bright Italic
+11:27:09 [Font] Load system font: Lucida Calligraphy
+11:27:09 [Font] Load system font: Lucida Console
+11:27:09 [Font] Load system font: Lucida Fax
+11:27:09 [Font] Load system font: Lucida Fax Italic
+11:27:09 [Font] Load system font: Lucida Handwriting
+11:27:09 [Font] Load system font: Lucida Sans
+11:27:09 [Font] Load system font: Lucida Sans Italic
+11:27:09 [Font] Load system font: Lucida Sans Typewriter
+11:27:09 [Font] Load system font: Lucida Sans Typewriter Bold
+11:27:09 [Font] Load system font: Lucida Sans Unicode
+11:27:09 [Font] Load system font: Magneto
+11:27:09 [Font] Load system font: Maiandra GD
+11:27:09 [Font] Load system font: Malgun Gothic
+11:27:09 [Font] Load system font: Malgun Gothic Bold
+11:27:09 [Font] Load system font: Malgun Gothic Semilight
+11:27:09 [Font] Load system font: Marcellus SC
+11:27:09 [Font] Load system font: Marlett
+11:27:09 [Font] Load system font: Matura MT Script Capitals
+11:27:09 [Font] Load system font: Megrim
+11:27:09 [Font] Load system font: Microsoft Himalaya
+11:27:09 [Font] Load system font: Microsoft JhengHei
+11:27:09 [Font] Load system font: Microsoft JhengHei Bold
+11:27:09 [Font] Load system font: Microsoft JhengHei Light
+11:27:09 [Font] Load system font: Microsoft JhengHei UI
+11:27:09 [Font] Load system font: Microsoft JhengHei UI Bold
+11:27:09 [Font] Load system font: Microsoft JhengHei UI Light
+11:27:09 [Font] Load system font: Microsoft New Tai Lue
+11:27:09 [Font] Load system font: Microsoft New Tai Lue Bold
+11:27:09 [Font] Load system font: Microsoft PhagsPa
+11:27:09 [Font] Load system font: Microsoft PhagsPa Bold
+11:27:09 [Font] Load system font: Microsoft Sans Serif
+11:27:09 [Font] Load system font: Microsoft Tai Le
+11:27:09 [Font] Load system font: Microsoft Tai Le Bold
+11:27:09 [Font] Load system font: Microsoft YaHei
+11:27:09 [Font] Load system font: Microsoft YaHei Bold
+11:27:09 [Font] Load system font: Microsoft YaHei Light
+11:27:09 [Font] Load system font: Microsoft YaHei UI
+11:27:09 [Font] Load system font: Microsoft YaHei UI Bold
+11:27:09 [Font] Load system font: Microsoft YaHei UI Light
+11:27:09 [Font] Load system font: Microsoft Yi Baiti
+11:27:09 [Font] Load system font: MingLiU_HKSCS-ExtB
+11:27:09 [Font] Load system font: MingLiU-ExtB
+11:27:09 [Font] Load system font: Minion Pro
+11:27:09 [Font] Load system font: Minion Pro Cond
+11:27:09 [Font] Load system font: Minion Pro Cond Italic
+11:27:09 [Font] Load system font: Minion Pro Italic
+11:27:09 [Font] Load system font: Minion Pro Med
+11:27:09 [Font] Load system font: Minion Pro Med Italic
+11:27:09 [Font] Load system font: Minion Pro SmBd
+11:27:09 [Font] Load system font: Minion Pro SmBd Italic
+11:27:09 [Font] Load system font: Mistral
+11:27:09 [Font] Load system font: Modern No. 20
+11:27:09 [Font] Load system font: Mongolian Baiti
+11:27:09 [Font] Load system font: Monotype Corsiva
+11:27:09 [Font] Load system font: Montserrat Subrayada
+11:27:09 [Font] Load system font: MS Gothic
+11:27:09 [Font] Load system font: MS Outlook
+11:27:09 [Font] Load system font: MS PGothic
+11:27:09 [Font] Load system font: MS Reference Sans Serif
+11:27:09 [Font] Load system font: MS Reference Specialty
+11:27:09 [Font] Load system font: MS UI Gothic
+11:27:09 [Font] Load system font: MT Extra
+11:27:09 [Font] Load system font: MV Boli
+11:27:09 [Font] Load system font: Myanmar Text
+11:27:09 [Font] Load system font: Myanmar Text Bold
+11:27:09 [Font] Load system font: Myriad Arabic
+11:27:09 [Font] Load system font: Myriad Arabic Italic
+11:27:09 [Font] Load system font: Myriad Hebrew
+11:27:09 [Font] Load system font: Myriad Hebrew Italic
+11:27:09 [Font] Load system font: Myriad Pro
+11:27:09 [Font] Load system font: Myriad Pro Cond
+11:27:09 [Font] Load system font: Myriad Pro Cond Italic
+11:27:09 [Font] Load system font: Myriad Pro Italic
+11:27:09 [Font] Load system font: Myriad Pro Light
+11:27:09 [Font] Load system font: Myriad Pro Light Italic
+11:27:09 [Font] Load system font: Niagara Engraved
+11:27:09 [Font] Load system font: Niagara Solid
+11:27:09 [Font] Load system font: NimbusSanL
+11:27:09 [Font] Load system font: Nirmala UI
+11:27:09 [Font] Load system font: Nirmala UI Bold
+11:27:09 [Font] Load system font: Nirmala UI Semilight
+11:27:09 [Font] Load system font: Noto Sans
+11:27:09 [Font] Load system font: NSimSun
+11:27:09 [Font] Load system font: Nueva Std
+11:27:09 [Font] Load system font: Nueva Std Cond
+11:27:09 [Font] Load system font: OCR A Extended
+11:27:09 [Font] Load system font: OCR A Std
+11:27:09 [Font] Load system font: Old English Text MT
+11:27:09 [Font] Load system font: Onyx
+11:27:09 [Font] Load system font: Open Sans
+11:27:09 [Font] Load system font: Orator Std
+11:27:09 [Font] Load system font: Orbitron
+11:27:09 [Font] Load system font: Palace Script MT
+11:27:09 [Font] Load system font: Palatino Linotype
+11:27:09 [Font] Load system font: Palatino Linotype Bold
+11:27:09 [Font] Load system font: Palatino Linotype Bold Italic
+11:27:09 [Font] Load system font: Palatino Linotype Italic
+11:27:09 [Font] Load system font: Papyrus
+11:27:09 [Font] Load system font: Parchment
+11:27:09 [Font] Load system font: Permanent Marker
+11:27:09 [Font] Load system font: Perpetua
+11:27:09 [Font] Load system font: Perpetua Titling MT
+11:27:09 [Font] Load system font: Play
+11:27:09 [Font] Load system font: Playball
+11:27:09 [Font] Load system font: Playbill
+11:27:09 [Font] Load system font: PMingLiU-ExtB
+11:27:09 [Font] Load system font: Poor Richard
+11:27:09 [Font] Load system font: Poplar Std
+11:27:09 [Font] Load system font: Prestige Elite Std
+11:27:09 [Font] Load system font: Pristina
+11:27:09 [Font] Load system font: Quicksand
+11:27:09 [Font] Load system font: Quicksand Light
+11:27:09 [Font] Load system font: Quicksand Medium
+11:27:09 [Font] Load system font: Rage Italic
+11:27:09 [Font] Load system font: Raleway
+11:27:09 [Font] Load system font: Ravie
+11:27:09 [Font] Load system font: Roboto Slab
+11:27:09 [Font] Load system font: Rockwell
+11:27:09 [Font] Load system font: Rockwell Bold
+11:27:09 [Font] Load system font: Rockwell Bold Italic
+11:27:09 [Font] Load system font: Rockwell Condensed
+11:27:09 [Font] Load system font: Rockwell Extra Bold
+11:27:09 [Font] Load system font: Rockwell Italic
+11:27:09 [Font] Load system font: Russo One
+11:27:09 [Font] Load system font: Script MT Bold
+11:27:09 [Font] Load system font: Segoe MDL2 Assets
+11:27:09 [Font] Load system font: Segoe Print
+11:27:09 [Font] Load system font: Segoe Print Bold
+11:27:09 [Font] Load system font: Segoe Script
+11:27:09 [Font] Load system font: Segoe Script Bold
+11:27:09 [Font] Load system font: Segoe UI
+11:27:09 [Font] Load system font: Segoe UI Black
+11:27:09 [Font] Load system font: Segoe UI Bold
+11:27:09 [Font] Load system font: Segoe UI Bold Italic
+11:27:09 [Font] Load system font: Segoe UI Emoji
+11:27:09 [Font] Load system font: Segoe UI Historic
+11:27:09 [Font] Load system font: Segoe UI Italic
+11:27:09 [Font] Load system font: Segoe UI Light
+11:27:09 [Font] Load system font: Segoe UI Semibold
+11:27:09 [Font] Load system font: Segoe UI Semibold Italic
+11:27:09 [Font] Load system font: Segoe UI Semilight
+11:27:09 [Font] Load system font: Segoe UI Symbol
+11:27:09 [Font] Load system font: Showcard Gothic
+11:27:09 [Font] Load system font: Shrikhand
+11:27:09 [Font] Load system font: Sigmar One
+11:27:09 [Font] Load system font: SimSun
+11:27:09 [Font] Load system font: SimSun-ExtB
+11:27:09 [Font] Load system font: Sitka Banner
+11:27:09 [Font] Load system font: Sitka Banner Bold
+11:27:09 [Font] Load system font: Sitka Banner Bold Italic
+11:27:09 [Font] Load system font: Sitka Banner Italic
+11:27:09 [Font] Load system font: Sitka Display
+11:27:09 [Font] Load system font: Sitka Display Bold
+11:27:09 [Font] Load system font: Sitka Display Bold Italic
+11:27:09 [Font] Load system font: Sitka Display Italic
+11:27:09 [Font] Load system font: Sitka Heading
+11:27:09 [Font] Load system font: Sitka Heading Bold
+11:27:09 [Font] Load system font: Sitka Heading Bold Italic
+11:27:09 [Font] Load system font: Sitka Heading Italic
+11:27:09 [Font] Load system font: Sitka Small
+11:27:09 [Font] Load system font: Sitka Small Bold
+11:27:09 [Font] Load system font: Sitka Small Bold Italic
+11:27:09 [Font] Load system font: Sitka Small Italic
+11:27:09 [Font] Load system font: Sitka Subheading
+11:27:09 [Font] Load system font: Sitka Subheading Bold
+11:27:09 [Font] Load system font: Sitka Subheading Bold Italic
+11:27:09 [Font] Load system font: Sitka Subheading Italic
+11:27:09 [Font] Load system font: Sitka Text
+11:27:09 [Font] Load system font: Sitka Text Bold
+11:27:09 [Font] Load system font: Sitka Text Bold Italic
+11:27:09 [Font] Load system font: Sitka Text Italic
+11:27:09 [Font] Load system font: Snap ITC
+11:27:09 [Font] Load system font: Source Sans Pro
+11:27:09 [Font] Load system font: Source Sans Pro Black
+11:27:09 [Font] Load system font: Source Sans Pro Black Italic
+11:27:09 [Font] Load system font: Source Sans Pro ExtraLight
+11:27:09 [Font] Load system font: Source Sans Pro ExtraLight Italic
+11:27:09 [Font] Load system font: Source Sans Pro Italic
+11:27:09 [Font] Load system font: Source Sans Pro Light
+11:27:09 [Font] Load system font: Source Sans Pro Light Italic
+11:27:09 [Font] Load system font: Source Sans Pro Semibold
+11:27:09 [Font] Load system font: Source Sans Pro Semibold Italic
+11:27:09 [Font] Load system font: Stencil
+11:27:09 [Font] Load system font: Sylfaen
+11:27:09 [Font] Load system font: Symbol
+11:27:09 [Font] Load system font: Tahoma
+11:27:09 [Font] Load system font: Tahoma Bold
+11:27:09 [Font] Load system font: Teko SemiBold
+11:27:09 [Font] Load system font: Tekton Pro
+11:27:09 [Font] Load system font: Tekton Pro Cond
+11:27:09 [Font] Load system font: Tekton Pro Ext
+11:27:09 [Font] Load system font: Tempus Sans ITC
+11:27:09 [Font] Load system font: Times New Roman
+11:27:09 [Font] Load system font: Times New Roman Bold
+11:27:09 [Font] Load system font: Times New Roman Bold Italic
+11:27:09 [Font] Load system font: Times New Roman Italic
+11:27:09 [Font] Load system font: Trajan Pro 3
+11:27:09 [Font] Load system font: Trebuchet MS
+11:27:09 [Font] Load system font: Trebuchet MS Bold
+11:27:09 [Font] Load system font: Trebuchet MS Bold Italic
+11:27:09 [Font] Load system font: Trebuchet MS Italic
+11:27:09 [Font] Load system font: Tw Cen MT
+11:27:09 [Font] Load system font: Tw Cen MT Condensed
+11:27:09 [Font] Load system font: Tw Cen MT Condensed Extra Bold
+11:27:09 [Font] Load system font: Ubuntu
+11:27:09 [Font] Load system font: Ubuntu Mono
+11:27:09 [Font] Load system font: Unispace
+11:27:09 [Font] Load system font: Verdana
+11:27:09 [Font] Load system font: Verdana Bold
+11:27:09 [Font] Load system font: Verdana Bold Italic
+11:27:09 [Font] Load system font: Verdana Italic
+11:27:09 [Font] Load system font: Viner Hand ITC
+11:27:09 [Font] Load system font: Vivaldi
+11:27:09 [Font] Load system font: Vladimir Script
+11:27:09 [Font] Load system font: Vollkorn
+11:27:09 [Font] Load system font: Webdings
+11:27:09 [Font] Load system font: Wide Latin
+11:27:09 [Font] Load system font: Wingdings
+11:27:09 [Font] Load system font: Wingdings 2
+11:27:09 [Font] Load system font: Wingdings 3
+11:27:09 [Font] Load system font: Yellowtail
+11:27:09 [Font] Load system font: Yu Gothic
+11:27:09 [Font] Load system font: Yu Gothic Light
+11:27:09 [Font] Load system font: Yu Gothic Medium
+11:27:09 [Font] Load system font: Yu Gothic UI
+11:27:09 [Font] Load system font: Yu Gothic UI Light
+11:27:09 [Font] Load system font: Yu Gothic UI Semibold
+11:27:09 [Font] Load system font: Yu Gothic UI Semilight
+11:27:09 [PoolAsync] Toggle warmup service: True
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1698644.
+Total: 620.566300 ms (FindLiveObjects: 154.247200 ms CreateObjectMapping: 22.021000 ms MarkObjects: 435.087200 ms  DeleteObjects: 9.209600 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+11:27:10 [Event] NotificationMessageEvent [Type: Info (-1), Title: Project loaded]
+11:27:10 [History] Push: UIScreenSwitch
+11:27:10 [Event] ScreenSwitchEvent [Screen: Collection]
+11:27:10 [Analytics] Hit screen request
+11:27:10 [AnalyticsGA4] Hit screen request
+11:27:10 [History] Clear
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1698770.
+Total: 606.551900 ms (FindLiveObjects: 157.415600 ms CreateObjectMapping: 22.673000 ms MarkObjects: 417.809800 ms  DeleteObjects: 8.652800 ms)
+11:27:11 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:27:11 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:27:11 [Font] Font not found (will load fallback font): Open Sans Light
+11:27:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:11 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:27:11 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:27:11 [Font] Font not found (will load fallback font): Open Sans Light
+11:27:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:11 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:27:11 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:27:11 [Font] Font not found (will load fallback font): Open Sans Light
+11:27:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:11 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:27:11 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:27:11 [Font] Font not found (will load fallback font): Open Sans Light
+11:27:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:11 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:11 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:11 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:11 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:11 [Event] ScreenSwitchFinishEvent
+11:27:21 [History] Push: UIScreenSwitch
+11:27:21 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+11:27:21 [Analytics] Hit screen request
+11:27:21 [AnalyticsGA4] Hit screen request
+11:27:21 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:27:21 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:27:21 [Font] Font not found (will load fallback font): Open Sans Light
+11:27:21 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:21 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:21 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:21 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+11:27:21 [Event] ScreenSwitchFinishEvent
+11:27:24 [History] Push: UIBlueprintSelectBlueprint
+11:27:24 [Event] BlueprintScreenSelectBlueprintEvent [Blueprint: blueprint_001]
+11:27:24 [History] Push: UIScreenSwitch (Composite)
+11:27:24 [Event] ScreenSwitchEvent [Screen: BlueprintEditor]
+11:27:24 [Analytics] Hit screen request
+11:27:24 [AnalyticsGA4] Hit screen request
+11:27:24 [Font] Font not found (will load fallback font): Open Sans Semibold
+11:27:24 [Font] Font not found (will load fallback font): Open Sans Extrabold
+11:27:24 [Font] Font not found (will load fallback font): Open Sans Light
+11:27:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+11:27:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 3, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+11:27:24 [Event] ScreenSwitchFinishEvent
+11:27:28 [History] Push: UIBlueprintSelectPanel
+11:27:28 [Event] BlueprintScreenSelectPanelEvent [Panel: logo]
+11:27:39 [Event] CursorScreenExitEvent
+11:27:40 [Event] CursorScreenExitEvent
+11:27:51 [Event] CursorScreenExitEvent
+11:27:51 [Event] CursorScreenExitEvent
+11:27:53 [Event] CursorScreenExitEvent
+11:28:00 [History] Push: UIScreenSwitch
+11:28:00 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+11:28:00 [Analytics] Hit screen request
+11:28:00 [AnalyticsGA4] Hit screen request
+11:28:00 [History] Push: UIBlueprintSelectBlueprint (Composite)
+11:28:00 [Event] BlueprintScreenSelectBlueprintEvent [Blueprint: ]
+11:28:01 [Event] ScreenSwitchFinishEvent
+11:28:05 [Analytics] Event request: Project/Work Time:43
+11:28:05 [AnalyticsGA4] Event request: project_work_time:43
+11:28:05 [Analytics] Event request: Project/Idle Time:11
+11:28:05 [AnalyticsGA4] Event request: project_idle_time:11
+11:28:05 [Analytics] Event request: Project/Total Time:54
+11:28:05 [AnalyticsGA4] Event request: project_total_time:54
+11:28:05 [Analytics] Event request: Project/Close
+11:28:05 [AnalyticsGA4] Event request: project_close
+11:28:05 [Project] Close (ignore unsaved: True)
