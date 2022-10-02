@@ -2110,3 +2110,191 @@ TabletopCreator.UI.CollectionEditorScreenPreviewManager:Update()
 12:15:18 [Analytics] Event request: Project/Save
 12:15:18 [AnalyticsGA4] Event request: project_save
 12:15:18 [Project] Save
+12:15:18 [Event] ProjectSaveEvent
+12:15:49 [Event] CursorScreenExitEvent
+12:15:54 [Event] CursorScreenExitEvent
+12:15:54 [Event] CursorScreenExitEvent
+12:16:35 [Event] CursorScreenExitEvent
+12:16:40 [Event] CursorScreenExitEvent
+12:16:43 [Event] CursorScreenExitEvent
+12:16:53 [Event] CursorScreenExitEvent
+12:17:20 [Event] CursorScreenExitEvent
+12:17:41 [Event] CursorScreenExitEvent
+12:17:42 [Event] CursorScreenExitEvent
+12:17:43 [Event] CursorScreenExitEvent
+12:17:45 [Event] CursorScreenExitEvent
+12:17:49 [Event] CursorScreenExitEvent
+12:17:50 [Event] CursorScreenExitEvent
+12:17:51 [Event] CursorScreenExitEvent
+12:17:53 [Event] CursorScreenExitEvent
+12:18:27 [Event] CursorScreenExitEvent
+12:18:42 [History] Push: SetNewItem
+12:18:42 [Event] SetItemNewEvent
+12:18:42 [Project] Set Dirty
+12:18:42 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:18:42 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:18:44 [Event] CollectionScreenSelectItemEvent
+12:18:44 [Event] CollectionScreenSelectPanelEvent [Panel: text_top]
+12:18:44 [Event] SetDetailNewEvent [Detail: detail_001]
+12:18:44 [Event] SetDetailRenameEvent [Detail: text_top]
+12:18:44 [History] Push: UICollectionSelectPanel
+12:18:44 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+12:18:44 [History] Push: UICollectionEditItem (Composite)
+12:18:44 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:18:47 [History] Push: SetDetailSetData
+12:18:47 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: F]
+12:18:47 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:18:47 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:18:47 [History] Push: SetDetailSetData
+12:18:47 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: FU]
+12:18:47 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:18:47 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:18:47 [History] Push: SetDetailSetData
+12:18:47 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: FUE]
+12:18:47 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:18:47 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:18:47 [History] Push: SetDetailSetData
+12:18:47 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: FUEL]
+12:18:47 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:18:47 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:18:49 [History] Push: UICollectionEditItem
+12:18:49 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:18:50 [Analytics] Internet connectivity: True
+12:18:50 [AnalyticsGA4] Internet connectivity: True
+12:18:51 [Analytics] Event request: Project/Save
+12:18:51 [AnalyticsGA4] Event request: project_save
+12:18:51 [Project] Save
+12:18:51 [Event] ProjectSaveEvent
+12:18:52 [Event] CursorScreenExitEvent
+12:18:53 [Event] CursorScreenExitEvent
+12:18:56 [Event] CursorScreenExitEvent
+12:18:57 [Event] CursorScreenExitEvent
+12:18:57 [Event] CursorScreenExitEvent
+12:19:06 [Event] CursorScreenExitEvent
+12:19:09 [Event] CursorScreenExitEvent
+12:19:38 [Event] CursorScreenExitEvent
+12:19:38 [Event] CursorScreenExitEvent
+12:19:47 [Event] CursorScreenExitEvent
+12:20:44 [Event] CursorScreenExitEvent
+12:20:46 [Event] CursorScreenExitEvent
+12:20:48 [Event] CursorScreenExitEvent
+12:20:52 [Event] CursorScreenExitEvent
+12:20:53 [Event] CursorScreenExitEvent
+12:20:59 [Event] CursorScreenExitEvent
+12:21:48 [Event] CursorScreenExitEvent
+12:21:50 [Event] CursorScreenExitEvent
+12:22:04 [Event] CursorScreenExitEvent
+12:22:08 [History] Push: SetItemDuplicate
+12:22:08 [Event] SetItemDuplicateEvent
+12:22:08 [Project] Set Dirty
+12:22:08 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:08 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:09 [Event] CollectionScreenSelectItemEvent
+12:22:09 [History] Push: UICollectionEditItem
+12:22:09 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:22:11 [Event] CursorScreenExitEvent
+12:22:12 [History] Push: SetDetailSetData
+12:22:12 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: l]
+12:22:12 [History] Push: SetDetailSetData
+12:22:12 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: la]
+12:22:12 [History] Push: SetDetailSetData
+12:22:12 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: lau]
+12:22:12 [History] Push: SetDetailSetData
+12:22:12 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: laun]
+12:22:12 [History] Push: SetDetailSetData
+12:22:12 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: launc]
+12:22:12 [History] Push: SetDetailSetData
+12:22:12 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: launch]
+12:22:12 [History] Push: SetDetailSetData
+12:22:12 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: launch ]
+12:22:12 [History] Push: SetDetailSetData
+12:22:12 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: launch s]
+12:22:12 [History] Push: SetDetailSetData
+12:22:12 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: launch sy]
+12:22:12 [History] Push: SetDetailSetData
+12:22:12 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: launch sys]
+12:22:12 [History] Push: SetDetailSetData
+12:22:12 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: launch syst]
+12:22:12 [History] Push: SetDetailSetData
+12:22:12 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: launch syste]
+12:22:12 [History] Push: SetDetailSetData
+12:22:12 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: launch system]
+12:22:12 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:12 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:13 [Event] CursorScreenExitEvent
+12:22:15 [History] Push: SetDetailSetData
+12:22:15 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: L]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:15 [History] Push: SetDetailSetData
+12:22:15 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: LA]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:15 [History] Push: SetDetailSetData
+12:22:15 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: LAU]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:15 [History] Push: SetDetailSetData
+12:22:15 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: LAUN]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:15 [History] Push: SetDetailSetData
+12:22:15 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: LAUNC]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:15 [History] Push: SetDetailSetData
+12:22:15 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: LAUNCH]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:15 [History] Push: SetDetailSetData
+12:22:15 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: LAUNCH ]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:15 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:16 [History] Push: SetDetailSetData
+12:22:16 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: LAUNCH S]
+12:22:16 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:16 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:16 [History] Push: SetDetailSetData
+12:22:16 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: LAUNCH SY]
+12:22:16 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:16 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:16 [History] Push: SetDetailSetData
+12:22:16 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: LAUNCH SYS]
+12:22:16 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:16 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:16 [History] Push: SetDetailSetData
+12:22:16 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: LAUNCH SYST]
+12:22:16 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:16 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:17 [History] Push: SetDetailSetData
+12:22:17 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: LAUNCH SYSTE]
+12:22:17 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:17 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:17 [History] Push: SetDetailSetData
+12:22:17 [Event] SetDetailSetDataEvent [Detail: text_top, ID: value, Localization: , Data: LAUNCH SYSTEM]
+12:22:17 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:17 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:22:18 [History] Push: UICollectionEditItem
+12:22:18 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:22:19 [History] Push: UICollectionEditItem
+12:22:19 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:22:23 [History] Push: UICollectionEditItem
+12:22:23 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:22:23 [Event] CursorScreenExitEvent
+12:22:29 [Event] CursorScreenExitEvent
+12:22:31 [Analytics] Event request: Project/Save
+12:22:31 [AnalyticsGA4] Event request: project_save
+12:22:31 [Project] Save
+12:22:31 [Event] ProjectSaveEvent
+12:22:31 [Reload] Changes detected and project is not dirty, reloading project soon ...
+12:22:31 [Reload] Reloading project ...
+12:22:31 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:22:32 [Analytics] Event request: Project/Work Time:330
+12:22:32 [AnalyticsGA4] Event request: project_work_time:330
+12:22:32 [Analytics] Event request: Project/Idle Time:1061
+12:22:32 [AnalyticsGA4] Event request: project_idle_time:1061
+12:22:32 [Analytics] Event request: Project/Total Time:1391
+12:22:32 [AnalyticsGA4] Event request: project_total_time:1391
+12:22:32 [Analytics] Event request: Project/Close
+12:22:32 [AnalyticsGA4] Event request: project_close
+12:22:32 [Project] Close (ignore unsaved: True)
