@@ -23,7 +23,29 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1664706901,
+      "last_modification_date_unix": 1664709081,
+      "details":
+      [
+        {
+          "name": "panel_001",
+          "data":
+          {
+            "value": "I am Óscar Carrasco, a Computer Engineer from Tenerife, Spain. Although I am mostly specialized in systems engineering, my passion is hacking computers and having fun with both software and computers in general. I am often involved in open source projects and I'm always looking for new and exciting ideas to try!",
+            "text_size": "2.2"
+          }
+        },
+        {
+          "name": "text_top",
+          "data":
+          {
+            "value": "ÓSCAR CARRASCO"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1664709120,
       "details":
       [
         {
@@ -33,12 +55,19 @@
             "value": "Hi! I'm Beatriz Varona, I'm an Astrophysicist. I work at the Astronomical Observatory of Teide, of the Instituto de Astrofísica de Canarias. I also worked at the Astronomical Observatory of Cantabria and CHARA Array in California.\r",
             "text_size": "2.2"
           }
+        },
+        {
+          "name": "text_top",
+          "data":
+          {
+            "value": "ASIER ARRANZ"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1664706901,
+      "last_modification_date_unix": 1664709127,
       "details":
       [
         {
@@ -48,20 +77,12 @@
             "value": "Hi! I'm Beatriz Varona, I'm an Astrophysicist. I work at the Astronomical Observatory of Teide, of the Instituto de Astrofísica de Canarias. I also worked at the Astronomical Observatory of Cantabria and CHARA Array in California.\r",
             "text_size": "2.2"
           }
-        }
-      ]
-    },
-    {
-      "amount": 1,
-      "last_modification_date_unix": 1664706901,
-      "details":
-      [
+        },
         {
-          "name": "panel_001",
+          "name": "text_top",
           "data":
           {
-            "value": "Hi! I'm Beatriz Varona, I'm an Astrophysicist. I work at the Astronomical Observatory of Teide, of the Instituto de Astrofísica de Canarias. I also worked at the Astronomical Observatory of Cantabria and CHARA Array in California.\r",
-            "text_size": "2.2"
+            "value": "INÉS"
           }
         }
       ]
