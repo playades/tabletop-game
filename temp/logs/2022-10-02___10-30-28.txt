@@ -507,3 +507,55 @@ Total: 66.402400 ms (FindLiveObjects: 15.121800 ms CreateObjectMapping: 2.647900
 12:30:32 [Analytics] Event request: Project/Save
 12:30:32 [AnalyticsGA4] Event request: project_save
 12:30:32 [Project] Save
+12:30:32 [Event] ProjectSaveEvent
+12:30:44 [PoolAsync] Target pool capacity 2000 reached for ImportExcel_DetailMapping prefab
+12:30:52 [PoolAsync] Target pool capacity 1000 reached for ImportCSV_DetailMapping prefab
+12:32:33 [Event] CursorScreenExitEvent
+12:32:36 [Event] CursorScreenExitEvent
+12:32:40 [Event] CursorScreenExitEvent
+12:32:48 [Event] CursorScreenExitEvent
+12:35:21 [Event] CursorScreenExitEvent
+12:35:55 [Event] CursorScreenExitEvent
+12:38:03 [Event] CursorScreenExitEvent
+12:39:59 [Event] CursorScreenExitEvent
+12:40:00 [Event] CursorScreenExitEvent
+12:40:24 [Analytics] Internet connectivity: True
+12:40:24 [AnalyticsGA4] Internet connectivity: True
+12:43:46 [Event] CursorScreenExitEvent
+12:45:36 [Event] CursorScreenExitEvent
+12:45:42 [Event] CursorScreenExitEvent
+12:45:42 [Event] CursorScreenExitEvent
+12:45:43 [Event] CursorScreenExitEvent
+12:45:48 [Event] CursorScreenExitEvent
+12:45:48 [Event] CursorScreenExitEvent
+12:46:11 [Event] CursorScreenExitEvent
+12:46:40 [Event] CursorScreenExitEvent
+12:47:22 [Event] CursorScreenExitEvent
+12:47:25 [Event] CursorScreenExitEvent
+12:50:24 [AnalyticsGA4] Internet connectivity: True
+12:50:24 [Analytics] Internet connectivity: True
+12:51:17 [Event] CollectionScreenSelectItemEvent
+12:51:17 [Event] CollectionScreenSelectPanelEvent [Panel: panel_002]
+12:51:17 [Event] SetDetailNewEvent [Detail: detail_001]
+12:51:17 [Event] SetDetailRenameEvent [Detail: panel_002]
+12:51:17 [History] Push: UICollectionSelectPanel
+12:51:17 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+12:51:17 [History] Push: UICollectionEditItem (Composite)
+12:51:17 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:51:22 [History] Push: UICollectionEditItem
+12:51:22 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:51:24 [Event] CursorScreenExitEvent
+12:51:24 [Event] CursorScreenExitEvent
+12:51:29 [Event] CursorScreenExitEvent
+12:51:37 [Event] CursorScreenExitEvent
+12:51:56 [Event] CursorScreenExitEvent
+12:51:56 [Event] CloseAppEvent
+12:51:56 [Analytics] End session request
+12:51:56 [Analytics] Event request: General/Work Time:30
+12:51:56 [AnalyticsGA4] Event request: general_work_time:30
+12:51:56 [Analytics] Event request: General/Idle Time:1259
+12:51:56 [AnalyticsGA4] Event request: general_idle_time:1259
+12:51:56 [Analytics] Event request: General/Total Time:1289
+12:51:56 [AnalyticsGA4] Event request: general_total_time:1289
+12:51:56 [Analytics] Event request: General/Close App
+12:51:56 [AnalyticsGA4] Event request: general_close_app

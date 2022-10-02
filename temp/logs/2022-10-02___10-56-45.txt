@@ -1,0 +1,410 @@
+12:56:45 [Project] Load: C:/Users/Asier/Desktop/tabletop-game/tabletop-game.tcp
+12:56:45 [Environment] UID: 101f6cd76926adce42b4ff911672a0a376a1103e (BGUID: e85459a8367ef2e419ace379a2e5a8da)
+12:56:45 [Environment] APP: TabletopCreator 2022.1.14a r461  (BUILD: WindowsPlayer x64 20220907_110450 UTC) (UNITY: 2021.3.9f1) (LANG: en) (DATE: 20221002_105645)
+12:56:45 [Environment] OS: Windows 11  (10.0.22621) 64bit (x64) (LANG: English), CPU: 11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz (Logical Cores: 16), RAM: 31.73 GB
+12:56:45 [Environment] GPU: NVIDIA Corporation - NVIDIA RTX A3000 Laptop GPU/PCIe/SSE2, GPU_DRIVER: OpenGLCore (OpenGL 4.5.0 NVIDIA 516.94), VRAM: 5.88 GB, SCREEN DPI: 240
+12:56:45 [Environment] SHADER_LEVEL: 50, MAX_TEXTURE_SIZE: 32768, COPY_TEXTURE_SUPPORT: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture, COLOR SPACE: Gamma
+12:56:45 [Settings] App Theme: Dark
+12:56:45 [Settings] UI scaling: x2
+12:56:45 [Settings] Automatic backup interval: 300s
+12:56:45 [Settings] Max history commands: 1000
+12:56:45 [Settings] Set items min zoom size: 1cm
+12:56:45 [Settings] Set items max zoom multiplier: x3
+12:56:45 [Settings] Preview max size multiplier: x10
+12:56:45 [Settings] Warmup data import screens on startup: 100%
+12:56:45 [Settings] Max render texture size: 2048px
+12:56:45 [Settings] Blueprint preview texture downscale: x1
+12:56:45 [Settings] Collection preview texture downscale: x1
+12:56:45 [Settings] Export preview texture downscale: x1
+12:56:45 [Settings] Use mipmaps in preview textures: True
+12:56:45 [Settings] Use mipmaps in export preview textures: True
+12:56:45 [Settings] Use mipmaps in icon picker widget textures: True
+12:56:45 [Event] ProjectLoadEvent [FilePath: C:/Users/Asier/Desktop/tabletop-game/tabletop-game.tcp]
+12:56:45 [Event] CollectionScreenToggleSetPreviewEvent [Set: SpaceMissions, Visible: True]
+12:56:45 [Event] CollectionScreenToggleSetPreviewEvent [Set: Resources, Visible: True]
+12:56:45 [Event] CollectionScreenToggleSetPreviewEvent [Set: Team, Visible: True]
+12:56:45 [History] Clear
+12:56:45 [History] Push: UIScreenSwitch
+12:56:45 [Event] ScreenSwitchEvent [Screen: Collection]
+12:56:45 [Analytics] Hit screen request
+12:56:45 [AnalyticsGA4] Hit screen request
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 1702953.
+Total: 536.679800 ms (FindLiveObjects: 127.113300 ms CreateObjectMapping: 20.851300 ms MarkObjects: 380.876400 ms  DeleteObjects: 7.837900 ms)
+12:56:46 [Event] CursorScreenExitEvent
+12:56:46 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:56:46 [Event] ScreenSwitchFinishEvent
+12:56:46 [Event] ScreenSwitchFinishEvent
+12:57:03 [Event] CollectionScreenSelectItemEvent
+12:57:03 [Event] CollectionScreenSelectPanelEvent [Panel: panel_002]
+12:57:03 [Event] SetDetailNewEvent [Detail: detail_001]
+12:57:03 [Event] SetDetailRenameEvent [Detail: panel_002]
+12:57:03 [History] Push: UICollectionSelectPanel
+12:57:03 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+12:57:03 [History] Push: UICollectionEditItem (Composite)
+12:57:03 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:57:05 [History] Push: UICollectionSelectPanel
+12:57:05 [Event] CollectionScreenSelectPanelEvent [Panel: logo]
+12:57:45 [History] Push: UICollectionEditItem
+12:57:45 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:58:11 [Event] CollectionScreenSelectItemEvent
+12:58:11 [History] Push: UICollectionEditItem
+12:58:11 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+12:58:13 [History] Push: UICollectionSelectPanel
+12:58:13 [Event] CollectionScreenSelectPanelEvent [Panel: panel_002]
+12:58:13 [Event] SetDetailNewEvent [Detail: detail_001]
+12:58:13 [Event] SetDetailRenameEvent [Detail: panel_002]
+12:58:13 [Event] CursorScreenExitEvent
+12:58:15 [Event] CursorScreenExitEvent
+12:58:46 [Event] CursorScreenExitEvent
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: ]
+12:58:56 [Project] Set Dirty
+12:58:56 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 51, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:58:56 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: h]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: ht]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: htt]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: http]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https:]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https:/]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://w]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://ww]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.j]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jw]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jws]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.n]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.na]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nas]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.g]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.go]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/c]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/co]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/con]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/cont]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/conte]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/conten]
+12:58:56 [History] Push: SetDetailSetData
+12:58:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content]
+12:58:56 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/a]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/ab]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/abo]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/abou]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/c]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/co]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/com]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comp]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/compa]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/compar]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/compari]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparis]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/compariso]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparison]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonW]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWe]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWeb]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebb]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbV]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVs]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsH]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHu]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHub]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubb]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubbl]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble.]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble.h]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble.ht]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble.htm]
+12:58:57 [History] Push: SetDetailSetData
+12:58:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble.html]
+12:58:57 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:58:57 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:59:15 [History] Push: UICollectionEditItem
+12:59:15 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+12:59:38 [History] Push: SetNew
+12:59:38 [Event] SetNewEvent [Set: set_001]
+12:59:38 [Event] CollectionScreenToggleSetPreviewEvent [Set: set_001, Visible: False]
+12:59:38 [History] Push: UICollectionToggleSet (Composite)
+12:59:38 [History] Push: SetChangeBlueprint (Composite)
+12:59:38 [Event] SetChangeBlueprintEvent [Set: set_001, Blueprint: Missions]
+12:59:38 [Event] CollectionScreenToggleSetPreviewEvent [Set: set_001, Visible: False]
+12:59:38 [Event] CollectionScreenToggleSetPreviewEvent [Set: set_001, Visible: True]
+12:59:38 [History] Push: UICollectionToggleSet (Composite)
+12:59:40 [Event] CursorScreenExitEvent
+12:59:46 [History] Push: SetRename
+12:59:46 [Event] SetRenameEvent [Set: Demo]
+12:59:48 [History] Push: SetNewItem
+12:59:48 [Event] SetItemNewEvent
+12:59:48 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:59:48 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:59:53 [Event] CollectionScreenSelectItemEvent
+12:59:53 [Event] SetDetailNewEvent [Detail: detail_001]
+12:59:53 [Event] SetDetailRenameEvent [Detail: panel_002]
+12:59:53 [History] Push: UICollectionEditItem
+12:59:53 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+13:00:00 [History] Push: UICollectionSelectPanel
+13:00:00 [Event] CollectionScreenSelectPanelEvent [Panel: panel_001]
+13:00:00 [Event] SetDetailNewEvent [Detail: detail_001]
+13:00:00 [Event] SetDetailRenameEvent [Detail: panel_001]
+13:00:00 [History] Push: UICollectionSelectPanel
+13:00:00 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+13:00:00 [Event] SetDetailNewEvent [Detail: detail_001]
+13:00:00 [Event] SetDetailRenameEvent [Detail: border]
+13:00:01 [History] Push: UICollectionEditItem
+13:00:01 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+13:00:11 [Event] CursorScreenExitEvent
+13:00:12 [Event] CursorScreenExitEvent
+13:00:13 [Event] CursorScreenExitEvent
+13:01:35 [Event] CursorScreenExitEvent
+13:01:52 [Event] CursorScreenExitEvent
+13:01:55 [Event] CursorScreenExitEvent
+13:03:30 [Analytics] Internet connectivity: True
+13:03:30 [AnalyticsGA4] Internet connectivity: True
+13:04:48 [Analytics] Event request: Project/Backup
+13:04:48 [AnalyticsGA4] Event request: project_backup
+13:04:48 [Project] Backup
+13:04:48 [Event] ProjectBackupEvent
+13:09:17 [Event] CollectionScreenSelectItemEvent
+13:09:17 [Event] CollectionScreenSelectPanelEvent [Panel: panel_001]
+13:09:17 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+13:09:17 [History] Push: UICollectionEditItem
+13:09:17 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+13:12:20 [Event] CursorScreenExitEvent
+13:12:22 [History] Push: UICollectionEditItem
+13:12:22 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+13:12:28 [Event] CollectionScreenSelectItemEvent
+13:12:28 [Event] CollectionScreenSelectPanelEvent [Panel: panel_002]
+13:12:28 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+13:12:28 [History] Push: UICollectionEditItem
+13:12:28 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+13:12:34 [History] Push: UICollectionEditItem
+13:12:34 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+13:13:31 [AnalyticsGA4] Internet connectivity: True
+13:13:31 [Analytics] Internet connectivity: True
+13:13:31 [Event] CursorScreenExitEvent
+13:14:19 [Event] CursorScreenExitEvent
+13:15:02 [Event] CursorScreenExitEvent
+13:15:16 [Event] CollectionScreenSelectItemEvent
+13:15:16 [Event] CollectionScreenSelectPanelEvent [Panel: text_top]
+13:15:16 [Event] SetDetailNewEvent [Detail: detail_001]
+13:15:16 [Event] SetDetailRenameEvent [Detail: text_top]
+13:15:16 [History] Push: UICollectionSelectPanel
+13:15:16 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+13:15:16 [History] Push: UICollectionEditItem (Composite)
+13:15:16 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+13:15:18 [History] Push: UICollectionSelectPanel
+13:15:18 [Event] CollectionScreenSelectPanelEvent [Panel: logo]
+13:15:18 [Event] SetDetailNewEvent [Detail: detail_001]
+13:15:18 [Event] SetDetailRenameEvent [Detail: logo]
+13:15:21 [History] Push: UICollectionEditItem
+13:15:21 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+13:15:27 [Event] CursorScreenExitEvent
+13:15:50 [Event] CursorScreenExitEvent
+13:16:05 [Event] CollectionScreenSelectItemEvent
+13:16:05 [Event] CollectionScreenSelectPanelEvent [Panel: panel_001]
+13:16:05 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+13:16:05 [History] Push: UICollectionEditItem
+13:16:05 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+13:16:08 [History] Push: UICollectionEditItem
+13:16:08 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+13:16:10 [Event] CollectionScreenSelectItemEvent
+13:16:10 [Event] CollectionScreenSelectPanelEvent [Panel: text_top]
+13:16:10 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+13:16:10 [History] Push: UICollectionEditItem
+13:16:10 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+13:16:11 [History] Push: UICollectionEditItem
+13:16:11 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+13:16:12 [Event] CursorScreenExitEvent
+13:16:13 [History] Push: UIScreenSwitch
+13:16:13 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+13:16:13 [Analytics] Hit screen request
+13:16:13 [AnalyticsGA4] Hit screen request
+13:16:13 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+13:16:13 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+13:16:13 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+13:16:13 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+13:16:13 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+13:16:13 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+13:16:13 [Event] ScreenSwitchFinishEvent
+13:16:14 [History] Push: UIScreenSwitch
+13:16:14 [Event] ScreenSwitchEvent [Screen: Collection]
+13:16:14 [Analytics] Hit screen request
+13:16:14 [AnalyticsGA4] Hit screen request
+13:16:15 [Event] ScreenSwitchFinishEvent
+13:16:16 [Event] CollectionScreenSelectItemEvent
+13:16:16 [Event] CollectionScreenSelectPanelEvent [Panel: panel_002]
+13:16:16 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+13:16:16 [History] Push: UICollectionEditItem
+13:16:16 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+13:16:18 [History] Push: UICollectionSelectPanel
+13:16:18 [Event] CollectionScreenSelectPanelEvent [Panel: logo]
+13:16:18 [History] Push: UICollectionEditItem
+13:16:18 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+13:16:25 [Event] CollectionScreenSelectItemEvent
+13:16:25 [History] Push: UICollectionEditItem
+13:16:25 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+13:16:28 [History] Push: UICollectionEditItem
+13:16:28 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+13:16:29 [Event] CollectionScreenSelectItemEvent
+13:16:29 [History] Push: UICollectionEditItem
+13:16:29 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+13:16:40 [History] Push: UICollectionEditItem
+13:16:40 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+13:16:40 [History] Push: UICollectionSelectPanel
+13:16:40 [Event] CollectionScreenSelectPanelEvent [Panel: border]
+13:16:40 [Event] SetDetailNewEvent [Detail: detail_001]
+13:16:40 [Event] SetDetailRenameEvent [Detail: border]
+13:16:41 [Event] CollectionScreenSelectItemEvent
+13:16:41 [Event] SetDetailNewEvent [Detail: detail_001]
+13:16:41 [Event] SetDetailRenameEvent [Detail: border]
+13:16:41 [History] Push: UICollectionEditItem
+13:16:41 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+13:16:42 [History] Push: UICollectionSelectPanel
+13:16:42 [Event] CollectionScreenSelectPanelEvent [Panel: panel_002]
+13:16:51 [History] Push: UICollectionEditItem
+13:16:51 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+13:17:05 [Event] CursorScreenExitEvent
+13:17:29 [Event] CollectionScreenSelectItemEvent
+13:17:29 [History] Push: UICollectionEditItem
+13:17:29 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+13:17:30 [History] Push: UICollectionEditItem
+13:17:30 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+13:17:46 [Event] CursorScreenExitEvent
+13:18:03 [Event] CollectionScreenSelectItemEvent
+13:18:03 [Event] CollectionScreenSelectPanelEvent [Panel: text_top]
+13:18:03 [Event] CollectionScreenSelectPanelEvent [Panel: panel_004]
+13:18:03 [History] Push: UICollectionEditItem
+13:18:03 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+13:18:05 [Event] CursorScreenExitEvent
+13:18:07 [Event] CursorScreenExitEvent
+13:18:50 [Event] CursorScreenExitEvent
+13:19:58 [Event] CursorScreenExitEvent
+13:20:13 [Event] CursorScreenExitEvent
+13:20:38 [Event] CursorScreenExitEvent
+13:20:48 [Event] CursorScreenExitEvent
+13:20:54 [Event] CursorScreenExitEvent
+13:21:36 [Event] CursorScreenExitEvent
+13:23:30 [AnalyticsGA4] Internet connectivity: True
+13:23:30 [Analytics] Internet connectivity: True
+13:23:37 [Event] CursorScreenExitEvent
+13:23:47 [Event] CursorScreenExitEvent
+13:24:04 [Event] CursorScreenExitEvent
+13:25:16 [Event] CursorScreenExitEvent
+13:25:19 [Event] CursorScreenExitEvent
+13:26:22 [Event] CursorScreenExitEvent
+13:27:02 [Event] CursorScreenExitEvent
+13:27:13 [Event] CursorScreenExitEvent
+13:27:30 [Event] CursorScreenExitEvent
+13:27:31 [Event] CursorScreenExitEvent
+13:27:58 [Event] CursorScreenExitEvent
+13:27:59 [Event] CursorScreenExitEvent
+13:28:02 [Analytics] Event request: Project/Save
+13:28:02 [AnalyticsGA4] Event request: project_save
+13:28:02 [Project] Save
+13:28:02 [Event] ProjectSaveEvent
+13:28:02 [Analytics] Event request: Project/Work Time:393
+13:28:02 [AnalyticsGA4] Event request: project_work_time:393
+13:28:02 [Analytics] Event request: Project/Idle Time:1430
+13:28:02 [AnalyticsGA4] Event request: project_idle_time:1430
+13:28:02 [Analytics] Event request: Project/Total Time:1823
+13:28:02 [AnalyticsGA4] Event request: project_total_time:1823
+13:28:02 [Analytics] Event request: Project/Close
+13:28:02 [AnalyticsGA4] Event request: project_close
+13:28:02 [Project] Close (ignore unsaved: True)

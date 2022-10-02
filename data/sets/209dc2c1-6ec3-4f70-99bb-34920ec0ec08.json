@@ -8,7 +8,7 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1664704551,
+      "last_modification_date_unix": 1664708337,
       "details":
       [
         {
@@ -16,6 +16,13 @@
           "data":
           {
             "value": "./missions/mission1.jpg"
+          }
+        },
+        {
+          "name": "panel_002",
+          "data":
+          {
+            "value": "https://www.jwst.nasa.gov/content/about/comparisonWebbVsHubble.html"
           }
         }
       ]
