@@ -1,0 +1,14 @@
+{
+  "json_version": 3,
+  "name": "Demo",
+  "blueprint_name": "Missions",
+  "hint_order_index": 3,
+  "zoom": 0,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1664708388
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+Initialize engine version: 2021.3.9f1 (ad3870b89536)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/TabletopCreator/TabletopCreator_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Renderer: NVIDIA RTX A3000 Laptop GPU/PCIe/SSE2
+Vendor:   NVIDIA Corporation
+Version:  4.5.0 NVIDIA 516.94
+GLES:     0
+ GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_cl_event GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_locatio
+n GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_quer
+y GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessella
+tion_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflo
+w_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_pro
+gram_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_tessellation_geometry_shader GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_tex
+ture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_win32 GL_NV_memory_object_sparse GL_EXT_win32_keyed_mutex GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_win32 GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL
+_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap GL_NV_conservative_raster_pre_snap_triangles GL_NV_conservative_raster_underestimation GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_deep_texture3D GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_barycentric GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisa
+mple_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_mesh_shader GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_primitive_shading_rate GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_representative_fragment_test GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_scissor_exclusive GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV
+_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_shader_texture_footprint GL_NV_shading_rate_image GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_dirty_tile_map GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NVX_linked_gpu_multicast GL_NV_gpu_multicast GL_NVX_gpu_multicast2 GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_multigpu_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_t
+hread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum GL_WIN_swap_hint WGL_EXT_swap_control
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 65537
+Microsoft Media Foundation video decoding to texture disabled: graphics device is OpenGL Core, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.610300 ms
+12:53:29 [Settings] Loaded settings
+12:53:29 [Event] LanguageChangeEvent [Lang: en]
+12:53:29 [Analytics] Loaded Client ID: 4cea32c2-6b22-4611-90b0-4e2240ca61c3
+12:53:29 [AnalyticsGA4] Loaded Client ID: 4cea32c2-6b22-4611-90b0-4e2240ca61c3
+12:53:29 [Environment] UID: 101f6cd76926adce42b4ff911672a0a376a1103e (BGUID: e85459a8367ef2e419ace379a2e5a8da)
+12:53:29 [Environment] APP: TabletopCreator 2022.1.14a r461  (BUILD: WindowsPlayer x64 20220907_110450 UTC) (UNITY: 2021.3.9f1) (LANG: en) (DATE: 20221002_105329)
+12:53:29 [Environment] OS: Windows 11  (10.0.22621) 64bit (x64) (LANG: English), CPU: 11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz (Logical Cores: 16), RAM: 31.73 GB
+12:53:29 [Environment] GPU: NVIDIA Corporation - NVIDIA RTX A3000 Laptop GPU/PCIe/SSE2, GPU_DRIVER: OpenGLCore (OpenGL 4.5.0 NVIDIA 516.94), VRAM: 5.88 GB, SCREEN DPI: 240
+12:53:29 [Environment] SHADER_LEVEL: 50, MAX_TEXTURE_SIZE: 32768, COPY_TEXTURE_SUPPORT: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture, COLOR SPACE: Gamma
+12:53:29 [Settings] App Theme: Dark
+12:53:29 [Settings] UI scaling: x2
+12:53:29 [Settings] Automatic backup interval: 300s
+12:53:29 [Settings] Max history commands: 1000
+12:53:29 [Settings] Set items min zoom size: 1cm
+12:53:29 [Settings] Set items max zoom multiplier: x3
+12:53:29 [Settings] Preview max size multiplier: x10
+12:53:29 [Settings] Warmup data import screens on startup: 100%
+12:53:29 [Settings] Max render texture size: 2048px
+12:53:29 [Settings] Blueprint preview texture downscale: x1
+12:53:29 [Settings] Collection preview texture downscale: x1
+12:53:29 [Settings] Export preview texture downscale: x1
+12:53:29 [Settings] Use mipmaps in preview textures: True
+12:53:29 [Settings] Use mipmaps in export preview textures: True
+12:53:29 [Settings] Use mipmaps in icon picker widget textures: True
+12:53:29 [PoolAsync] Set pool capacity target to 50 for ImportExcel_SetMapping prefab
+12:53:29 [PoolAsync] Set pool capacity target to 2000 for ImportExcel_DetailMapping prefab
+12:53:29 [PoolAsync] Set pool capacity target to 1000 for ImportCSV_DetailMapping prefab
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 63078.
+Total: 16.198600 ms (FindLiveObjects: 2.540700 ms CreateObjectMapping: 1.243100 ms MarkObjects: 12.292200 ms  DeleteObjects: 0.122300 ms)
+12:53:29 [Analytics] Start session request
+12:53:29 [Analytics] Event request: General/Open App
+12:53:29 [AnalyticsGA4] Event request: general_open_app
+12:53:29 [Event] ThemeChangeEvent
+12:53:30 [AnalyticsGA4] Internet connectivity: True
+12:53:30 [Analytics] Internet connectivity: True
+12:53:30 [Event] ScreenSwitchFinishEvent
+12:53:30 [PoolAsync] Target pool capacity 50 reached for ImportExcel_SetMapping prefab
+12:53:31 [PoolAsync] Toggle warmup service: False
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+12:53:31 [Analytics] Event request: Project/Load
+12:53:31 [AnalyticsGA4] Event request: project_load
+12:53:32 [Project] Load: C:/Users/Asier/Desktop/tabletop-game/tabletop-game.tcp
+12:53:32 [Environment] UID: 101f6cd76926adce42b4ff911672a0a376a1103e (BGUID: e85459a8367ef2e419ace379a2e5a8da)
+12:53:32 [Environment] APP: TabletopCreator 2022.1.14a r461  (BUILD: WindowsPlayer x64 20220907_110450 UTC) (UNITY: 2021.3.9f1) (LANG: en) (DATE: 20221002_105332)
+12:53:32 [Environment] OS: Windows 11  (10.0.22621) 64bit (x64) (LANG: English), CPU: 11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz (Logical Cores: 16), RAM: 31.73 GB
+12:53:32 [Environment] GPU: NVIDIA Corporation - NVIDIA RTX A3000 Laptop GPU/PCIe/SSE2, GPU_DRIVER: OpenGLCore (OpenGL 4.5.0 NVIDIA 516.94), VRAM: 5.88 GB, SCREEN DPI: 240
+12:53:32 [Environment] SHADER_LEVEL: 50, MAX_TEXTURE_SIZE: 32768, COPY_TEXTURE_SUPPORT: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture, COLOR SPACE: Gamma
+12:53:32 [Settings] App Theme: Dark
+12:53:32 [Settings] UI scaling: x2
+12:53:32 [Settings] Automatic backup interval: 300s
+12:53:32 [Settings] Max history commands: 1000
+12:53:32 [Settings] Set items min zoom size: 1cm
+12:53:32 [Settings] Set items max zoom multiplier: x3
+12:53:32 [Settings] Preview max size multiplier: x10
+12:53:32 [Settings] Warmup data import screens on startup: 100%
+12:53:32 [Settings] Max render texture size: 2048px
+12:53:32 [Settings] Blueprint preview texture downscale: x1
+12:53:32 [Settings] Collection preview texture downscale: x1
+12:53:32 [Settings] Export preview texture downscale: x1
+12:53:32 [Settings] Use mipmaps in preview textures: True
+12:53:32 [Settings] Use mipmaps in export preview textures: True
+12:53:32 [Settings] Use mipmaps in icon picker widget textures: True
+12:53:32 [Event] ProjectLoadEvent [FilePath: C:/Users/Asier/Desktop/tabletop-game/tabletop-game.tcp]
+12:53:32 [Font] Load system font: Open Sans Light
+12:53:32 [Font] Load system font: Open Sans Extrabold
+12:53:32 [Font] Load system font: Open Sans Semibold
+12:53:32 [Font] Load system font: Segoe UI Black Italic
+12:53:32 [Event] CollectionScreenToggleSetPreviewEvent [Set: SpaceMissions, Visible: True]
+12:53:32 [Event] CollectionScreenToggleSetPreviewEvent [Set: Resources, Visible: True]
+12:53:32 [Event] CollectionScreenToggleSetPreviewEvent [Set: Team, Visible: True]
+12:53:32 [History] Push: UIExportPreviewMode
+12:53:32 [History] Clear
+12:53:32 [Font] Load system font: Agency FB
+12:53:32 [Font] Load system font: Algerian
+12:53:32 [Font] Load system font: Amatic SC
+12:53:32 [Font] Load system font: Arial
+12:53:32 [Font] Load system font: Arial Black
+12:53:32 [Font] Load system font: Arial Bold
+12:53:32 [Font] Load system font: Arial Bold Italic
+12:53:32 [Font] Load system font: Arial Italic
+12:53:32 [Font] Load system font: Arial Narrow
+12:53:32 [Font] Load system font: Arial Narrow Bold
+12:53:32 [Font] Load system font: Arial Narrow Bold Italic
+12:53:32 [Font] Load system font: Arial Narrow Italic
+12:53:32 [Font] Load system font: Arial Rounded MT Bold
+12:53:32 [Font] Load system font: Bahnschrift
+12:53:32 [Font] Load system font: Bahnschrift Condensed
+12:53:32 [Font] Load system font: Bahnschrift Light
+12:53:32 [Font] Load system font: Bahnschrift Light Condensed
+12:53:32 [Font] Load system font: Bahnschrift Light SemiCondensed
+12:53:32 [Font] Load system font: Bahnschrift SemiBold
+12:53:32 [Font] Load system font: Bahnschrift SemiBold Condensed
+12:53:32 [Font] Load system font: Bahnschrift SemiBold SemiConden
+12:53:32 [Font] Load system font: Bahnschrift SemiCondensed
+12:53:32 [Font] Load system font: Bahnschrift SemiLight
+12:53:32 [Font] Load system font: Bahnschrift SemiLight Condensed
+12:53:32 [Font] Load system font: Bahnschrift SemiLight SemiConde
+12:53:32 [Font] Load system font: Base 05
+12:53:32 [Font] Load system font: Baskerville Old Face
+12:53:32 [Font] Load system font: Bauhaus 93
+12:53:32 [Font] Load system font: Bell MT
+12:53:32 [Font] Load system font: Bell MT Bold
+12:53:32 [Font] Load system font: Bell MT Italic
+12:53:32 [Font] Load system font: Berlin Sans FB
+12:53:32 [Font] Load system font: Berlin Sans FB Demi
+12:53:32 [Font] Load system font: Bernard MT Condensed
+12:53:32 [Font] Load system font: Blackadder ITC
+12:53:32 [Font] Load system font: Bodoni MT
+12:53:32 [Font] Load system font: Bodoni MT Black
+12:53:32 [Font] Load system font: Bodoni MT Condensed
+12:53:32 [Font] Load system font: Bodoni MT Condensed Italic
+12:53:32 [Font] Load system font: Bodoni MT Italic
+12:53:32 [Font] Load system font: Bodoni MT Poster Compressed
+12:53:32 [Font] Load system font: Book Antiqua
+12:53:32 [Font] Load system font: Book Antiqua Italic
+12:53:32 [Font] Load system font: Bookman Old Style
+12:53:32 [Font] Load system font: Bookman Old Style Bold
+12:53:32 [Font] Load system font: Bookman Old Style Bold Italic
+12:53:32 [Font] Load system font: Bookman Old Style Italic
+12:53:32 [Font] Load system font: Bookshelf Symbol 7
+12:53:32 [Font] Load system font: Bradley Hand ITC
+12:53:32 [Font] Load system font: Britannic Bold
+12:53:32 [Font] Load system font: Broadway
+12:53:32 [Font] Load system font: Brush Script MT
+12:53:32 [Font] Load system font: Calibri
+12:53:32 [Font] Load system font: Calibri Bold
+12:53:32 [Font] Load system font: Calibri Bold Italic
+12:53:32 [Font] Load system font: Calibri Italic
+12:53:32 [Font] Load system font: Calibri Light
+12:53:32 [Font] Load system font: Calibri Light Italic
+12:53:32 [Font] Load system font: Californian FB
+12:53:32 [Font] Load system font: Calisto MT
+12:53:32 [Font] Load system font: Calisto MT Bold
+12:53:32 [Font] Load system font: Calisto MT Bold Italic
+12:53:32 [Font] Load system font: Calisto MT Italic
+12:53:32 [Font] Load system font: Cambria
+12:53:32 [Font] Load system font: Cambria Bold
+12:53:32 [Font] Load system font: Cambria Bold Italic
+12:53:32 [Font] Load system font: Cambria Italic
+12:53:32 [Font] Load system font: Cambria Math
+12:53:32 [Font] Load system font: Candara
+12:53:32 [Font] Load system font: Candara Bold
+12:53:32 [Font] Load system font: Candara Bold Italic
+12:53:32 [Font] Load system font: Candara Italic
+12:53:32 [Font] Load system font: Candara Light
+12:53:32 [Font] Load system font: Candara Light Italic
+12:53:32 [Font] Load system font: Castellar
+12:53:32 [Font] Load system font: Caviar Dreams
+12:53:32 [Font] Load system font: Centaur
+12:53:32 [Font] Load system font: Century
+12:53:32 [Font] Load system font: Century Gothic
+12:53:32 [Font] Load system font: Century Gothic Bold
+12:53:32 [Font] Load system font: Century Gothic Bold Italic
+12:53:32 [Font] Load system font: Century Gothic Italic
+12:53:32 [Font] Load system font: Century Schoolbook
+12:53:32 [Font] Load system font: Century Schoolbook Italic
+12:53:32 [Font] Load system font: Chiller
+12:53:32 [Font] Load system font: Colonna MT
+12:53:32 [Font] Load system font: Comic Sans MS
+12:53:32 [Font] Load system font: Comic Sans MS Bold
+12:53:32 [Font] Load system font: Comic Sans MS Bold Italic
+12:53:32 [Font] Load system font: Comic Sans MS Italic
+12:53:32 [Font] Load system font: Consolas
+12:53:32 [Font] Load system font: Consolas Bold
+12:53:32 [Font] Load system font: Consolas Bold Italic
+12:53:32 [Font] Load system font: Consolas Italic
+12:53:32 [Font] Load system font: Constantia
+12:53:32 [Font] Load system font: Constantia Bold
+12:53:32 [Font] Load system font: Constantia Bold Italic
+12:53:32 [Font] Load system font: Constantia Italic
+12:53:32 [Font] Load system font: Cooper Black
+12:53:32 [Font] Load system font: Copperplate Gothic Bold
+12:53:32 [Font] Load system font: Copperplate Gothic Light
+12:53:32 [Font] Load system font: Corbel
+12:53:32 [Font] Load system font: Corbel Bold
+12:53:32 [Font] Load system font: Corbel Bold Italic
+12:53:32 [Font] Load system font: Corbel Italic
+12:53:32 [Font] Load system font: Corbel Light
+12:53:32 [Font] Load system font: Corbel Light Italic
+12:53:32 [Font] Load system font: Courier New
+12:53:32 [Font] Load system font: Courier New Bold
+12:53:32 [Font] Load system font: Courier New Bold Italic
+12:53:32 [Font] Load system font: Courier New Italic
+12:53:32 [Font] Load system font: Curlz MT
+12:53:32 [Font] Load system font: DejaVu Serif
+12:53:32 [Font] Load system font: Droid Sans
+12:53:32 [Font] Load system font: Dubai
+12:53:32 [Font] Load system font: Dubai Light
+12:53:32 [Font] Load system font: Dubai Medium
+12:53:32 [Font] Load system font: Ebrima
+12:53:32 [Font] Load system font: Ebrima Bold
+12:53:32 [Font] Load system font: Edwardian Script ITC
+12:53:32 [Font] Load system font: Elephant
+12:53:32 [Font] Load system font: Elephant Italic
+12:53:32 [Font] Load system font: Engravers MT
+12:53:32 [Font] Load system font: Eras Bold ITC
+12:53:32 [Font] Load system font: Eras Demi ITC
+12:53:32 [Font] Load system font: Eras Light ITC
+12:53:32 [Font] Load system font: Eras Medium ITC
+12:53:32 [Font] Load system font: Exo
+12:53:32 [Font] Load system font: Felix Titling
+12:53:32 [Font] Load system font: Fira Sans
+12:53:32 [Font] Load system font: Footlight MT Light
+12:53:32 [Font] Load system font: Forte
+12:53:32 [Font] Load system font: Franklin Gothic Book
+12:53:32 [Font] Load system font: Franklin Gothic Book Italic
+12:53:32 [Font] Load system font: Franklin Gothic Demi
+12:53:32 [Font] Load system font: Franklin Gothic Demi Cond
+12:53:32 [Font] Load system font: Franklin Gothic Demi Italic
+12:53:32 [Font] Load system font: Franklin Gothic Heavy
+12:53:32 [Font] Load system font: Franklin Gothic Heavy Italic
+12:53:32 [Font] Load system font: Franklin Gothic Medium
+12:53:32 [Font] Load system font: Franklin Gothic Medium Cond
+12:53:32 [Font] Load system font: Franklin Gothic Medium Italic
+12:53:32 [Font] Load system font: Freestyle Script
+12:53:32 [Font] Load system font: French Script MT
+12:53:32 [Font] Load system font: Gabriola
+12:53:32 [Font] Load system font: Gadugi
+12:53:32 [Font] Load system font: Gadugi Bold
+12:53:32 [Font] Load system font: Garamond
+12:53:32 [Font] Load system font: Garamond Bold
+12:53:32 [Font] Load system font: Garamond Italic
+12:53:32 [Font] Load system font: Georgia
+12:53:32 [Font] Load system font: Georgia Bold
+12:53:32 [Font] Load system font: Georgia Bold Italic
+12:53:32 [Font] Load system font: Georgia Italic
+12:53:32 [Font] Load system font: Gigi
+12:53:32 [Font] Load system font: Gill Sans MT
+12:53:32 [Font] Load system font: Gill Sans MT Condensed
+12:53:32 [Font] Load system font: Gill Sans MT Ext Condensed Bold
+12:53:32 [Font] Load system font: Gill Sans Ultra Bold
+12:53:32 [Font] Load system font: Gill Sans Ultra Bold Condensed
+12:53:32 [Font] Load system font: Gloucester MT Extra Condensed
+12:53:32 [Font] Load system font: Goudy Old Style
+12:53:32 [Font] Load system font: Goudy Old Style Bold
+12:53:32 [Font] Load system font: Goudy Old Style Italic
+12:53:32 [Font] Load system font: Goudy Stout
+12:53:32 [Font] Load system font: Haettenschweiler
+12:53:32 [Font] Load system font: Harlow Solid Italic
+12:53:32 [Font] Load system font: Harrington
+12:53:32 [Font] Load system font: High Tower Text
+12:53:32 [Font] Load system font: High Tower Text Italic
+12:53:32 [Font] Load system font: HoloLens MDL2 Assets
+12:53:32 [Font] Load system font: Impact
+12:53:32 [Font] Load system font: Imprint MT Shadow
+12:53:32 [Font] Load system font: Informal Roman
+12:53:32 [Font] Load system font: Ink Free
+12:53:32 [Font] Load system font: Javanese Text
+12:53:32 [Font] Load system font: Jokerman
+12:53:32 [Font] Load system font: Juice ITC
+12:53:32 [Font] Load system font: Kristen ITC
+12:53:32 [Font] Load system font: Kunstler Script
+12:53:32 [Font] Load system font: Lato
+12:53:32 [Font] Load system font: Leelawadee UI
+12:53:32 [Font] Load system font: Leelawadee UI Semilight
+12:53:32 [Font] Load system font: Lucida Bright
+12:53:32 [Font] Load system font: Lucida Bright Italic
+12:53:32 [Font] Load system font: Lucida Calligraphy
+12:53:32 [Font] Load system font: Lucida Console
+12:53:32 [Font] Load system font: Lucida Fax
+12:53:32 [Font] Load system font: Lucida Fax Italic
+12:53:32 [Font] Load system font: Lucida Handwriting
+12:53:32 [Font] Load system font: Lucida Sans
+12:53:32 [Font] Load system font: Lucida Sans Italic
+12:53:32 [Font] Load system font: Lucida Sans Typewriter
+12:53:32 [Font] Load system font: Lucida Sans Typewriter Bold
+12:53:32 [Font] Load system font: Lucida Sans Unicode
+12:53:32 [Font] Load system font: Magneto
+12:53:32 [Font] Load system font: Maiandra GD
+12:53:32 [Font] Load system font: Malgun Gothic
+12:53:32 [Font] Load system font: Malgun Gothic Bold
+12:53:32 [Font] Load system font: Malgun Gothic Semilight
+12:53:32 [Font] Load system font: Marlett
+12:53:32 [Font] Load system font: Matura MT Script Capitals
+12:53:32 [Font] Load system font: Microsoft Himalaya
+12:53:32 [Font] Load system font: Microsoft JhengHei
+12:53:32 [Font] Load system font: Microsoft JhengHei Bold
+12:53:32 [Font] Load system font: Microsoft JhengHei Light
+12:53:32 [Font] Load system font: Microsoft JhengHei UI
+12:53:32 [Font] Load system font: Microsoft JhengHei UI Bold
+12:53:32 [Font] Load system font: Microsoft JhengHei UI Light
+12:53:32 [Font] Load system font: Microsoft New Tai Lue
+12:53:32 [Font] Load system font: Microsoft New Tai Lue Bold
+12:53:32 [Font] Load system font: Microsoft PhagsPa
+12:53:32 [Font] Load system font: Microsoft PhagsPa Bold
+12:53:32 [Font] Load system font: Microsoft Sans Serif
+12:53:32 [Font] Load system font: Microsoft Tai Le
+12:53:32 [Font] Load system font: Microsoft Tai Le Bold
+12:53:32 [Font] Load system font: Microsoft YaHei
+12:53:32 [Font] Load system font: Microsoft YaHei Bold
+12:53:32 [Font] Load system font: Microsoft YaHei Light
+12:53:32 [Font] Load system font: Microsoft YaHei UI
+12:53:32 [Font] Load system font: Microsoft YaHei UI Bold
+12:53:32 [Font] Load system font: Microsoft YaHei UI Light
+12:53:32 [Font] Load system font: Microsoft Yi Baiti
+12:53:32 [Font] Load system font: MingLiU_HKSCS-ExtB
+12:53:32 [Font] Load system font: MingLiU-ExtB
+12:53:32 [Font] Load system font: Mistral
+12:53:32 [Font] Load system font: Modern No. 20
+12:53:32 [Font] Load system font: Mongolian Baiti
+12:53:32 [Font] Load system font: Monotype Corsiva
+12:53:32 [Font] Load system font: MS Gothic
+12:53:32 [Font] Load system font: MS Outlook
+12:53:32 [Font] Load system font: MS PGothic
+12:53:32 [Font] Load system font: MS Reference Sans Serif
+12:53:32 [Font] Load system font: MS Reference Specialty
+12:53:32 [Font] Load system font: MS UI Gothic
+12:53:32 [Font] Load system font: MT Extra
+12:53:32 [Font] Load system font: MV Boli
+12:53:32 [Font] Load system font: Myanmar Text
+12:53:32 [Font] Load system font: Myanmar Text Bold
+12:53:32 [Font] Load system font: Niagara Engraved
+12:53:32 [Font] Load system font: Niagara Solid
+12:53:32 [Font] Load system font: NimbusSanL
+12:53:32 [Font] Load system font: Nirmala UI
+12:53:32 [Font] Load system font: Nirmala UI Bold
+12:53:32 [Font] Load system font: Nirmala UI Semilight
+12:53:32 [Font] Load system font: Noto Sans
+12:53:32 [Font] Load system font: NSimSun
+12:53:32 [Font] Load system font: NVIDIA Sans
+12:53:32 [Font] Load system font: NVIDIA Sans Light
+12:53:32 [Font] Load system font: NVIDIA Sans Light Italic
+12:53:32 [Font] Load system font: NVIDIA Sans Medium
+12:53:32 [Font] Load system font: NVIDIA Sans Medium Italic
+12:53:32 [Font] Load system font: OCR A Extended
+12:53:32 [Font] Load system font: Old English Text MT
+12:53:32 [Font] Load system font: Onyx
+12:53:32 [Font] Load system font: Open Sans
+12:53:32 [Font] Load system font: Palace Script MT
+12:53:32 [Font] Load system font: Palatino Linotype
+12:53:32 [Font] Load system font: Palatino Linotype Bold
+12:53:32 [Font] Load system font: Palatino Linotype Bold Italic
+12:53:32 [Font] Load system font: Palatino Linotype Italic
+12:53:32 [Font] Load system font: Papyrus
+12:53:32 [Font] Load system font: Parchment
+12:53:32 [Font] Load system font: Perpetua
+12:53:32 [Font] Load system font: Perpetua Titling MT
+12:53:32 [Font] Load system font: Play
+12:53:32 [Font] Load system font: Playbill
+12:53:32 [Font] Load system font: PMingLiU-ExtB
+12:53:32 [Font] Load system font: Poor Richard
+12:53:32 [Font] Load system font: Pristina
+12:53:32 [Font] Load system font: Quicksand
+12:53:32 [Font] Load system font: Rage Italic
+12:53:32 [Font] Load system font: Raleway
+12:53:32 [Font] Load system font: Ravie
+12:53:32 [Font] Load system font: Roboto Slab
+12:53:32 [Font] Load system font: Rockwell
+12:53:32 [Font] Load system font: Rockwell Bold
+12:53:32 [Font] Load system font: Rockwell Bold Italic
+12:53:32 [Font] Load system font: Rockwell Condensed
+12:53:32 [Font] Load system font: Rockwell Extra Bold
+12:53:32 [Font] Load system font: Rockwell Italic
+12:53:32 [Font] Load system font: Sans Serif Collection
+12:53:32 [Font] Load system font: Script MT Bold
+12:53:32 [Font] Load system font: Segoe Fluent Icons
+12:53:32 [Font] Load system font: Segoe MDL2 Assets
+12:53:32 [Font] Load system font: Segoe Print
+12:53:32 [Font] Load system font: Segoe Print Bold
+12:53:32 [Font] Load system font: Segoe Script
+12:53:32 [Font] Load system font: Segoe Script Bold
+12:53:32 [Font] Load system font: Segoe UI
+12:53:32 [Font] Load system font: Segoe UI Black
+12:53:32 [Font] Load system font: Segoe UI Bold
+12:53:32 [Font] Load system font: Segoe UI Bold Italic
+12:53:32 [Font] Load system font: Segoe UI Emoji
+12:53:32 [Font] Load system font: Segoe UI Historic
+12:53:32 [Font] Load system font: Segoe UI Italic
+12:53:32 [Font] Load system font: Segoe UI Light
+12:53:32 [Font] Load system font: Segoe UI Semibold
+12:53:32 [Font] Load system font: Segoe UI Semibold Italic
+12:53:32 [Font] Load system font: Segoe UI Semilight
+12:53:32 [Font] Load system font: Segoe UI Symbol
+12:53:32 [Font] Load system font: Segoe UI Variable Display
+12:53:32 [Font] Load system font: Segoe UI Variable Display Light
+12:53:32 [Font] Load system font: Segoe UI Variable Display Semib
+12:53:32 [Font] Load system font: Segoe UI Variable Display Semil
+12:53:32 [Font] Load system font: Segoe UI Variable Small
+12:53:32 [Font] Load system font: Segoe UI Variable Small Light
+12:53:32 [Font] Load system font: Segoe UI Variable Small Semibol
+12:53:32 [Font] Load system font: Segoe UI Variable Small Semilig
+12:53:32 [Font] Load system font: Segoe UI Variable Text
+12:53:32 [Font] Load system font: Segoe UI Variable Text Light
+12:53:32 [Font] Load system font: Segoe UI Variable Text Semibold
+12:53:32 [Font] Load system font: Segoe UI Variable Text Semiligh
+12:53:32 [Font] Load system font: Showcard Gothic
+12:53:32 [Font] Load system font: SimSun
+12:53:32 [Font] Load system font: SimSun-ExtB
+12:53:32 [Font] Load system font: Sitka Banner
+12:53:32 [Font] Load system font: Sitka Banner Semibold
+12:53:32 [Font] Load system font: Sitka Display
+12:53:32 [Font] Load system font: Sitka Display Semibold
+12:53:32 [Font] Load system font: Sitka Heading
+12:53:32 [Font] Load system font: Sitka Heading Semibold
+12:53:32 [Font] Load system font: Sitka Small
+12:53:32 [Font] Load system font: Sitka Small Semibold
+12:53:32 [Font] Load system font: Sitka Subheading
+12:53:32 [Font] Load system font: Sitka Subheading Semibold
+12:53:32 [Font] Load system font: Sitka Text
+12:53:32 [Font] Load system font: Sitka Text Semibold
+12:53:32 [Font] Load system font: Snap ITC
+12:53:32 [Font] Load system font: Stencil
+12:53:32 [Font] Load system font: Sylfaen
+12:53:32 [Font] Load system font: Symbol
+12:53:32 [Font] Load system font: Tahoma
+12:53:32 [Font] Load system font: Tahoma Bold
+12:53:32 [Font] Load system font: Tempus Sans ITC
+12:53:32 [Font] Load system font: Times New Roman
+12:53:32 [Font] Load system font: Times New Roman Bold
+12:53:32 [Font] Load system font: Times New Roman Bold Italic
+12:53:32 [Font] Load system font: Times New Roman Italic
+12:53:32 [Font] Load system font: Trebuchet MS
+12:53:32 [Font] Load system font: Trebuchet MS Bold
+12:53:32 [Font] Load system font: Trebuchet MS Bold Italic
+12:53:32 [Font] Load system font: Trebuchet MS Italic
+12:53:32 [Font] Load system font: Tw Cen MT
+12:53:32 [Font] Load system font: Tw Cen MT Condensed
+12:53:32 [Font] Load system font: Tw Cen MT Condensed Extra Bold
+12:53:32 [Font] Load system font: Ubuntu
+12:53:32 [Font] Load system font: Verdana
+12:53:32 [Font] Load system font: Verdana Bold
+12:53:32 [Font] Load system font: Verdana Bold Italic
+12:53:32 [Font] Load system font: Verdana Italic
+12:53:32 [Font] Load system font: Viner Hand ITC
+12:53:32 [Font] Load system font: Vivaldi
+12:53:32 [Font] Load system font: Vladimir Script
+12:53:32 [Font] Load system font: Vollkorn
+12:53:32 [Font] Load system font: Webdings
+12:53:32 [Font] Load system font: Wide Latin
+12:53:32 [Font] Load system font: Wingdings
+12:53:32 [Font] Load system font: Wingdings 2
+12:53:32 [Font] Load system font: Wingdings 3
+12:53:32 [Font] Load system font: Yu Gothic
+12:53:32 [Font] Load system font: Yu Gothic Light
+12:53:32 [Font] Load system font: Yu Gothic Medium
+12:53:32 [Font] Load system font: Yu Gothic UI
+12:53:32 [Font] Load system font: Yu Gothic UI Light
+12:53:32 [Font] Load system font: Yu Gothic UI Semibold
+12:53:32 [Font] Load system font: Yu Gothic UI Semilight
+12:53:32 [Font] Load system font: ZWAdobeF
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 172158.
+Total: 54.940000 ms (FindLiveObjects: 10.169900 ms CreateObjectMapping: 2.659700 ms MarkObjects: 41.826900 ms  DeleteObjects: 0.283000 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+12:53:32 [Event] TextureImageEvent [Path: C:/Users/Asier/Desktop/tabletop-game/assets/images/./missions/default.jpg, Requested: True, IsProcessing: True, TimeMs: 0, Priority: 0, Error:  ]
+12:53:32 [Event] TextureImageEvent [Path: C:/Users/Asier/Desktop/4181259075_Space_missions__simple_minimalistic___cover_of_a_card_maze (1).png, Requested: True, IsProcessing: True, TimeMs: 0, Priority: 0, Error:  ]
+12:53:32 [Event] TextureImageEvent [Path: C:/Users/Asier/Desktop/tabletop-game/assets/images/./team/default.png, Requested: True, IsProcessing: True, TimeMs: 0, Priority: 0, Error:  ]
+12:53:32 [Event] TextureImageEvent [Path: C:/Users/Asier/Desktop/llave.png, Requested: True, IsProcessing: True, TimeMs: 0, Priority: 0, Error:  ]
+12:53:32 [Event] TextureImageEvent [Path: C:/Users/Asier/Desktop/tabletop-game/assets/images/./missions/mission1.jpg, Requested: True, IsProcessing: True, TimeMs: 0, Priority: 0, Error:  ]
+12:53:32 [Event] TextureImageEvent [Path: C:/Users/Asier/Desktop/tabletop-game/assets/images/./missions/default.jpg, Requested: False, IsProcessing: False, TimeMs: 12, Priority: 0, Error:  ]
+12:53:32 [Event] TextureImageEvent [Path: C:/Users/Asier/Desktop/tabletop-game/assets/images/./missions/mission1.jpg, Requested: False, IsProcessing: False, TimeMs: 12, Priority: 0, Error:  ]
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 172162.
+Total: 56.388800 ms (FindLiveObjects: 10.881800 ms CreateObjectMapping: 1.885400 ms MarkObjects: 43.130600 ms  DeleteObjects: 0.490500 ms)
+12:53:32 [Event] TextureImageEvent [Path: C:/Users/Asier/Desktop/4181259075_Space_missions__simple_minimalistic___cover_of_a_card_maze (1).png, Requested: False, IsProcessing: False, TimeMs: 72, Priority: 0, Error:  ]
+12:53:32 [Event] TextureImageEvent [Path: C:/Users/Asier/Desktop/tabletop-game/assets/images/./team/default.png, Requested: False, IsProcessing: False, TimeMs: 73, Priority: 0, Error:  ]
+12:53:32 [Event] TextureImageEvent [Path: C:/Users/Asier/Desktop/llave.png, Requested: False, IsProcessing: False, TimeMs: 89, Priority: 0, Error:  ]
+12:53:32 [PoolAsync] Toggle warmup service: True
+12:53:32 [Event] NotificationMessageEvent [Type: Info (-1), Title: Project loaded]
+12:53:32 [History] Push: UIScreenSwitch
+12:53:32 [Event] ScreenSwitchEvent [Screen: Collection]
+12:53:32 [Analytics] Hit screen request
+12:53:32 [AnalyticsGA4] Hit screen request
+12:53:32 [History] Clear
+12:53:32 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:32 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:32 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:32 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:32 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:32 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:33 [Event] TextureRenderEvent [Blueprint: Missions, Side: Front, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:33 [Event] TextureRenderEvent [Blueprint: Missions, Side: Back, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:33 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:33 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:33 [Event] TextureRenderEvent [Blueprint: Resources, Side: Front, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:33 [Event] TextureRenderEvent [Blueprint: Resources, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:33 [Event] TextureRenderEvent [Blueprint: Team, Side: Front, TimeMs: 4, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:33 [Event] TextureRenderEvent [Blueprint: Team, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+12:53:33 [Event] ScreenSwitchFinishEvent
+12:53:38 [Analytics] Sending cached request (Time delta: 9)
+12:53:38 [Analytics] Sending cached request (Time delta: 9)
+12:53:38 [AnalyticsGA4] Sending cached request (Time delta: 9000)
+12:53:51 [PoolAsync] Target pool capacity 2000 reached for ImportExcel_DetailMapping prefab
+12:54:01 [PoolAsync] Target pool capacity 1000 reached for ImportCSV_DetailMapping prefab
+12:55:44 [Event] CursorScreenExitEvent
+12:55:45 [Event] CursorScreenExitEvent
+12:56:09 [Event] CursorScreenExitEvent
+12:56:44 [Reload] Changes detected and project is not dirty, reloading project soon ...
+12:56:44 [Reload] Reloading project ...
+12:56:44 [Analytics] Event request: Project/Work Time:6
+12:56:44 [AnalyticsGA4] Event request: project_work_time:6
+12:56:44 [Analytics] Event request: Project/Idle Time:185
+12:56:44 [AnalyticsGA4] Event request: project_idle_time:185
+12:56:44 [Analytics] Event request: Project/Total Time:191
+12:56:44 [AnalyticsGA4] Event request: project_total_time:191
+12:56:44 [Analytics] Event request: Project/Close
+12:56:44 [AnalyticsGA4] Event request: project_close
+12:56:44 [Project] Close (ignore unsaved: True)
